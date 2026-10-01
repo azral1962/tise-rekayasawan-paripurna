@@ -1,4 +1,198 @@
 # Instrumen Penelitian
 
-Sertakan kuesioner, pedoman wawancara, formulir survei, rubrik observasi, atau
-instrumen pengukuran lain. Jelaskan versi instrumen dan cara penggunaannya.
+## Lembar Kerja Penelitian dan Rekayasa
+
+Lembar berikut merupakan instrumen perencanaan dari buku, belum merupakan instrumen pengukuran yang divalidasi.
+
+### Lembar kerja penelitian dan rekayasa
+
+Lembar ini merupakan template yang dapat diisi. Kolom kosong sengaja disediakan untuk keputusan proyek, bukan data yang belum dilengkapi pada materi buku. Gunakan satu topik yang sama untuk seluruh lembar agar ketertelusuran dapat diperiksa.
+
+### Lembar 1: misi dan pihak
+
+| Elemen | Isian proyek |
+|---|---|
+| Kebutuhan dasar atau aspirasi | |
+| Keadaan awal dan buktinya | |
+| Keadaan yang diinginkan | |
+| USER, SOURCE, OPERATOR, REGULATOR | |
+| Batas finansial, sosial, operasional, lingkungan | |
+| Hasil misi yang akan diukur | |
+| Pertumbuhan kapabilitas yang akan diukur | |
+
+: Lembar 1: misi dan pihak — tabel 1 {#tbl-buku-5-1}
+
+
+### Lembar 2: PICOC
+
+| Unsur | Rumusan | Implikasi pengujian |
+|---|---|---|
+| Population | | |
+| Intervention | | |
+| Comparison | | |
+| Outcome | | |
+| Context | | |
+
+: Lembar 2: PICOC — tabel 1 {#tbl-buku-6-1}
+
+Pertanyaan utama: ______________________________________________________
+
+Alasan pilihan metodologi: _______________________________________________
+
+### Lembar 3: EASTF
+
+| Lapisan | Pertanyaan | Kontribusi | Bukti |
+|---|---|---|---|
+| E | | | |
+| A | | | |
+| S | | | |
+| T | | | |
+| F | | | |
+
+: Lembar 3: EASTF — tabel 1 {#tbl-buku-7-1}
+
+Kontribusi utama berada pada: ____________________________________________
+
+Jembatan antarlapisan yang belum terbukti: _________________________________
+
+### Lembar 4: Q-Cycle
+
+| Kebutuhan Q1 | Fungsi Q2 | Komponen/peran Q3 | Uji dan bukti Q4 |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+
+: Lembar 4: Q-Cycle — tabel 1 {#tbl-buku-8-1}
+
+Gangguan untuk PUDAL: __________________________________________________
+
+Masalah struktural untuk Q-Cycle berikutnya: ________________________________
+
+### Lembar 5: perwujudan dan kesiapan
+
+| Dimensi | Posisi saat ini | Gerbang berikutnya | Bukti yang diperlukan |
+|---|---|---|---|
+| Tahap inovasi | | | |
+| Kematangan artefak | | | |
+| Kekuatan kontribusi ilmiah | | | |
+| Pertumbuhan kapabilitas manusia | | | |
+
+: Lembar 5: perwujudan dan kesiapan — tabel 1 {#tbl-buku-9-1}
+
+
+### Lembar 6: triune intelligence dan keputusan
+
+| Keputusan | Masukan AI | Penilaian manusia | Otoritas/proses kolektif | Jalur koreksi |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+
+: Lembar 6: triune intelligence dan keputusan — tabel 1 {#tbl-buku-10-1}
+
+
+### Lembar 7: klaim dan bukti
+
+| Klaim | Data/metode | Status | Batas berlaku | Pekerjaan berikutnya |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+: Lembar 7: klaim dan bukti — tabel 1 {#tbl-buku-11-1}
+
+
+### Lembar 8: komunikasi visual
+
+| Pertanyaan penjelasan | Diagram/tabel/plot | Sumber dan status data | Inferensi yang perlu dibatasi |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+: Lembar 8: komunikasi visual — tabel 1 {#tbl-buku-12-1}
+
+Periksa apakah semua istilah pada visual mempunyai definisi, setiap klaim mempunyai bukti, serta setiap kebutuhan mempunyai ukuran. Minta rekan menguji satu hubungan yang paling lemah.
+
+## Latihan: Riset, desain, dan engineering
+
+### Latihan
+
+Klasifikasikan tiga tujuan penelitian Anda sebagai riset, desain, atau engineering. Sebutkan keluaran dan bukti untuk masing-masing. Kemudian pilih satu klaim yang terlalu luas dan tuliskan ulang sesuai kondisi yang benar-benar diuji. Contoh jawaban tersedia pada lampiran kunci latihan.
+
+## Latihan: Metode, metodologi, dan PICOC
+
+### Latihan
+
+Susun tabel PICOC untuk tutor AI yang membantu mahasiswa memahami pemrograman. Nyatakan satu ukuran hasil misi dan satu ukuran pertumbuhan kemampuan. Pilih baseline yang memungkinkan kesempatan belajar dibandingkan secara adil. Jelaskan satu faktor konteks yang dapat mengubah hasil.
+
+## Latihan: DRM dan DSRM dalam penelitian rekayasa
+
+### Latihan
+
+Untuk riset metode perencanaan produksi pedagang, tentukan penekanan DRM atau DSRM. Tuliskan tiga bukti yang akan dikumpulkan. Jelaskan kontribusi yang dapat tetap bernilai meskipun artefak belum siap dirilis, serta klaim operasional yang belum boleh dibuat.
+
+## Latihan: TISE dan tiga sumber kecerdasan
+
+### Latihan
+
+Pilih satu keputusan dalam layanan publik. Tentukan kontribusi manusia, kolektif, dan AI, termasuk siapa yang menyetujui tindakan. Gambarkan jalur koreksi ketika rekomendasi salah. Jelaskan bagaimana bukti akan menunjukkan bahwa pengguna tetap mempunyai kendali.
+
+## Latihan: Misi, PSKVE, RMOV, dan PUDAL
+
+### Latihan
+
+Pilih layanan yang Anda kenal. Isi RMOV untuk dua pelaku, identifikasi empat peran, dan tuliskan satu ukuran untuk tiap dimensi PSKVE. Kemudian susun catatan PUDAL untuk satu gangguan: data apa yang diamati, diagnosis apa yang dibuat, siapa menyetujui tindakan, dan apa yang dipelajari?
+
+## Latihan: Q-Cycle dan ketertelusuran bukti
+
+### Latihan
+
+Buat matriks ketertelusuran untuk tiga kebutuhan. Pastikan satu kebutuhan menyangkut kemampuan manusia. Tentukan satu gangguan yang dapat ditangani PUDAL dan satu masalah yang memerlukan Q-Cycle baru. Jelaskan bukti yang membedakan keduanya.
+
+## Latihan: EASTF sebagai lapisan research question
+
+### Latihan
+
+Tuliskan lima pertanyaan untuk satu topik, masing-masing pada E, A, S, T, dan F. Pilih satu sebagai kontribusi utama. Nyatakan bukti yang sudah tersedia dan jembatan antarlapisan yang belum terbukti. Beri alasan mengapa cakupan penelitian realistis.
+
+## Latihan: Tahapan inovasi dan kematangan artefak
+
+### Latihan
+
+Nyatakan posisi proyek Anda pada empat dimensi. Tentukan gerbang berikutnya, bukti yang diperlukan, dan satu klaim yang belum boleh dibuat. Jelaskan bagaimana data realisasi akan memperbarui model virtual.
+
+## Latihan: Artefak cerdas, mencerdaskan, dan memampukan
+
+### Latihan
+
+Rancang satu fitur yang mencerdaskan pada sistem pilihan Anda. Nyatakan mekanisme, ukuran, pembanding, dan waktu pengujian. Jelaskan satu kemungkinan hasil yang menunjukkan peningkatan kinerja tanpa pertumbuhan kapabilitas, serta perubahan desain yang akan Anda pertimbangkan.
+
+## Latihan: TISE 1.0, 2.0, dan 3.0
+
+### Latihan
+
+Untuk kasus Anda, tuliskan satu research question pada setiap versi. Pilih satu yang dapat diuji sekarang. Sebutkan prasyarat versi sebelumnya yang harus sudah memadai dan bukti yang belum tersedia untuk menyatakan kemampuan versi berikutnya.
+
+## Latihan: Profesi rekayasawan paripurna
+
+### Latihan
+
+Susun satu entri portofolio proyek Anda. Identifikasi keahlian utama dan kebutuhan kolaborasi. Jelaskan tanggung jawab yang masih berlaku setelah prototipe diserahkan kepada pengguna serta bukti bahwa artefak semakin memampukan mereka.
+
+## Latihan: Studi terpadu: ekosistem pangan kampus
+
+### Latihan
+
+Ubah panjang lonjakan permintaan atau kapasitas minimum. Tentukan kebijakan yang memberi cakupan lebih baik dan biaya sisa lebih rendah. Apakah peringkat kebijakan berubah? Kemudian tuliskan satu research question yang memerlukan data manusia dan belum dijawab oleh simulator.
+
+## Latihan: Rancangan penelitian dan paket bukti
+
+### Latihan
+
+Susun paket satu halaman: PICOC, lapisan kontribusi, pilihan metodologi, empat keputusan Q-Cycle, tahap inovasi, dan tiga klaim beserta bukti. Minta rekan menilai satu lompatan inferensi yang belum didukung. Revisi rumusan agar dapat ditelaah.
+
+## Latihan: Visual dan tabel sebagai infrastruktur penjelasan
+
+### Latihan
+
+Ambil satu paragraf penjelasan dari proyek Anda. Ubah menjadi diagram dengan caption dan tabel pasangan. Tentukan hubungan yang sebelumnya tersembunyi. Sebutkan satu inferensi yang dapat disalahartikan dari visual tersebut, lalu perbaiki label atau caption.

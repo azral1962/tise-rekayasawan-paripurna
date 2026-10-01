@@ -1,0 +1,12 @@
+/.quarto/
+**/*.quarto_ipynb
+
+/_book/
+/.render-runtime/
+/cover-ganesha.jpg
+/dokumen-itb.aux
+/dokumen-itb.log
+/dokumen-itb.lof
+/dokumen-itb.lot
+/dokumen-itb.toc
+/dokumen-itb.tex

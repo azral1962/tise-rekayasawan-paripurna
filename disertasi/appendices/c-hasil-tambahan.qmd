@@ -1,5 +1,47 @@
 # Hasil Tambahan
 
-Sertakan tabel lengkap, grafik tambahan, keluaran statistik terperinci, atau
-hasil analisis sekunder yang mendukung isi utama tetapi terlalu panjang untuk
-ditempatkan pada Bab Hasil.
+## Contoh Jawaban dan Umpan Balik
+
+Contoh jawaban adalah bahan pedagogis, bukan respons peserta penelitian.
+
+### Contoh jawaban dan umpan balik
+
+Jawaban berikut menunjukkan arah penalaran. Topik serta kondisi berbeda dapat menghasilkan jawaban lain yang tepat. Nilai jawaban berdasarkan alasan dan ketertelusuran, bukan kesamaan kata.
+
+| Bab | Contoh jawaban inti | Hal yang perlu diperiksa |
+|---|---|---|
+| 1 | Pola permintaan merupakan pertanyaan riset. Pemilihan prapesan merupakan desain. Uji kapasitas merupakan engineering. | Tujuan, keluaran, dan bukti dibedakan |
+| 2 | P mahasiswa pemula, I tutor dengan petunjuk, C materi sama dengan bantuan yang dijelaskan, O hasil tugas serta transfer, C pembelajaran mandiri. | Kesempatan belajar dan pengalaman awal |
+| 3 | DRM sesuai jika fokus memahami serta memperbaiki cara perencanaan. DSRM sesuai jika fokus artefak dukungan keputusan. | Pilihan dijustifikasi melalui RQ |
+| 4 | AI menghitung alternatif, pedagang menilai kelayakan, proses kolektif mengatur kewenangan. | Jalur koreksi dan tanggung jawab |
+| 5 | Permintaan naik diamati, kapasitas dianalisis, perubahan produksi disetujui, hasil dicatat, aturan diperbaiki. | Learn mempunyai perubahan yang jelas |
+| 6 | Penyesuaian jadwal rutin masuk PUDAL. Hilangnya sumber pasokan tetap dapat memerlukan arsitektur baru melalui Q-Cycle. | Mengapa arsitektur lama tidak cukup |
+| 7 | Lima RQ memiliki outcome berbeda. Kontribusi utama dapat berada pada S tanpa klaim E yang sudah terbukti. | Bukti antarlapisan belum naik otomatis |
+| 8 | Posisi S/Q4/prototipe digital twin/lab demo memerlukan pilot sebelum klaim manfaat lapangan. | Keempat dimensi terpisah |
+| 9 | Fitur penjelasan diuji melalui pemahaman serta transfer. Hasil tugas dapat naik tanpa kemampuan pengguna meningkat. | Waktu, instrumen, aksesibilitas |
+| 10 | 1.0 menilai layanan, 2.0 menilai kemampuan, 3.0 menilai penciptaan ekosistem baru. | Prasyarat versi terdahulu |
+| 11 | Portofolio menyebut misi, keputusan, tahap, bukti, batas, dan perbaikan. | Tanggung jawab setelah penyerahan |
+| 12 | Ubah skenario dan hitung ulang. Peringkat kebijakan bergantung pada kondisi. | Data sintetik tidak menjadi klaim empiris |
+| 13 | Klaim yang belum mempunyai data ditulis sebagai hipotesis. | Instrumen serta metode menjawab RQ |
+| 14 | Diagram menjelaskan mekanisme, tabel memetakan definisi, caption membatasi inferensi. | Arti panah dan sumber data |
+
+: Contoh jawaban dan umpan balik — tabel 1 {#tbl-buku-1-1}
+
+
+### Contoh paket satu halaman
+
+Misi: meningkatkan akses pangan sambil membantu pedagang belajar menilai produksi. RQ: apakah rekomendasi yang dapat dijelaskan dan dikoreksi meningkatkan cakupan serta kemampuan keputusan dibandingkan praktik biasa? Lapisan utama: A dan S. Tahap: model dan pilot. Metodologi: DSRM untuk artefak, dengan studi baseline untuk memahami konteks. Ukuran: cakupan, sisa, pendapatan, pemahaman, dan transfer. Bukti: data operasi, penilaian tugas, dan wawancara. Batas: satu kantin, periode yang dinyatakan, serta kapasitas yang diukur.
+
+### Contoh kritik yang membangun
+
+| Pernyataan | Kritik | Revisi yang dapat dilakukan |
+|---|---|---|
+| AI meningkatkan kesejahteraan | Outcome dan mekanisme belum jelas | Tetapkan kebutuhan, aspirasi, dan ukuran |
+| Model telah tervalidasi | Sasaran serta pembanding tidak disebut | Nyatakan data dan kondisi validasi |
+| Digital twin membuktikan manfaat | Simulasi hanya sebagian mekanisme | Tambahkan bukti penggunaan nyata |
+| Pengguna puas berarti semakin mampu | Kepuasan bukan ukuran kapabilitas langsung | Tambahkan pemahaman dan transfer |
+| Sistem siap digunakan semua orang | Cakupan uji lebih sempit | Batasi lingkup rilis dan rencana perluasan |
+
+: Contoh kritik yang membangun — tabel 1 {#tbl-buku-3-1}
+
+Umpan balik sebaiknya menyebut celah yang spesifik dan tindakan yang dapat dilakukan. Kritik atas klaim bukan kritik atas nilai pribadi peneliti. Kejujuran tentang batas membantu menentukan langkah berikutnya.

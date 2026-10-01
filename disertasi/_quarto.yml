@@ -1,10 +1,14 @@
 project:
   type: itb-quarto-latex
+  resources:
+    - assets
+    - data
+    - scripts
 
 book:
   # Gunakan judul yang ringkas, informatif, dan mencerminkan masalah, metode,
   # atau kontribusi utama penelitian.
-  title: "Judul Tugas Akhir, Tesis, atau Disertasi"
+  title: "Rekayasawan Paripurna: Kerangka TISE untuk Rekayasa yang Cerdas dan Mencerdaskan"
   author:
     - name: "Nama Lengkap Mahasiswa"
   date: "September 2026"
@@ -48,27 +52,40 @@ supervisors:
     nip: "123456789"
 
 abstract-id: |
-  Tuliskan abstrak Bahasa Indonesia dalam satu uraian ringkas yang mencakup
-  konteks, masalah penelitian, tujuan, metode, hasil utama, serta kesimpulan
-  atau kontribusi penelitian.
+  Naskah ini menyusun kerangka Triune-Intelligence Smart Engineering (TISE)
+  untuk menghubungkan hasil misi, kapabilitas manusia, dan kelayakan ekosistem.
+  Materi konseptual dipetakan melalui PICOC, DRM/DSRM, Q-Cycle, EASTF,
+  tahapan inovasi, dan kematangan artefak. Demonstrasi pangan kampus memakai
+  simulasi 30 hari sintetik dengan seed 1962. Kebijakan adaptif menghasilkan
+  cakupan 94,28% dibandingkan 91,51% pada kebijakan tetap, dengan rasio sisa
+  2,61% dibandingkan 2,15%. Hasil menunjukkan pertukaran antarukuran pada
+  skenario ini. Pertumbuhan kapabilitas dan keberlanjutan ekosistem belum
+  diukur; evaluasi lapangan dan longitudinal dirumuskan sebagai tindak lanjut.
 
 keywords-id:
-  # Cantumkan 4–7 istilah yang paling mewakili penelitian.
-  - kata kunci pertama
-  - kata kunci kedua
-  - kata kunci ketiga
-  - kata kunci keempat
+  - TISE
+  - Q-Cycle
+  - EASTF
+  - rekayasa berorientasi kemanusiaan
+  - simulasi sintetik
 
 abstract-en: |
-  Write the English abstract as one concise account of the context, research
-  problem, objective, method, main results, and conclusion or contribution.
+  This manuscript organizes Triune-Intelligence Smart Engineering (TISE)
+  around mission outcomes, human capabilities, and ecosystem viability.
+  Conceptual material connects PICOC, DRM/DSRM, Q-Cycle, EASTF, innovation
+  stages, and artifact maturity. A campus food demonstration uses a
+  30-day synthetic simulation with seed 1962. The adaptive policy achieves
+  94.28% demand coverage versus 91.51% for the fixed policy, while waste
+  ratios are 2.61% and 2.15%, respectively. These results indicate a
+  trade-off within this scenario. Human capability growth and ecosystem
+  sustainability remain unmeasured and require field and longitudinal evaluation.
 
 keywords-en:
-  # Use 4–7 terms that best represent the study.
-  - first keyword
-  - second keyword
-  - third keyword
-  - fourth keyword
+  - TISE
+  - Q-Cycle
+  - EASTF
+  - human-oriented engineering
+  - synthetic simulation
 
 acknowledgements: |
   Tuliskan kata pengantar dan ucapan terima kasih di sini.
@@ -76,6 +93,8 @@ acknowledgements: |
 format:
   itb-quarto-latex-pdf:
     keep-tex: true
+    include-in-header:
+      - resources/pdf-layout.tex
 
 crossref:
   fig-title: "Gambar"

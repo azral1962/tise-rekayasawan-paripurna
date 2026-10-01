@@ -2,34 +2,26 @@
 
 ## Ringkasan Temuan
 
-Sintesis secara ringkas hasil terpenting tanpa mengulang seluruh pembahasan atau
-memperkenalkan data baru.
+Materi buku telah membentuk kerangka yang menghubungkan tujuan ekosistem dengan keputusan rekayasa dan evaluasi. Demonstrasi produksi memperlihatkan bahwa kebijakan adaptif meningkatkan cakupan dan margin sederhana sekaligus meningkatkan sisa pada skenario yang digunakan.
 
 ## Jawaban atas Pertanyaan Penelitian
 
-Jawab setiap pertanyaan penelitian secara langsung dan berdasarkan bukti yang
-telah disajikan.
-
-- **PP1:** Tuliskan jawaban ringkas.
-- **PP2:** Tuliskan jawaban ringkas.
-- **PP3:** Tuliskan jawaban ringkas jika digunakan.
+- **PP1:** TISE menata misi dan pelaku; Q-Cycle menelusuri kebutuhan sampai bukti; EASTF menyatakan lapisan kontribusi; tahap inovasi dan kematangan menyatakan bentuk serta kesiapan artefak.
+- **PP2:** Pada 30 hari sintetik, adaptif memberi cakupan 94,28% dibandingkan 91,51%, dengan rasio sisa 2,61% dibandingkan 2,15%.
+- **PP3:** Evaluasi memerlukan pengukuran pemahaman, transfer, kendali, kesempatan bertindak, dan kelayakan pelaku sepanjang waktu. Dampak tersebut belum dibuktikan oleh simulasi.
 
 ## Kontribusi Utama
 
-Nyatakan secara eksplisit pengetahuan, metode, model, artefak, atau bukti empiris
-yang baru dari penelitian.
+Kontribusi yang tersedia berupa sintesis kerangka, pemetaan klaim–bukti, dan demonstrasi simulasi terhitung ulang. Status kontribusi ini bersifat konseptual dan pedagogis.
 
 ## Signifikansi
 
-Jelaskan arti penting kontribusi bagi teori, praktik, rekayasa, kebijakan, atau
-pengelolaan sesuai konteks penelitian.
+Kerangka membantu peneliti membedakan keberhasilan teknis, kesiapan artefak, dan pertumbuhan kemampuan manusia, lalu menentukan bukti yang sesuai untuk tiap tujuan.
 
 ## Pekerjaan Selanjutnya
 
-Jelaskan masalah yang masih terbuka, perbaikan yang mungkin dilakukan, dan arah
-penelitian berikutnya berdasarkan keterbatasan yang telah dibahas.
+Kalibrasi model dengan data lapangan, variasikan skenario serta parameter, dan lakukan pilot dengan pembanding yang memadai. Ukur kemampuan manusia secara longitudinal dan evaluasi distribusi biaya, manfaat, serta beban antarpelaku.
 
 ## Pernyataan Penutup
 
-Akhiri dengan pernyataan kuat yang menghubungkan kontribusi penelitian kembali
-ke masalah awal.
+Rekayasa yang cerdas dan mencerdaskan memerlukan rantai bukti dari kebutuhan hingga hasil misi, perkembangan kemampuan manusia, dan kelayakan ekosistem. Materi ini menyediakan struktur untuk membangun serta menguji rantai tersebut.

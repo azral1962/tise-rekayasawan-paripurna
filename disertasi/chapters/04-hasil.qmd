@@ -1,35 +1,28 @@
 # Hasil
 
-Bab ini menyajikan bukti dan temuan penelitian secara faktual. Simpan penafsiran
-mendalam dan alasan pentingnya temuan untuk Bab Pembahasan.
-
 ## Data atau Hasil Eksperimen
 
-Laporkan observasi, pengukuran, keluaran eksperimen, atau hasil implementasi yang
-relevan dengan pertanyaan penelitian.
+Sumber menyediakan keluaran simulasi 30 hari sintetik. Hasil berikut mendemonstrasikan perilaku dua aturan produksi pada satu skenario. Dataset harian dan ringkasan tersedia pada Lampiran Data Tambahan.
 
 ## Penyajian Data
 
-Gunakan tabel, gambar, grafik, atau visualisasi yang paling tepat. Setiap elemen
-harus memiliki label, satuan, keterangan, dan rujukan dari teks.
+![Permintaan, kapasitas, dan produksi pada 30 hari sintetik. Kurva merupakan keluaran kode contoh, bukan data lapangan.](../assets/plots/food-timeseries.png){#fig-food-timeseries}
 
-| Metrik | Baseline | Metode usulan | Perubahan |
-|---|---:|---:|---:|
-| Metrik 1 | 0,00 | 0,00 | 0,00% |
-| Metrik 2 | 0,00 | 0,00 | 0,00% |
+### Hasil yang dapat dihitung ulang
 
-: Contoh penyajian hasil perbandingan {#tbl-hasil}
+{{< include ../includes/simulation-results.qmd >}}
+
+Hasil tersebut hanya berlaku untuk rangkaian permintaan, kapasitas, dan parameter contoh. Model belum mencakup pilihan menu, perilaku prapesan, perubahan harga, proses antrean, atau kemampuan pedagang. Kesimpulan yang sah menyatakan perbedaan kebijakan dalam skenario ini. Keputusan lapangan memerlukan kalibrasi dan pengujian tambahan.
+
+![Perbandingan cakupan permintaan dan rasio sisa dari simulasi sintetik. Definisi penyebut berbeda dan dinyatakan pada label.](../assets/plots/food-outcomes.png){#fig-food-outcomes}
 
 ## Hasil Analisis
 
-Sajikan hasil uji statistik, kinerja model, simulasi, analisis kualitatif, atau
-perbandingan sesuai teknik yang telah dijelaskan pada metodologi.
+Pada skenario ini, cakupan permintaan meningkat dari 91,51% menjadi 94,28% (2,77 poin persentase). Penjualan meningkat 480 porsi dan kekurangan berkurang 480 porsi. Sisa meningkat dari 348 menjadi 437 porsi, sementara margin sederhana meningkat Rp1.545.000. Kebijakan adaptif memperbaiki cakupan dengan konsekuensi sisa yang lebih besar.
 
 ## Temuan Utama
 
-Ringkas temuan yang paling penting. Bedakan hasil yang terukur dari interpretasi
-atau klaim kontribusi.
-
-1. Temuan utama pertama.
-2. Temuan utama kedua.
-3. Temuan utama ketiga jika diperlukan.
+1. Aturan produksi membatasi keluaran sesuai kapasitas harian.
+2. Kebijakan adaptif menghasilkan cakupan dan margin sederhana lebih tinggi pada skenario sintetik ini.
+3. Rasio sisa adaptif juga lebih tinggi, sehingga perbaikan satu ukuran tidak berarti perbaikan semua ukuran.
+4. Pertumbuhan kapabilitas dan keberlanjutan ekosistem belum diukur.

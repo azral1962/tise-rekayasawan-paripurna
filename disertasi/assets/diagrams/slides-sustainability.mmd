@@ -1,0 +1,7 @@
+flowchart LR
+ A["Alternatif tindakan"] --> B{"Layak?"}
+ B -->|Ya| O["Optimasi kinerja"]
+ B -->|Tidak| R["Revisi alternatif"]
+ O --> T["Tindakan dan pemantauan"]
+ R --> A
+ T --> A

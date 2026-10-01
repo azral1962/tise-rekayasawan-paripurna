@@ -1,4 +1,75 @@
 # Data Tambahan
 
-Sertakan dataset tambahan, rincian pengukuran, kamus data, atau informasi
-pendukung yang diperlukan untuk transparansi dan replikasi penelitian.
+## Dataset dan Kamus Data
+
+Data sintetik menggunakan seed 1962 dan horizon 30 hari. CSV [food-synthetic.csv](../data/food-synthetic.csv) memuat hari, permintaan, kapasitas, produksi, dan sisa per kebijakan. JSON [food-summary.json](../data/food-summary.json) memuat total serta rasio hasil. Angka tersebut bukan pengukuran lapangan.
+
+
+## Data Harian Sintetik
+
+$D_t$ adalah permintaan, $K_t$ kapasitas, $Q_t$ produksi, dan $W_t$ sisa; semua dalam porsi. Nama kolom lengkap tetap tersedia dalam CSV.
+
+| Hari | $D_t$ | $K_t$ | $Q_t$ tetap | $W_t$ tetap | $Q_t$ adaptif | $W_t$ adaptif |
+|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 625 | 700 | 550 | 0 | 550 | 0 |
+| 2 | 586 | 700 | 550 | 0 | 602 | 16 |
+| 3 | 600 | 700 | 550 | 0 | 575 | 0 |
+| 4 | 504 | 700 | 550 | 46 | 585 | 81 |
+| 5 | 519 | 700 | 550 | 31 | 518 | 0 |
+| 6 | 463 | 700 | 550 | 87 | 528 | 65 |
+| 7 | 524 | 700 | 550 | 26 | 489 | 0 |
+| 8 | 577 | 700 | 550 | 0 | 532 | 0 |
+| 9 | 609 | 700 | 550 | 0 | 569 | 0 |
+| 10 | 572 | 700 | 550 | 0 | 591 | 19 |
+| 11 | 678 | 700 | 550 | 0 | 565 | 0 |
+| 12 | 660 | 700 | 550 | 0 | 640 | 0 |
+| 13 | 667 | 700 | 550 | 0 | 627 | 0 |
+| 14 | 746 | 700 | 550 | 0 | 632 | 0 |
+| 15 | 609 | 700 | 550 | 0 | 687 | 78 |
+| 16 | 583 | 700 | 550 | 0 | 591 | 8 |
+| 17 | 586 | 700 | 550 | 0 | 573 | 0 |
+| 18 | 521 | 450 | 450 | 0 | 450 | 0 |
+| 19 | 520 | 450 | 450 | 0 | 450 | 0 |
+| 20 | 519 | 450 | 450 | 0 | 450 | 0 |
+| 21 | 534 | 700 | 550 | 16 | 528 | 0 |
+| 22 | 608 | 700 | 550 | 0 | 539 | 0 |
+| 23 | 643 | 700 | 550 | 0 | 591 | 0 |
+| 24 | 579 | 700 | 550 | 0 | 615 | 36 |
+| 25 | 524 | 700 | 550 | 26 | 570 | 46 |
+| 26 | 465 | 700 | 550 | 85 | 532 | 67 |
+| 27 | 519 | 700 | 550 | 31 | 490 | 0 |
+| 28 | 582 | 700 | 550 | 0 | 528 | 0 |
+| 29 | 622 | 700 | 550 | 0 | 572 | 0 |
+| 30 | 579 | 700 | 550 | 0 | 600 | 21 |
+
+: Data lengkap simulasi pangan, 30 hari sintetik, seed 1962 {#tbl-data-harian-sintetik}
+
+## Ringkasan Mesin
+
+```json
+{
+  "status": "data sintetik pedagogis",
+  "seed": 1962,
+  "days": 30,
+  "policies": {
+    "Tetap": {
+      "produksi": 16200,
+      "penjualan": 15852,
+      "sisa": 348,
+      "kekurangan": 1471,
+      "margin_rp": 89892000,
+      "cakupan_persen": 91.50839923800727,
+      "sisa_persen": 2.1481481481481484
+    },
+    "Adaptif": {
+      "produksi": 16769,
+      "penjualan": 16332,
+      "sisa": 437,
+      "kekurangan": 991,
+      "margin_rp": 91437000,
+      "cakupan_persen": 94.27928187958206,
+      "sisa_persen": 2.6059991651261254
+    }
+  }
+}
+```
