@@ -1,0 +1,8 @@
+flowchart TB
+ I["Masukan"] --> F["Transformasi inti"]
+ F --> O["Keluaran"]
+ O --> P["Pemantauan keadaan"]
+ M["Misi dan batas"] --> C["Kendali adaptif"]
+ P --> C
+ C --> F
+ C --> I

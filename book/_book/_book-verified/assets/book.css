@@ -1,0 +1,16 @@
+:root { --tise-ink:#183b50; --tise-teal:#007f85; --tise-warm:#ba651d; }
+body { color:#243946; line-height:1.7; }
+h1,h2,h3 { color:var(--tise-ink); font-weight:650; }
+h1 { margin-bottom:1.4rem; }
+h2 { border-bottom:2px solid #d8e8eb; padding-bottom:.35rem; margin-top:2.1rem; }
+table { width:100%; font-size:.93rem; line-height:1.5; }
+table thead { background:#e8f2f4; color:#183b50; }
+table th,table td { padding:.65rem .7rem !important; vertical-align:top; }
+table tbody tr:nth-child(even) { background:#f7fafb; }
+.quarto-figure { margin:1.7rem auto; }
+.quarto-figure img { max-height:1000px; width:100%; object-fit:contain; }
+.figure-caption { color:#465b67; font-size:.91rem; line-height:1.45; }
+blockquote { border-left:4px solid var(--tise-teal); padding:.6rem 1.1rem; color:#244452; background:#f2f7f8; }
+.callout { border-radius:0; }
+@media(max-width:700px) { table { font-size:.83rem; } .quarto-figure img { max-height:none; } }
+@media print { h1 { break-before:page; } figure,table,.quarto-figure { break-inside:avoid; } }

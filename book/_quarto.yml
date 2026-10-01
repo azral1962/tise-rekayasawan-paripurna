@@ -38,7 +38,7 @@ book:
     - appendices/lembar-kerja.qmd
     - appendices/panduan-kuliah.qmd
     - appendices/kunci-latihan.qmd
-bibliography: ../references.bib
+bibliography: references.bib
 lang: id
 format:
   html:
@@ -55,5 +55,8 @@ format:
     link-external-newwindow: true
     mainfont: "DejaVu Sans"
     fontsize: 1.02em
+  typst:
+    toc: true
+    number-sections: true
 execute:
   enabled: false
