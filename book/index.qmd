@@ -1,0 +1,46 @@
+# Orientasi {.unnumbered}
+
+> Rekayasa berorientasi kemanusiaan menghasilkan artefak yang cerdas dan mencerdaskan. Semakin digunakan, semakin memampukan manusia memenuhi kebutuhan dasar dan mencapai aspirasinya.
+
+Buku ini menyatukan percakapan tentang penelitian, desain, engineering, TISE, dan pembentukan rekayasawan paripurna. Gagasan utamanya adalah bahwa keberhasilan teknis, pertumbuhan kemampuan manusia, dan keberlanjutan ekosistem perlu dipikirkan bersama. Artefak bekerja di dalam kehidupan manusia. Ia menggunakan sumber daya, memengaruhi keputusan, mengubah kebiasaan, dan dapat membuka atau menutup kesempatan.
+
+## Peta penjelasan
+
+![Empat dimensi mengarahkan rancangan penelitian menuju bukti misi dan kapabilitas manusia.](assets/diagrams/overview.svg){#fig-overview}
+
+| Dimensi | Pertanyaan yang dibantu | Contoh posisi penelitian |
+|---|---|---|
+| EASTF | Di lapisan mana objek dan kontribusi berada? | Sistem koordinasi pangan |
+| Q-Cycle | Bagaimana kebutuhan ditelusuri sampai bukti? | Q3 arsitektur, lalu Q4 evaluasi |
+| Tahap inovasi | Dalam bentuk apa solusi telah diwujudkan? | Prototipe digital twin |
+| Kematangan artefak | Pada kondisi apa artefak telah diuji? | Testbed, belum penggunaan luas |
+
+Keempat dimensi tidak mempunyai pasangan satu-satu. Sebuah kontribusi teknologi dapat diuji melalui beberapa siklus Q, diwujudkan sebagai model, lalu diuji pada lab demo. Sebuah kontribusi ekosistem dapat berupa pengetahuan tentang tata kelola yang diperoleh dari pilot. Istilah lapisan menunjukkan objek, sementara tahap menunjukkan keadaan pekerjaan.
+
+## Tujuan belajar
+
+Setelah mempelajari buku, pembaca diharapkan mampu merumuskan pertanyaan penelitian yang terarah, menjelaskan pilihan metodologi, membedakan kontribusi ilmiah dari kesiapan produk, menyusun rantai kebutuhan–fungsi–arsitektur–bukti, dan menilai apakah artefak semakin memampukan penggunanya. Pembaca juga dapat menggunakan diagram dan tabel untuk menjelaskan mekanisme, perbandingan, serta batas klaim.
+
+| Bagian | Isi | Keluaran belajar |
+|---|---|---|
+| Bahasa dan logika penelitian | Riset, desain, engineering, metode, PICOC, DRM, DSRM | Pertanyaan dan justifikasi penelitian |
+| Kerangka TISE | Triune intelligence, misi, PSKVE, PUDAL, Q-Cycle | Model rekayasa ekosistem |
+| Lapisan dan inovasi | EASTF, perwujudan, kematangan, pemberdayaan, versi TISE | Posisi dan tujuan pengembangan |
+| Praktik profesi | Kompetensi, kasus pangan, rancangan riset, komunikasi visual | Paket bukti yang dapat ditelaah |
+
+## Status sumber dan klaim
+
+TISE mengikuti dokumen konseptual penulis bertanggal 23 Agustus 2026 [@langi2026tise; @langi2026transcript]. Perluasan ASTF menjadi EASTF, tahapan inovasi, dan rekayasawan paripurna disusun mengikuti rumusan percakapan 1 Oktober 2026 [@percakapan2026]. Penjelasan metodologi eksternal menggunakan sumber primer. Contoh pangan, tutor AI, target, dan perhitungan di buku ini merupakan rancangan pembelajaran.
+
+| Jenis isi | Status | Cara membacanya |
+|---|---|---|
+| DRM, DSRM, PICOC | Kerangka dari literatur yang dirujuk | Pelajari definisi dan batasnya |
+| TISE 1.0–3.0 | Rumusan konseptual penulis | Nilai koherensi dan bukti implementasinya |
+| EASTF dan integrasi kerangka | Rumusan serta sintesis pedagogis | Gunakan sebagai cara menata pertanyaan |
+| Angka dan kurva contoh | Ilustrasi sintetik | Jangan mengutip sebagai temuan empiris |
+
+## Cara menggunakan visuals
+
+Setiap gambar menjelaskan satu hubungan utama. Baca judul dan caption terlebih dahulu, identifikasi objek serta arah hubungan, kemudian gunakan tabel di dekatnya untuk memeriksa definisi dan kriteria. Diagram menunjukkan mekanisme atau urutan. Tabel menjaga ketepatan pemetaan. Plot menunjukkan perubahan atau hubungan angka, dengan status data yang selalu disebutkan.
+
+Buku dapat dipakai untuk belajar mandiri atau enam pertemuan kuliah. Deck Reveal.js menyajikan materi dengan catatan pengajar. Lampiran menyediakan lembar kerja dan contoh jawaban. Studi kasus pangan kampus digunakan berulang agar perhatian pembaca tertuju pada perubahan sudut pandang, bukan pada pengenalan kasus baru setiap bab.

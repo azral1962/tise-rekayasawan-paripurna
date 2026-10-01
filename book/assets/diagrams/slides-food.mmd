@@ -1,0 +1,9 @@
+flowchart LR
+ S["Pemasok"] --> P["Pedagang: produksi"]
+ P --> M["Mahasiswa: konsumsi"]
+ M -->|Prapesan| P
+ P --> W["Kelola limbah"]
+ C["Kampus: aturan"] --> P
+ M -->|Pengalaman| C
+ W --> C
+ C --> S

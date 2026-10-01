@@ -1,0 +1,88 @@
+# Lembar kerja penelitian dan rekayasa
+
+Lembar ini merupakan template yang dapat diisi. Kolom kosong sengaja disediakan untuk keputusan proyek, bukan data yang belum dilengkapi pada materi buku. Gunakan satu topik yang sama untuk seluruh lembar agar ketertelusuran dapat diperiksa.
+
+## Lembar 1: misi dan pihak
+
+| Elemen | Isian proyek |
+|---|---|
+| Kebutuhan dasar atau aspirasi | |
+| Keadaan awal dan buktinya | |
+| Keadaan yang diinginkan | |
+| USER, SOURCE, OPERATOR, REGULATOR | |
+| Batas finansial, sosial, operasional, lingkungan | |
+| Hasil misi yang akan diukur | |
+| Pertumbuhan kapabilitas yang akan diukur | |
+
+## Lembar 2: PICOC
+
+| Unsur | Rumusan | Implikasi pengujian |
+|---|---|---|
+| Population | | |
+| Intervention | | |
+| Comparison | | |
+| Outcome | | |
+| Context | | |
+
+Pertanyaan utama: ______________________________________________________
+
+Alasan pilihan metodologi: _______________________________________________
+
+## Lembar 3: EASTF
+
+| Lapisan | Pertanyaan | Kontribusi | Bukti |
+|---|---|---|---|
+| E | | | |
+| A | | | |
+| S | | | |
+| T | | | |
+| F | | | |
+
+Kontribusi utama berada pada: ____________________________________________
+
+Jembatan antarlapisan yang belum terbukti: _________________________________
+
+## Lembar 4: Q-Cycle
+
+| Kebutuhan Q1 | Fungsi Q2 | Komponen/peran Q3 | Uji dan bukti Q4 |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+
+Gangguan untuk PUDAL: __________________________________________________
+
+Masalah struktural untuk Q-Cycle berikutnya: ________________________________
+
+## Lembar 5: perwujudan dan kesiapan
+
+| Dimensi | Posisi saat ini | Gerbang berikutnya | Bukti yang diperlukan |
+|---|---|---|---|
+| Tahap inovasi | | | |
+| Kematangan artefak | | | |
+| Kekuatan kontribusi ilmiah | | | |
+| Pertumbuhan kapabilitas manusia | | | |
+
+## Lembar 6: triune intelligence dan keputusan
+
+| Keputusan | Masukan AI | Penilaian manusia | Otoritas/proses kolektif | Jalur koreksi |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+
+## Lembar 7: klaim dan bukti
+
+| Klaim | Data/metode | Status | Batas berlaku | Pekerjaan berikutnya |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+## Lembar 8: komunikasi visual
+
+| Pertanyaan penjelasan | Diagram/tabel/plot | Sumber dan status data | Inferensi yang perlu dibatasi |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+Periksa apakah semua istilah pada visual mempunyai definisi, setiap klaim mempunyai bukti, serta setiap kebutuhan mempunyai ukuran. Minta rekan menguji satu hubungan yang paling lemah.

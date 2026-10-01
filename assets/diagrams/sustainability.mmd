@@ -1,0 +1,7 @@
+flowchart TB
+ A["Alternatif tindakan"] --> K{"Memenuhi batas kelayakan?"}
+ K -->|Ya| O["Optimasi di ruang layak"]
+ K -->|Tidak| R["Revisi alternatif"]
+ R --> A
+ O --> T["Tindakan dan pemantauan"]
+ T --> K

@@ -1,0 +1,59 @@
+# Glosarium
+
+| Istilah | Pengertian dalam buku |
+|---|---|
+| Artefak | Hasil rancangan yang dapat berupa perangkat, perangkat lunak, model, metode, layanan, atau pengaturan organisasi |
+| Aspirasi | Keadaan atau pencapaian yang ingin diraih manusia |
+| ASTF | Application, System, Technology, Fundamental Research |
+| Baseline | Keadaan atau pendekatan pembanding yang dijelaskan |
+| Black box | Representasi yang memusatkan perhatian pada masukan, keluaran, dan tujuan |
+| Cerdas | Kemampuan membantu pemahaman, keputusan, tindakan, dan adaptasi |
+| Mencerdaskan | Sifat interaksi yang mendukung pertumbuhan kemampuan manusia |
+| Memampukan | Memperluas kemampuan serta kesempatan nyata untuk bertindak |
+| Collective intelligence | Kecerdasan yang muncul melalui pengetahuan dan proses bersama |
+| Contribution | Pengetahuan atau kemampuan baru yang didukung bukti sesuai ruang lingkup |
+| Context | Lingkungan dan kondisi yang memengaruhi penerapan |
+| Design | Perumusan alternatif serta keputusan untuk solusi yang diinginkan |
+| Digital twin | Representasi digital sasaran yang mendukung hubungan data, analisis, serta penggunaan sepanjang siklus hidup |
+| Prototipe digital twin | Representasi virtual pada tahap pengembangan dengan status serta batas yang dijelaskan |
+| DRM | Design Research Methodology dari Blessing dan Chakrabarti |
+| DSR | Design Science Research, pendekatan penelitian melalui penciptaan dan evaluasi artefak |
+| DSRM | Design Science Research Methodology, dalam buku merujuk model Peffers dan rekan |
+| EASTF | Ecosystem, Application, System, Technology, Fundamental Research, sesuai rumusan percakapan |
+| Ekosistem | Jaringan pelaku, misi, sumber daya, teknologi, aturan, dan lingkungan yang saling bergantung |
+| Engineering | Realisasi dan pengelolaan solusi agar memenuhi persyaratan pada kondisi nyata |
+| Fidelity | Detail dan ketepatan representasi yang diperlukan untuk suatu tujuan |
+| Full release | Versi yang resmi tersedia pada cakupan penggunaan yang ditetapkan |
+| Fundamental research | Penyelidikan prinsip, hubungan, mekanisme, atau batas dasar |
+| Gagasan | Usulan perubahan serta dugaan mekanisme dan manfaat |
+| Intervention | Tindakan, metode, atau teknologi yang dikaji |
+| Kapabilitas | Kemampuan dan kesempatan bermakna untuk bertindak |
+| Kematangan | Kesiapan yang didukung bukti untuk suatu lingkup penggunaan |
+| Lab demo | Demonstrasi fungsi inti dalam kondisi laboratorium terkendali |
+| MA-DT | Multi-Agentic Digital Twin, representasi interaksi banyak agen |
+| Metode | Prosedur menjalankan kegiatan penelitian |
+| Metodologi | Logika yang menjustifikasi pilihan metode serta hubungan bukti dan kesimpulan |
+| Misi | Tujuan tindakan yang menghasilkan keluaran dan manfaat |
+| Model | Representasi struktur, hubungan, perilaku, atau asumsi |
+| MOE | Dalam konteks ekosistem: Mission-Oriented Ecosystem |
+| MoE | Dalam konteks ukuran: Measure of Effectiveness; buku membedakannya dari MOE |
+| Outcome | Hasil atau perubahan yang dinilai |
+| Output | Keluaran kegiatan atau misi |
+| PICOC | Population, Intervention, Comparison, Outcome, Context |
+| PSKVE | Products, Services, Knowledge, Values, Environment |
+| PUDAL | Perceive, Understand, Decide, Act, Learn |
+| Q-Cycle | Siklus masalah, fungsi, arsitektur, konstruksi dan bukti |
+| Realisasi | Perwujudan rancangan pada lingkungan nyata |
+| Release candidate | Versi calon rilis yang menunggu hasil penerimaan sesuai kriteria |
+| Research question | Pertanyaan yang mengarahkan pencarian pengetahuan dan bukti |
+| Riset | Kegiatan menghasilkan atau menguji pengetahuan yang dapat dipertanggungjawabkan |
+| RMOV | Resource, Mission, Output, Value |
+| Sustainability | Kelayakan melanjutkan misi dengan menjaga prasyarat masa depan |
+| Testbed | Lingkungan atau fasilitas uji yang mewakili aspek penggunaan |
+| Traceability | Ketertelusuran hubungan kebutuhan, keputusan, dan bukti |
+| Transfer | Penggunaan kemampuan pada tugas atau keadaan baru |
+| Triune intelligence | Integrasi kecerdasan manusia, kolektif, dan artifisial |
+| Validasi | Penilaian terhadap sasaran atau kenyataan sesuai klaim yang dinyatakan |
+| Verifikasi | Pemeriksaan bahwa implementasi mengikuti spesifikasi atau model |
+
+Singkatan dapat mempunyai arti lain di bidang lain. Penulis perlu menyatakan kepanjangan pada penggunaan pertama dan menjaga konsistensi selanjutnya.

@@ -1,0 +1,60 @@
+# Riset, desain, dan engineering
+
+
+## Tiga kegiatan yang saling menghidupi
+
+Riset berusaha menghasilkan atau menguji pengetahuan yang dapat dipertanggungjawabkan. Desain merumuskan solusi untuk keadaan yang diinginkan. Engineering merealisasikan dan menjaga solusi agar memenuhi persyaratan pada kondisi operasi yang ditetapkan. Ketiganya saling memberi masukan. Pengujian dapat memunculkan pertanyaan baru, dan temuan riset dapat mengubah rancangan.
+
+![Riset menyediakan pengetahuan, desain memilih alternatif, dan engineering menghasilkan pengalaman yang kembali menjadi pertanyaan.](../assets/diagrams/research-design.svg){#fig-research-design}
+
+| Aspek | Riset | Desain | Engineering |
+|---|---|---|---|
+| Pertanyaan utama | Apa yang belum diketahui? | Solusi seperti apa yang diperlukan? | Bagaimana solusi bekerja secara andal? |
+| Objek perhatian | Klaim dan pengetahuan | Alternatif serta keputusan rancangan | Realisasi dan operasi |
+| Hasil | Temuan, model, prinsip | Spesifikasi, konsep, arsitektur | Artefak atau layanan yang bekerja |
+| Kriteria | Validitas dan kontribusi | Kesesuaian kebutuhan | Kinerja, keselamatan, kelayakan |
+| Tanggung jawab | Menjelaskan batas pengetahuan | Menjelaskan alasan pilihan | Menanggung konsekuensi implementasi |
+
+Satu kegiatan dapat mempunyai beberapa tujuan sekaligus. Membangun simulator untuk membantu keputusan merupakan kegiatan desain dan engineering. Simulator menjadi bagian penelitian ketika pertanyaan, pembanding, data, dan analisisnya digunakan untuk menghasilkan pengetahuan. Artefak yang berfungsi belum menentukan apakah suatu klaim baru telah didukung.
+
+## Engineering pada skala dan beban nyata
+
+Engineering mensyaratkan perhatian terhadap kapasitas, gangguan, pengulangan kinerja, sumber daya, dan pemeliharaan. Mesin serta otomasi memperbesar kemampuan manusia dalam kekuatan, kecepatan, ketelitian, dan pengulangan. Ukuran fisik artefak sendiri tidak menentukan kualitas rekayasa. Perangkat kecil dapat menghadapi tuntutan keandalan yang berat.
+
+| Tuntutan | Pertanyaan | Contoh ukuran |
+|---|---|---|
+| Kapasitas | Berapa banyak pekerjaan dapat dilayani? | Porsi per jam, transaksi per detik |
+| Beban | Apa yang terjadi saat penggunaan meningkat? | Waktu tunggu, antrean, kegagalan |
+| Keandalan | Apakah hasil dapat diulang? | Frekuensi kegagalan pada rentang waktu |
+| Pemeliharaan | Bagaimana kemampuan dipulihkan? | Waktu perbaikan dan ketersediaan suku cadang |
+| Keberlanjutan | Dapatkah operasi diteruskan? | Biaya, energi, tenaga kerja, kondisi lingkungan |
+
+Keberlanjutan operasi perlu dihubungkan dengan kesejahteraan pelaku. Kapasitas dapat tampak tinggi karena pekerja menanggung jam kerja berlebihan. Efisiensi suatu unit dapat memindahkan biaya ke pemasok atau pengguna. Penilaian engineering berorientasi kemanusiaan perlu menjelaskan siapa yang memperoleh manfaat dan siapa yang menanggung beban.
+
+## Satu kasus, tiga perhatian
+
+Pada sistem pangan kampus, riset dapat menyelidiki hubungan ketidakpastian permintaan dengan limbah. Desain menentukan cara prapesan, alokasi produksi, dan tampilan informasi. Engineering mengintegrasikan pembayaran, kapasitas dapur, proses pengambilan, dan operasi ketika jaringan terputus. Setiap kegiatan memiliki keputusan serta bukti sendiri.
+
+| Pernyataan | Kategori yang dominan | Bukti yang diperlukan |
+|---|---|---|
+| Kami menemukan pola permintaan menurut jadwal kuliah | Riset | Data, metode, ketidakpastian, replikasi |
+| Kami memilih prapesan dengan jendela pengambilan | Desain | Kebutuhan, alternatif, alasan pilihan |
+| Sistem melayani beban puncak yang ditetapkan | Engineering | Hasil uji beban dan kondisi uji |
+| Pedagang dapat memperbaiki rencana produksinya | Pemberdayaan | Bukti perubahan kemampuan dan kesempatan |
+
+Kategori tersebut bukan label eksklusif. Riset dapat menghasilkan prinsip desain, sedangkan engineering dapat mengungkap mekanisme kegagalan yang belum diketahui. Yang perlu dijaga adalah tujuan dan jenis klaimnya.
+
+## Dua sumbu keberhasilan
+
+Kematangan produk dan kekuatan kontribusi ilmiah merupakan dua sumbu berbeda. Model yang belum menjadi produk dapat menghasilkan pengetahuan baru. Produk yang telah digunakan luas dapat merupakan penerapan pengetahuan yang sudah ada. Suatu disertasi perlu menjelaskan pengetahuan barunya, sedangkan suatu rilis perlu membuktikan kesiapan operasional sesuai cakupannya.
+
+| Keadaan | Kesimpulan yang sah | Kesimpulan yang masih perlu bukti |
+|---|---|---|
+| Fungsi inti berhasil di lab | Prinsip bekerja pada kondisi uji | Kelayakan penggunaan luas |
+| Artefak dipakai pengguna | Penggunaan telah terjadi | Manfaat disebabkan artefak |
+| Model mengungguli baseline sintetik | Keunggulan pada skenario tersebut | Keunggulan pada populasi nyata |
+| Hasil berulang pada beberapa konteks | Bukti lebih luas | Berlaku pada semua konteks |
+
+## Latihan
+
+Klasifikasikan tiga tujuan penelitian Anda sebagai riset, desain, atau engineering. Sebutkan keluaran dan bukti untuk masing-masing. Kemudian pilih satu klaim yang terlalu luas dan tuliskan ulang sesuai kondisi yang benar-benar diuji. Contoh jawaban tersedia pada lampiran kunci latihan.

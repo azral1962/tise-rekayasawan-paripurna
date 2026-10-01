@@ -1,0 +1,6 @@
+# Rujukan {.unnumbered}
+
+Literatur publik digunakan untuk definisi DRM, DSRM, design science, PICOC, dan digital twin. Dokumen TISE merupakan rumusan konseptual penulis. EASTF serta integrasi kerangka dalam buku ini mengikuti percakapan 1 Oktober 2026. Metadata edisi artikel Peffers mengikuti jurnal: 2007, volume 24 nomor 3, yang merupakan edisi musim dingin 2007–2008.
+
+::: {#refs}
+:::

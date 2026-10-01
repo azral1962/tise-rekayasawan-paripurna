@@ -1,0 +1,25 @@
+{
+  "status": "data sintetik pedagogis",
+  "seed": 1962,
+  "days": 30,
+  "policies": {
+    "Tetap": {
+      "produksi": 16200,
+      "penjualan": 15852,
+      "sisa": 348,
+      "kekurangan": 1471,
+      "margin_rp": 89892000,
+      "cakupan_persen": 91.50839923800727,
+      "sisa_persen": 2.1481481481481484
+    },
+    "Adaptif": {
+      "produksi": 16769,
+      "penjualan": 16332,
+      "sisa": 437,
+      "kekurangan": 991,
+      "margin_rp": 91437000,
+      "cakupan_persen": 94.27928187958206,
+      "sisa_persen": 2.6059991651261254
+    }
+  }
+}

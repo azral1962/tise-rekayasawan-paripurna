@@ -1,0 +1,24 @@
+{
+  "title": "Rekayasawan Paripurna",
+  "language": "id",
+  "quarto_version_tested": "1.10.18",
+  "chapters": 14,
+  "appendices": 4,
+  "lecture_slides": 64,
+  "lecture_notes": 63,
+  "book_tables": 78,
+  "book_figures": 32,
+  "offline_html": [
+    "reading/buku.html",
+    "reading/kuliah.html"
+  ],
+  "checks": [
+    "Quarto render book: passed",
+    "Quarto render Reveal.js: passed",
+    "Single-file book render: passed",
+    "All 64 slides: no cropped content or broken images",
+    "Book: 32 images loaded; 78 tables; no horizontal overflow",
+    "Offline reading: no external resource requests"
+  ],
+  "data_status": "Synthetic educational simulation, not field data"
+}

@@ -1,0 +1,9 @@
+flowchart TB
+ P["Pemasok: bahan dan kapasitas"] --> D["Pedagang: produksi"]
+ D --> M["Mahasiswa: konsumsi dan umpan balik"]
+ M -->|Prapesan| D
+ M -->|Kebutuhan| K["Kampus: koordinasi dan aturan"]
+ K --> D
+ D --> L["Pengelolaan limbah"]
+ L --> K
+ K --> P

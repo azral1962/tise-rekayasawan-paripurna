@@ -1,0 +1,1371 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rekayasawan Paripurna",
+    "section": "",
+    "text": "Orientasi\nBuku ini menyatukan percakapan tentang penelitian, desain, engineering, TISE, dan pembentukan rekayasawan paripurna. Gagasan utamanya adalah bahwa keberhasilan teknis, pertumbuhan kemampuan manusia, dan keberlanjutan ekosistem perlu dipikirkan bersama. Artefak bekerja di dalam kehidupan manusia. Ia menggunakan sumber daya, memengaruhi keputusan, mengubah kebiasaan, dan dapat membuka atau menutup kesempatan.",
+    "crumbs": [
+      "Orientasi"
+    ]
+  },
+  {
+    "objectID": "index.html#peta-penjelasan",
+    "href": "index.html#peta-penjelasan",
+    "title": "Rekayasawan Paripurna",
+    "section": "Peta penjelasan",
+    "text": "Peta penjelasan\n\n\n\n\n\n\nGambar 1: Empat dimensi mengarahkan rancangan penelitian menuju bukti misi dan kapabilitas manusia.\n\n\n\n\n\n\n\n\n\n\n\nDimensi\nPertanyaan yang dibantu\nContoh posisi penelitian\n\n\n\n\nEASTF\nDi lapisan mana objek dan kontribusi berada?\nSistem koordinasi pangan\n\n\nQ-Cycle\nBagaimana kebutuhan ditelusuri sampai bukti?\nQ3 arsitektur, lalu Q4 evaluasi\n\n\nTahap inovasi\nDalam bentuk apa solusi telah diwujudkan?\nPrototipe digital twin\n\n\nKematangan artefak\nPada kondisi apa artefak telah diuji?\nTestbed, belum penggunaan luas\n\n\n\nKeempat dimensi tidak mempunyai pasangan satu-satu. Sebuah kontribusi teknologi dapat diuji melalui beberapa siklus Q, diwujudkan sebagai model, lalu diuji pada lab demo. Sebuah kontribusi ekosistem dapat berupa pengetahuan tentang tata kelola yang diperoleh dari pilot. Istilah lapisan menunjukkan objek, sementara tahap menunjukkan keadaan pekerjaan.",
+    "crumbs": [
+      "Orientasi"
+    ]
+  },
+  {
+    "objectID": "index.html#tujuan-belajar",
+    "href": "index.html#tujuan-belajar",
+    "title": "Rekayasawan Paripurna",
+    "section": "Tujuan belajar",
+    "text": "Tujuan belajar\nSetelah mempelajari buku, pembaca diharapkan mampu merumuskan pertanyaan penelitian yang terarah, menjelaskan pilihan metodologi, membedakan kontribusi ilmiah dari kesiapan produk, menyusun rantai kebutuhan–fungsi–arsitektur–bukti, dan menilai apakah artefak semakin memampukan penggunanya. Pembaca juga dapat menggunakan diagram dan tabel untuk menjelaskan mekanisme, perbandingan, serta batas klaim.\n\n\n\n\n\n\n\n\nBagian\nIsi\nKeluaran belajar\n\n\n\n\nBahasa dan logika penelitian\nRiset, desain, engineering, metode, PICOC, DRM, DSRM\nPertanyaan dan justifikasi penelitian\n\n\nKerangka TISE\nTriune intelligence, misi, PSKVE, PUDAL, Q-Cycle\nModel rekayasa ekosistem\n\n\nLapisan dan inovasi\nEASTF, perwujudan, kematangan, pemberdayaan, versi TISE\nPosisi dan tujuan pengembangan\n\n\nPraktik profesi\nKompetensi, kasus pangan, rancangan riset, komunikasi visual\nPaket bukti yang dapat ditelaah",
+    "crumbs": [
+      "Orientasi"
+    ]
+  },
+  {
+    "objectID": "index.html#status-sumber-dan-klaim",
+    "href": "index.html#status-sumber-dan-klaim",
+    "title": "Rekayasawan Paripurna",
+    "section": "Status sumber dan klaim",
+    "text": "Status sumber dan klaim\nTISE mengikuti dokumen konseptual penulis bertanggal 23 Agustus 2026 (Langi 2026a, 2026c). Perluasan ASTF menjadi EASTF, tahapan inovasi, dan rekayasawan paripurna disusun mengikuti rumusan percakapan 1 Oktober 2026 (Langi 2026b). Penjelasan metodologi eksternal menggunakan sumber primer. Contoh pangan, tutor AI, target, dan perhitungan di buku ini merupakan rancangan pembelajaran.\n\n\n\n\n\n\n\n\nJenis isi\nStatus\nCara membacanya\n\n\n\n\nDRM, DSRM, PICOC\nKerangka dari literatur yang dirujuk\nPelajari definisi dan batasnya\n\n\nTISE 1.0–3.0\nRumusan konseptual penulis\nNilai koherensi dan bukti implementasinya\n\n\nEASTF dan integrasi kerangka\nRumusan serta sintesis pedagogis\nGunakan sebagai cara menata pertanyaan\n\n\nAngka dan kurva contoh\nIlustrasi sintetik\nJangan mengutip sebagai temuan empiris",
+    "crumbs": [
+      "Orientasi"
+    ]
+  },
+  {
+    "objectID": "index.html#cara-menggunakan-visuals",
+    "href": "index.html#cara-menggunakan-visuals",
+    "title": "Rekayasawan Paripurna",
+    "section": "Cara menggunakan visuals",
+    "text": "Cara menggunakan visuals\nSetiap gambar menjelaskan satu hubungan utama. Baca judul dan caption terlebih dahulu, identifikasi objek serta arah hubungan, kemudian gunakan tabel di dekatnya untuk memeriksa definisi dan kriteria. Diagram menunjukkan mekanisme atau urutan. Tabel menjaga ketepatan pemetaan. Plot menunjukkan perubahan atau hubungan angka, dengan status data yang selalu disebutkan.\nBuku dapat dipakai untuk belajar mandiri atau enam pertemuan kuliah. Deck Reveal.js menyajikan materi dengan catatan pengajar. Lampiran menyediakan lembar kerja dan contoh jawaban. Studi kasus pangan kampus digunakan berulang agar perhatian pembaca tertuju pada perubahan sudut pandang, bukan pada pengenalan kasus baru setiap bab.\n\n\n\n\nLangi, Armein Z. R. 2026a. Apa Itu TISE? Pengantar Triune-Intelligence Smart Engineering untuk Ekosistem Berorientasi Misi.\n\n\nLangi, Armein Z. R. 2026b. Perumusan EASTF, tahapan inovasi, dan rekayasawan paripurna.\n\n\nLangi, Armein Z. R. 2026c. TISE: Transkrip Presentasi Akademik.",
+    "crumbs": [
+      "Orientasi"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html",
+    "href": "chapters/01-riset-desain-rekayasa.html",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "",
+    "text": "1.1 Tiga kegiatan yang saling menghidupi\nRiset berusaha menghasilkan atau menguji pengetahuan yang dapat dipertanggungjawabkan. Desain merumuskan solusi untuk keadaan yang diinginkan. Engineering merealisasikan dan menjaga solusi agar memenuhi persyaratan pada kondisi operasi yang ditetapkan. Ketiganya saling memberi masukan. Pengujian dapat memunculkan pertanyaan baru, dan temuan riset dapat mengubah rancangan.\nSatu kegiatan dapat mempunyai beberapa tujuan sekaligus. Membangun simulator untuk membantu keputusan merupakan kegiatan desain dan engineering. Simulator menjadi bagian penelitian ketika pertanyaan, pembanding, data, dan analisisnya digunakan untuk menghasilkan pengetahuan. Artefak yang berfungsi belum menentukan apakah suatu klaim baru telah didukung.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html#tiga-kegiatan-yang-saling-menghidupi",
+    "href": "chapters/01-riset-desain-rekayasa.html#tiga-kegiatan-yang-saling-menghidupi",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "",
+    "text": "Gambar 1.1: Riset menyediakan pengetahuan, desain memilih alternatif, dan engineering menghasilkan pengalaman yang kembali menjadi pertanyaan.\n\n\n\n\n\n\n\n\n\n\n\n\nAspek\nRiset\nDesain\nEngineering\n\n\n\n\nPertanyaan utama\nApa yang belum diketahui?\nSolusi seperti apa yang diperlukan?\nBagaimana solusi bekerja secara andal?\n\n\nObjek perhatian\nKlaim dan pengetahuan\nAlternatif serta keputusan rancangan\nRealisasi dan operasi\n\n\nHasil\nTemuan, model, prinsip\nSpesifikasi, konsep, arsitektur\nArtefak atau layanan yang bekerja\n\n\nKriteria\nValiditas dan kontribusi\nKesesuaian kebutuhan\nKinerja, keselamatan, kelayakan\n\n\nTanggung jawab\nMenjelaskan batas pengetahuan\nMenjelaskan alasan pilihan\nMenanggung konsekuensi implementasi",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html#engineering-pada-skala-dan-beban-nyata",
+    "href": "chapters/01-riset-desain-rekayasa.html#engineering-pada-skala-dan-beban-nyata",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "1.2 Engineering pada skala dan beban nyata",
+    "text": "1.2 Engineering pada skala dan beban nyata\nEngineering mensyaratkan perhatian terhadap kapasitas, gangguan, pengulangan kinerja, sumber daya, dan pemeliharaan. Mesin serta otomasi memperbesar kemampuan manusia dalam kekuatan, kecepatan, ketelitian, dan pengulangan. Ukuran fisik artefak sendiri tidak menentukan kualitas rekayasa. Perangkat kecil dapat menghadapi tuntutan keandalan yang berat.\n\n\n\n\n\n\n\n\nTuntutan\nPertanyaan\nContoh ukuran\n\n\n\n\nKapasitas\nBerapa banyak pekerjaan dapat dilayani?\nPorsi per jam, transaksi per detik\n\n\nBeban\nApa yang terjadi saat penggunaan meningkat?\nWaktu tunggu, antrean, kegagalan\n\n\nKeandalan\nApakah hasil dapat diulang?\nFrekuensi kegagalan pada rentang waktu\n\n\nPemeliharaan\nBagaimana kemampuan dipulihkan?\nWaktu perbaikan dan ketersediaan suku cadang\n\n\nKeberlanjutan\nDapatkah operasi diteruskan?\nBiaya, energi, tenaga kerja, kondisi lingkungan\n\n\n\nKeberlanjutan operasi perlu dihubungkan dengan kesejahteraan pelaku. Kapasitas dapat tampak tinggi karena pekerja menanggung jam kerja berlebihan. Efisiensi suatu unit dapat memindahkan biaya ke pemasok atau pengguna. Penilaian engineering berorientasi kemanusiaan perlu menjelaskan siapa yang memperoleh manfaat dan siapa yang menanggung beban.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html#satu-kasus-tiga-perhatian",
+    "href": "chapters/01-riset-desain-rekayasa.html#satu-kasus-tiga-perhatian",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "1.3 Satu kasus, tiga perhatian",
+    "text": "1.3 Satu kasus, tiga perhatian\nPada sistem pangan kampus, riset dapat menyelidiki hubungan ketidakpastian permintaan dengan limbah. Desain menentukan cara prapesan, alokasi produksi, dan tampilan informasi. Engineering mengintegrasikan pembayaran, kapasitas dapur, proses pengambilan, dan operasi ketika jaringan terputus. Setiap kegiatan memiliki keputusan serta bukti sendiri.\n\n\n\n\n\n\n\n\nPernyataan\nKategori yang dominan\nBukti yang diperlukan\n\n\n\n\nKami menemukan pola permintaan menurut jadwal kuliah\nRiset\nData, metode, ketidakpastian, replikasi\n\n\nKami memilih prapesan dengan jendela pengambilan\nDesain\nKebutuhan, alternatif, alasan pilihan\n\n\nSistem melayani beban puncak yang ditetapkan\nEngineering\nHasil uji beban dan kondisi uji\n\n\nPedagang dapat memperbaiki rencana produksinya\nPemberdayaan\nBukti perubahan kemampuan dan kesempatan\n\n\n\nKategori tersebut bukan label eksklusif. Riset dapat menghasilkan prinsip desain, sedangkan engineering dapat mengungkap mekanisme kegagalan yang belum diketahui. Yang perlu dijaga adalah tujuan dan jenis klaimnya.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html#dua-sumbu-keberhasilan",
+    "href": "chapters/01-riset-desain-rekayasa.html#dua-sumbu-keberhasilan",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "1.4 Dua sumbu keberhasilan",
+    "text": "1.4 Dua sumbu keberhasilan\nKematangan produk dan kekuatan kontribusi ilmiah merupakan dua sumbu berbeda. Model yang belum menjadi produk dapat menghasilkan pengetahuan baru. Produk yang telah digunakan luas dapat merupakan penerapan pengetahuan yang sudah ada. Suatu disertasi perlu menjelaskan pengetahuan barunya, sedangkan suatu rilis perlu membuktikan kesiapan operasional sesuai cakupannya.\n\n\n\n\n\n\n\n\nKeadaan\nKesimpulan yang sah\nKesimpulan yang masih perlu bukti\n\n\n\n\nFungsi inti berhasil di lab\nPrinsip bekerja pada kondisi uji\nKelayakan penggunaan luas\n\n\nArtefak dipakai pengguna\nPenggunaan telah terjadi\nManfaat disebabkan artefak\n\n\nModel mengungguli baseline sintetik\nKeunggulan pada skenario tersebut\nKeunggulan pada populasi nyata\n\n\nHasil berulang pada beberapa konteks\nBukti lebih luas\nBerlaku pada semua konteks",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-riset-desain-rekayasa.html#latihan",
+    "href": "chapters/01-riset-desain-rekayasa.html#latihan",
+    "title": "1  Riset, desain, dan engineering",
+    "section": "1.5 Latihan",
+    "text": "1.5 Latihan\nKlasifikasikan tiga tujuan penelitian Anda sebagai riset, desain, atau engineering. Sebutkan keluaran dan bukti untuk masing-masing. Kemudian pilih satu klaim yang terlalu luas dan tuliskan ulang sesuai kondisi yang benar-benar diuji. Contoh jawaban tersedia pada lampiran kunci latihan.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Riset, desain, dan engineering</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html",
+    "href": "chapters/02-metode-metodologi-picoc.html",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "",
+    "text": "2.1 Metode menjalankan kegiatan, metodologi menjelaskan logikanya\nMetode adalah prosedur untuk kegiatan tertentu, seperti observasi, wawancara, eksperimen, simulasi, atau analisis data. Metodologi menghubungkan pertanyaan penelitian dengan pemilihan metode, asumsi, urutan pekerjaan, dan cara menjaga validitas. Menyebut daftar metode saja belum menjelaskan mengapa bukti yang dihasilkan dapat menjawab pertanyaan.\nPada penelitian layanan pangan, wawancara dapat menjelaskan pengalaman pedagang. Catatan transaksi menunjukkan pola penggunaan. Eksperimen atau rancangan kuasieksperimen dapat membantu menilai perubahan akibat intervensi. Metodologi menjelaskan bagaimana ketiga jenis bukti itu digabungkan dan bagaimana peneliti menangani kemungkinan penjelasan lain.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#metode-menjalankan-kegiatan-metodologi-menjelaskan-logikanya",
+    "href": "chapters/02-metode-metodologi-picoc.html#metode-menjalankan-kegiatan-metodologi-menjelaskan-logikanya",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "",
+    "text": "Gambar 2.1: Metodologi menghubungkan pertanyaan, pilihan metode, ketidakpastian, dan batas klaim.\n\n\n\n\n\n\n\n\n\n\n\nAspek\nMetode\nMetodologi\n\n\n\n\nFungsi\nMelaksanakan kegiatan\nMenjustifikasi keseluruhan pendekatan\n\n\nPertanyaan\nBagaimana data diperoleh atau dianalisis?\nMengapa pendekatan ini memadai?\n\n\nCakupan\nProsedur tertentu\nHubungan masalah, bukti, dan kesimpulan\n\n\nContoh\nWawancara, uji beban, simulasi\nDRM dan DSRM\n\n\nPenjelasan minimum\nLangkah dan parameter\nAlasan pilihan, asumsi, validitas",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#picoc-sebagai-kerangka-pertanyaan",
+    "href": "chapters/02-metode-metodologi-picoc.html#picoc-sebagai-kerangka-pertanyaan",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "2.2 PICOC sebagai kerangka pertanyaan",
+    "text": "2.2 PICOC sebagai kerangka pertanyaan\nPICOC membantu memperjelas Population, Intervention, Comparison, Outcome, dan Context. Pedoman Kitchenham dan Charters membahas penggunaannya untuk pertanyaan kajian sistematis di rekayasa perangkat lunak, dengan merujuk Petticrew dan Roberts (Kitchenham dan Charters 2007).\n\n\n\n\n\n\n\n\nUnsur\nPertanyaan\nContoh pangan kampus\n\n\n\n\nP, Population\nSiapa atau apa?\nPedagang kantin kampus\n\n\nI, Intervention\nPendekatan apa?\nPrapesan dengan rekomendasi produksi\n\n\nC, Comparison\nDibandingkan dengan apa?\nProduksi berdasarkan perkiraan biasa\n\n\nO, Outcome\nHasil apa?\nLimbah dan cakupan permintaan\n\n\nC, Context\nDalam kondisi apa?\nHari kuliah dan kapasitas dapur tertentu\n\n\n\nPICOC membantu menentukan ruang lingkup. Ia belum memilih ukuran sampel, desain eksperimen, atau teknik analisis. Unsur pembanding digunakan ketika sesuai dengan pertanyaan; penelitian eksploratif dapat menjelaskan bahwa pembanding belum ditetapkan. Pembanding yang dipakai perlu didefinisikan cukup jelas (Kitchenham dan Charters 2007).",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#dari-topik-menuju-pertanyaan",
+    "href": "chapters/02-metode-metodologi-picoc.html#dari-topik-menuju-pertanyaan",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "2.3 Dari topik menuju pertanyaan",
+    "text": "2.3 Dari topik menuju pertanyaan\nTopik seperti “AI untuk kantin” belum menunjukkan hubungan yang hendak diteliti. Pertanyaan yang lebih terarah adalah: pada pedagang kantin kampus selama hari kuliah, apakah prapesan dengan rekomendasi produksi mengurangi limbah tanpa menurunkan cakupan permintaan dibandingkan perkiraan produksi biasa?\n\n\n\n\n\n\n\n\nBentuk rumusan\nMasalahnya\nPerbaikan\n\n\n\n\nApakah AI bermanfaat?\nObjek dan manfaat terlalu luas\nNyatakan pengguna, kegiatan, hasil\n\n\nApakah sistem akurat?\nUkuran serta pembanding belum jelas\nNyatakan galat, data, baseline\n\n\nBagaimana membuat aplikasi?\nTujuan pembangunan saja\nTambahkan gap dan pertanyaan pengetahuan\n\n\nApakah pengguna puas?\nBelum menjelaskan kemampuan atau dampak\nHubungkan kepuasan dengan hasil yang relevan\n\n\n\nPertanyaan tidak harus menjadi satu kalimat yang sangat panjang. Peneliti dapat menyatakan pertanyaan utama yang ringkas, lalu melengkapinya dengan tabel PICOC. Tabel menjaga agar konteks tidak hilang ketika pertanyaan dikutip di bagian metode dan hasil.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#picoc-dalam-pencarian-dan-pengujian",
+    "href": "chapters/02-metode-metodologi-picoc.html#picoc-dalam-pencarian-dan-pengujian",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "2.4 PICOC dalam pencarian dan pengujian",
+    "text": "2.4 PICOC dalam pencarian dan pengujian\nUntuk kajian literatur, unsur pertanyaan membantu menurunkan kata kunci serta kriteria pemilihan studi. Strategi pencarian perlu diuji terhadap artikel relevan yang sudah diketahui. Semua unsur PICOC tidak selalu harus digabungkan dengan AND karena pencarian yang terlalu sempit dapat kehilangan studi penting. Rencana pencarian, seleksi, penilaian kualitas, ekstraksi, dan sintesis tetap perlu dijelaskan (Kitchenham dan Charters 2007).\nSebagai rancangan pedagogis, tabel berikut menghubungkan PICOC dengan keputusan pengujian. Hubungan ini membantu peneliti mengubah pertanyaan menjadi rencana kerja.\n\n\n\n\n\n\n\n\nUnsur\nKeputusan operasional\nRisiko jika diabaikan\n\n\n\n\nPopulation\nUnit analisis dan cara memilih peserta\nKlaim untuk populasi yang tidak diteliti\n\n\nIntervention\nPerlakuan dan intensitas penggunaan\nIntervensi tidak dapat direplikasi\n\n\nComparison\nBaseline dengan kesempatan setara\nPengaruh pelatihan tercampur\n\n\nOutcome\nUkuran, waktu, dan instrumen\nHasil dipilih sesudah melihat data\n\n\nContext\nBeban, fasilitas, aturan, dan kondisi\nTemuan dipindahkan ke konteks yang berbeda",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#justifikasi-yang-dapat-ditelaah",
+    "href": "chapters/02-metode-metodologi-picoc.html#justifikasi-yang-dapat-ditelaah",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "2.5 Justifikasi yang dapat ditelaah",
+    "text": "2.5 Justifikasi yang dapat ditelaah\nContoh kalimat metodologi: penelitian menggunakan DSRM untuk mengembangkan artefak rekomendasi produksi, PICOC untuk memperjelas pertanyaan evaluasi, simulasi untuk membandingkan kebijakan pada kondisi terkendali, dan pilot untuk menilai penggunaan nyata. Kalimat berikutnya perlu menjelaskan asumsi simulator, pemilihan pilot, serta batas kesimpulan.\nJustifikasi yang baik dapat ditelusuri. Jika sasaran penelitian adalah kemampuan manusia, data waktu proses saja tidak memadai. Jika pertanyaannya menyangkut kestabilan sistem, survei kepuasan saja belum menguji perilaku saat gangguan. Pemilihan metode mengikuti apa yang hendak diketahui.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-metode-metodologi-picoc.html#latihan",
+    "href": "chapters/02-metode-metodologi-picoc.html#latihan",
+    "title": "2  Metode, metodologi, dan PICOC",
+    "section": "2.6 Latihan",
+    "text": "2.6 Latihan\nSusun tabel PICOC untuk tutor AI yang membantu mahasiswa memahami pemrograman. Nyatakan satu ukuran hasil misi dan satu ukuran pertumbuhan kemampuan. Pilih baseline yang memungkinkan kesempatan belajar dibandingkan secara adil. Jelaskan satu faktor konteks yang dapat mengubah hasil.\n\n\n\n\nKitchenham, Barbara, dan Stuart Charters. 2007. Guidelines for Performing Systematic Literature Reviews in Software Engineering. EBSE-2007-01. Keele University; Durham University. https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/papers/guidelines-kitchenham.pdf.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metode, metodologi, dan PICOC</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html",
+    "href": "chapters/03-drm-dsrm.html",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "",
+    "text": "3.1 Dua penekanan dalam penelitian melalui desain\nDRM dari Blessing dan Chakrabarti menata penelitian untuk memahami desain serta mengembangkan dukungan perbaikannya (Blessing dan Chakrabarti 2009c). DSRM dari Peffers dan rekan menata penciptaan, demonstrasi, evaluasi, dan komunikasi artefak pemecahan masalah dalam sistem informasi (Peffers dkk. 2007). Keduanya menghubungkan tindakan merancang dengan bukti ilmiah.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#dua-penekanan-dalam-penelitian-melalui-desain",
+    "href": "chapters/03-drm-dsrm.html#dua-penekanan-dalam-penelitian-melalui-desain",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "",
+    "text": "Gambar 3.1: Perbandingan penekanan DRM dan DSRM. Diagram ini merupakan sintesis pedagogis, bukan model resmi baru.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#empat-tahap-drm",
+    "href": "chapters/03-drm-dsrm.html#empat-tahap-drm",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "3.2 Empat tahap DRM",
+    "text": "3.2 Empat tahap DRM\n\n\n\n\n\n\n\n\nTahap\nTujuan\nKeluaran yang perlu terlihat\n\n\n\n\nResearch Clarification\nMemperjelas fokus dan kriteria\nMasalah, tujuan, ukuran keberhasilan\n\n\nDescriptive Study I\nMemahami proses dan faktor berpengaruh\nPenjelasan keadaan awal\n\n\nPrescriptive Study\nMengembangkan dukungan desain\nMetode, pedoman, alat, atau konsep\n\n\nDescriptive Study II\nMengevaluasi dukungan\nBukti penerapan dan perbaikan\n\n\n\nRC memperjelas penelitian yang layak secara akademik serta praktis (Blessing dan Chakrabarti 2009e). DS-I menyediakan pemahaman tentang faktor keberhasilan (Blessing dan Chakrabarti 2009a). PS dapat menghasilkan pengetahuan, checklist, metode, atau alat bantu (Blessing dan Chakrabarti 2009d). DS-II mengevaluasi dukungan tersebut (Blessing dan Chakrabarti 2009b). Kedalaman setiap tahap dapat berbeda sesuai fokus proyek; DRM memungkinkan iterasi (Blessing dan Chakrabarti 2002).\n\n\n\n\n\n\nGambar 3.2: Empat tahap DRM dengan umpan balik dari evaluasi menuju pemahaman dan dukungan desain.\n\n\n\nContoh rancangan DRM pada pangan kampus: peneliti mengamati bagaimana pedagang merencanakan produksi, mengenali informasi yang hilang, mengembangkan metode perencanaan, lalu menilai apakah metode itu dapat diterapkan dan memperbaiki hasil. Fokus ilmiahnya dapat berada pada faktor yang menjelaskan keputusan produksi, bukan hanya pada aplikasi yang dibuat.\n\n\n\n\n\n\n\n\nPertanyaan contoh\nTahap dominan\nBukti contoh\n\n\n\n\nApa ukuran keberhasilan perencanaan?\nRC\nKebutuhan dan alasan kriteria\n\n\nMengapa perkiraan sering meleset?\nDS-I\nObservasi, data, wawancara\n\n\nDukungan apa yang mengatasi faktor tersebut?\nPS\nLogika dan rancangan metode\n\n\nApakah metode membantu keputusan nyata?\nDS-II\nPengujian penerapan dan dampak",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#enam-kegiatan-dsrm",
+    "href": "chapters/03-drm-dsrm.html#enam-kegiatan-dsrm",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "3.3 Enam kegiatan DSRM",
+    "text": "3.3 Enam kegiatan DSRM\n\n\n\n\n\n\n\nKegiatan\nIsi ringkas\n\n\n\n\nIdentifikasi masalah dan motivasi\nMasalah serta pentingnya penyelesaian\n\n\nPenentuan sasaran solusi\nKondisi keberhasilan yang diinginkan\n\n\nDesain dan pengembangan\nPenciptaan artefak\n\n\nDemonstrasi\nPenggunaan artefak untuk masalah\n\n\nEvaluasi\nPenilaian terhadap sasaran\n\n\nKomunikasi\nPenyampaian hasil dan kontribusi\n\n\n\nEnam kegiatan ini mengikuti model Peffers dan rekan (Peffers dkk. 2007). DSR adalah pendekatan penelitian yang lebih luas; DSRM Peffers merupakan metodologi tertentu. Dalam design science, pengetahuan tentang masalah dan solusi dapat diperoleh melalui pembangunan serta penggunaan artefak (Hevner dkk. 2004).\n\n\n\n\n\n\nGambar 3.3: Enam kegiatan DSRM. Evaluasi dapat memicu revisi sasaran atau pengembangan.\n\n\n\nPada contoh pangan, demonstrasi dapat menunjukkan rekomendasi produksi untuk satu skenario. Evaluasi perlu menjelaskan seberapa baik rekomendasi memenuhi sasaran, dengan pembanding dan kondisi yang dinyatakan. Keduanya dapat memakai data yang berkaitan, tetapi pertanyaan buktinya berbeda.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#pemilihan-berdasarkan-pertanyaan",
+    "href": "chapters/03-drm-dsrm.html#pemilihan-berdasarkan-pertanyaan",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "3.4 Pemilihan berdasarkan pertanyaan",
+    "text": "3.4 Pemilihan berdasarkan pertanyaan\n\n\n\n\n\n\n\n\nPertimbangan\nDRM\nDSRM\n\n\n\n\nPenekanan\nPemahaman dan perbaikan desain\nArtefak dan kegunaan solusi\n\n\nKeadaan awal\nTahap DS-I tersendiri\nIdentifikasi masalah dan sasaran\n\n\nSolusi\nDukungan desain\nArtefak pemecahan masalah\n\n\nEvaluasi\nPenerapan serta perbaikan\nDemonstrasi dan evaluasi\n\n\n\nPemilihan bukan kompetisi nama metodologi. Peneliti perlu menunjukkan pekerjaan apa yang dilakukan, mengapa dibutuhkan, dan bukti apa yang dikumpulkan. Buku ini menggunakan perbandingan tersebut sebagai panduan penalaran; penyesuaian ke suatu tesis tetap harus mempertimbangkan pertanyaan dan sumber datanya.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#integrasi-dengan-tise",
+    "href": "chapters/03-drm-dsrm.html#integrasi-dengan-tise",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "3.5 Integrasi dengan TISE",
+    "text": "3.5 Integrasi dengan TISE\nSalah satu pilihan integrasi adalah memakai DRM untuk memahami faktor perancangan ekosistem, lalu memakai DSRM untuk mengembangkan alat bantu tertentu. Pilihan lain adalah memakai DSRM sebagai kerangka keseluruhan, dengan studi keadaan awal yang mendalam. Q-Cycle dapat membantu menata kebutuhan, fungsi, arsitektur, dan bukti di dalam pekerjaan itu.\n\n\n\n\n\n\n\n\nKerangka\nPeran yang dapat diberikan\nBatas integrasi\n\n\n\n\nPICOC\nMemperjelas pertanyaan\nBelum menentukan seluruh metode\n\n\nDRM atau DSRM\nMenata logika penelitian\nPerlu justifikasi pemilihan\n\n\nQ-Cycle\nMenelusuri keputusan rekayasa\nBukan pasangan satu-satu tahap metodologi\n\n\nEASTF\nMenyatakan lapisan kontribusi\nBukan urutan aktivitas wajib\n\n\n\nHubungan dalam tabel adalah sintesis buku ini. Sebuah laporan sebaiknya memilih kerangka utama dan menjelaskan fungsi kerangka pendukung. Penumpukan istilah tanpa peran yang jelas menyulitkan pembaca menilai metode.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-drm-dsrm.html#latihan",
+    "href": "chapters/03-drm-dsrm.html#latihan",
+    "title": "3  DRM dan DSRM dalam penelitian rekayasa",
+    "section": "3.6 Latihan",
+    "text": "3.6 Latihan\nUntuk riset metode perencanaan produksi pedagang, tentukan penekanan DRM atau DSRM. Tuliskan tiga bukti yang akan dikumpulkan. Jelaskan kontribusi yang dapat tetap bernilai meskipun artefak belum siap dirilis, serta klaim operasional yang belum boleh dibuat.\n\n\n\n\nBlessing, Lucienne T. M., dan Amaresh Chakrabarti. 2009a. “Descriptive Study I: Understanding Design.” Dalam DRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_4.\n\n\nBlessing, Lucienne T. M., dan Amaresh Chakrabarti. 2009b. “Descriptive Study II: Evaluating Design Support.” Dalam DRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_6.\n\n\nBlessing, Lucienne T. M., dan Amaresh Chakrabarti. 2009c. DRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1.\n\n\nBlessing, Lucienne T. M., dan Amaresh Chakrabarti. 2009d. “Prescriptive Study: Developing Design Support.” Dalam DRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_5.\n\n\nBlessing, Lucienne T. M., dan Amaresh Chakrabarti. 2009e. “Research Clarification.” Dalam DRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_3.\n\n\nBlessing, Lucienne, dan Amaresh Chakrabarti. 2002. “DRM: A Design Research Methodology.” Proceedings of Les Sciences de la Conception. https://dm.iisc.ac.in/cpdm/ideaslab090320/paper_scans/UID_41.pdf.\n\n\nHevner, Alan R., Salvatore T. March, Jinsoo Park, dan Sudha Ram. 2004. “Design Science in Information Systems Research.” MIS Quarterly 28 (1): 75–105. https://doi.org/10.2307/25148625.\n\n\nPeffers, Ken, Tuure Tuunanen, Marcus A. Rothenberger, dan Samir Chatterjee. 2007. “A Design Science Research Methodology for Information Systems Research.” Journal of Management Information Systems 24 (3): 45–77. https://doi.org/10.2753/MIS0742-1222240302.",
+    "crumbs": [
+      "Bahasa dan logika penelitian",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>DRM dan DSRM dalam penelitian rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html",
+    "href": "chapters/04-tise-triune.html",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "",
+    "text": "4.1 Rekayasa ekosistem berorientasi misi\nTISE berarti Triune-Intelligence Smart Engineering. Dalam dokumen penulis, TISE merekayasa ekosistem sosio-teknis agar manusia dan organisasi otonom dapat menjalankan misi yang melayani kebutuhan publik. Fondasinya memadukan kecerdasan manusia, kolektif, dan artifisial, dengan keberlanjutan sebagai batas kelayakan (Langi 2026a).\nEkosistem terdiri dari pihak yang saling bergantung tetapi tidak mempunyai tujuan yang identik. Mahasiswa ingin makanan terjangkau, pedagang ingin pendapatan layak, pemasok ingin kepastian pembelian, dan kampus ingin layanan yang aman. Rekayasa perlu membuat hubungan tersebut terlihat agar optimasi satu pihak dapat dinilai bersama dampaknya pada pihak lain.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html#arsitektur-triune-intelligence",
+    "href": "chapters/04-tise-triune.html#arsitektur-triune-intelligence",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "4.2 Arsitektur triune intelligence",
+    "text": "4.2 Arsitektur triune intelligence\n\n\n\n\n\n\nGambar 4.1: Tiga sumber kecerdasan memberi masukan pada keputusan dan menerima pembelajaran dari hasilnya.\n\n\n\n\n\n\n\n\n\n\n\nSumber\nKemampuan utama\nAlokasi tanggung jawab\n\n\n\n\nManusia atau alamiah\nTujuan, pengalaman, penilaian, kreativitas\nMenilai keadaan dan memegang tanggung jawab sesuai peran\n\n\nKolektif atau kultural\nPengetahuan tersebar, norma, koordinasi, legitimasi\nMenetapkan proses bersama dan mekanisme koreksi\n\n\nArtifisial\nAnalitik, prediksi, simulasi, pencarian alternatif\nMemberikan dukungan yang dapat diperiksa\n\n\n\nTiga sumber itu diwujudkan sebagai pembagian kerja. Sebuah rekomendasi produksi dari AI perlu dapat dijelaskan kepada pedagang, dikoreksi berdasarkan keadaan dapur, dan diterapkan sesuai aturan layanan. Proses kolektif menentukan standar, pembagian kewenangan, dan penyelesaian konflik. Manusia mempertanggungjawabkan keputusan sesuai otoritasnya (Langi 2026b).",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html#tujuan-kemampuan-dan-otoritas",
+    "href": "chapters/04-tise-triune.html#tujuan-kemampuan-dan-otoritas",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "4.3 Tujuan, kemampuan, dan otoritas",
+    "text": "4.3 Tujuan, kemampuan, dan otoritas\nKecerdasan tidak sama dengan kewenangan. Sistem dapat sangat baik memprediksi permintaan tetapi tidak mempunyai legitimasi untuk mengubah harga sepihak. Arsitektur keputusan perlu memisahkan masukan, rekomendasi, persetujuan, tindakan, dan audit. Pemisahan tersebut membantu pelaku memahami apa yang dapat mereka ubah.\n\n\n\n\n\n\n\n\n\nKeputusan contoh\nMasukan AI\nPenilaian manusia\nProses kolektif\n\n\n\n\nJumlah produksi\nPerkiraan dan rentang galat\nKetersediaan bahan dan tenaga\nAturan kapasitas serta layanan\n\n\nHarga dan subsidi\nSimulasi biaya dan akses\nPengalaman pengguna dan pedagang\nKesepakatan kewenangan\n\n\nPerubahan layanan\nPerbandingan skenario\nRisiko penggunaan nyata\nPersetujuan dan pengawasan\n\n\nPeluncuran ekosistem baru\nHasil uji virtual\nKesiapan pelaku\nTata kelola dan penerimaan\n\n\n\nAI dapat memperbesar kecepatan penelusuran alternatif. Kecerdasan kolektif memperluas basis pengetahuan. Kecerdasan manusia memberi penilaian yang terkait pengalaman hidup serta tanggung jawab. Mutu keseluruhan bergantung pada hubungan ketiganya dan kemampuan saling mengoreksi.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html#keberlanjutan-sebagai-batas-kelayakan",
+    "href": "chapters/04-tise-triune.html#keberlanjutan-sebagai-batas-kelayakan",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "4.4 Keberlanjutan sebagai batas kelayakan",
+    "text": "4.4 Keberlanjutan sebagai batas kelayakan\n\n\n\n\n\n\nGambar 4.2: Alternatif terlebih dahulu melewati batas kelayakan. Optimasi kemudian dilakukan di ruang tindakan yang memenuhi batas.\n\n\n\n\n\n\n\n\n\n\n\nBatas\nPertanyaan untuk rancangan\nContoh bukti\n\n\n\n\nFinansial\nDapatkah pelaku melanjutkan operasi?\nArus kas dan biaya\n\n\nOperasional\nApakah kapasitas dan tenaga cukup?\nUji beban, jadwal, ketersediaan\n\n\nSosial\nSiapa kehilangan akses atau menanggung beban?\nData distribusi dan pengalaman\n\n\nLingkungan\nApa konsekuensi sumber daya dan limbah?\nPengukuran penggunaan dan sisa\n\n\nKapabilitas manusia\nApakah pengguna masih dapat memahami dan mengoreksi?\nUji penjelasan, koreksi, transfer\n\n\n\nDalam TISE, batas tersebut menentukan tindakan yang layak. Keberhasilan perlu dinilai sepanjang waktu. Solusi yang meningkatkan keluaran hari ini tetapi mengurangi kemampuan melayani misi berikutnya menghadapi masalah keberlanjutan.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html#pertanyaan-penelitian-tentang-triune-intelligence",
+    "href": "chapters/04-tise-triune.html#pertanyaan-penelitian-tentang-triune-intelligence",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "4.5 Pertanyaan penelitian tentang triune intelligence",
+    "text": "4.5 Pertanyaan penelitian tentang triune intelligence\nPeneliti dapat menanyakan pembagian fungsi apa yang memberi hasil terbaik pada suatu konteks, bagaimana pengguna menilai rekomendasi, atau bagaimana mekanisme koreksi memengaruhi keputusan. Setiap pertanyaan perlu menyebut unit analisis dan outcome. Jumlah pengguna AI tidak dengan sendirinya mengukur pemberdayaan. Kecepatan keputusan tidak dengan sendirinya menunjukkan legitimasi.\nSebagai contoh rancangan, bandingkan rekomendasi otomatis dengan rekomendasi yang dapat dijelaskan dan dikoreksi. Ukur hasil misi, kemampuan pengguna menjelaskan alasan, serta kejadian koreksi. Hipotesis tentang manfaat pembagian peran harus diuji; dokumen konseptual tidak menggantikan pengukuran.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-tise-triune.html#latihan",
+    "href": "chapters/04-tise-triune.html#latihan",
+    "title": "4  TISE dan tiga sumber kecerdasan",
+    "section": "4.6 Latihan",
+    "text": "4.6 Latihan\nPilih satu keputusan dalam layanan publik. Tentukan kontribusi manusia, kolektif, dan AI, termasuk siapa yang menyetujui tindakan. Gambarkan jalur koreksi ketika rekomendasi salah. Jelaskan bagaimana bukti akan menunjukkan bahwa pengguna tetap mempunyai kendali.\n\n\n\n\nLangi, Armein Z. R. 2026a. Apa Itu TISE? Pengantar Triune-Intelligence Smart Engineering untuk Ekosistem Berorientasi Misi.\n\n\nLangi, Armein Z. R. 2026b. TISE: Transkrip Presentasi Akademik.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TISE dan tiga sumber kecerdasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html",
+    "href": "chapters/05-misi-pskve-pudal.html",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "",
+    "text": "5.1 Rantai sumber daya dan nilai\nRMOV menghubungkan Resource, Mission, Output, dan Value. Sumber daya digunakan untuk menjalankan misi, misi menghasilkan keluaran, dan keluaran memperoleh nilai dalam kehidupan para pihak. Nilai dapat berupa uang, akses, kesehatan, pengetahuan, kepercayaan, atau kondisi lingkungan (Langi 2026a).\nKeluaran dan nilai perlu dibedakan. Seratus porsi merupakan keluaran. Manfaatnya bergantung pada siapa yang dapat mengaksesnya, mutu makanan, waktu tersedia, biaya, dan dampaknya pada pelaku lain. Pengukuran nilai mengikuti misi yang dinyatakan.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#rantai-sumber-daya-dan-nilai",
+    "href": "chapters/05-misi-pskve-pudal.html#rantai-sumber-daya-dan-nilai",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "",
+    "text": "Gambar 5.1: RMOV menghubungkan sumber daya dengan misi, keluaran, dan nilai yang mendukung siklus berikutnya.\n\n\n\n\n\n\n\n\n\n\n\nUnsur\nPangan kampus\nKesalahan penafsiran\n\n\n\n\nResource\nBahan, kapasitas dapur, tenaga, informasi\nMenghitung uang saja\n\n\nMission\nMenyediakan makanan sehat dan terjangkau\nMenyebut fitur sebagai misi\n\n\nOutput\nPorsi makanan serta layanan pengambilan\nMenganggap keluaran pasti bermanfaat\n\n\nValue\nAkses pangan, pendapatan, pengetahuan\nMenyamakan nilai dengan harga",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#empat-peran-fungsional",
+    "href": "chapters/05-misi-pskve-pudal.html#empat-peran-fungsional",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "5.2 Empat peran fungsional",
+    "text": "5.2 Empat peran fungsional\n\n\n\n\n\n\nGambar 5.2: Peran SOURCE, OPERATOR, USER, dan REGULATOR dalam hubungan sumber daya, layanan, umpan balik, dan batas.\n\n\n\n\n\n\n\n\n\n\n\nPeran\nKontribusi\nPertanyaan kendali\n\n\n\n\nSOURCE\nSumber daya, talenta, keluaran\nApakah pasokan dan kapasitas cukup?\n\n\nUSER\nPenggunaan dan penerimaan hasil\nApakah manfaat mencapai pihak sasaran?\n\n\nOPERATOR\nKoordinasi serta pelaksanaan\nApakah proses dapat dijalankan?\n\n\nREGULATOR\nBatas, aturan, kewenangan\nApakah keputusan memenuhi syarat?\n\n\n\nSatu pihak dapat memegang beberapa peran. Pembagian fungsi tetap perlu terlihat agar konflik kepentingan serta kewenangan dapat diperiksa. Identifikasi peran juga membantu menentukan data: sumber memberi data kapasitas, pengguna memberi pengalaman, operator memberi catatan proses, dan regulator memberi kriteria penerimaan.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#lima-dimensi-pskve",
+    "href": "chapters/05-misi-pskve-pudal.html#lima-dimensi-pskve",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "5.3 Lima dimensi PSKVE",
+    "text": "5.3 Lima dimensi PSKVE\n\n\n\n\n\n\nGambar 5.3: Lima dimensi PSKVE membantu menilai pertukaran yang mendukung kelayakan misi berikutnya.\n\n\n\n\n\n\n\n\n\n\n\nDimensi\nMakna dalam dokumen TISE\nContoh perhatian\n\n\n\n\nProducts\nProduk fisik atau digital\nMutu serta ketersediaan\n\n\nServices\nLayanan yang menyertai penggunaan\nAkses, ketepatan, keandalan\n\n\nKnowledge\nAliran pengetahuan dan pembelajaran\nPemahaman, transfer, koreksi\n\n\nValues\nNilai, komitmen, kepercayaan\nMartabat, keadilan, tanggung jawab\n\n\nEnvironment\nLingkungan fisik, digital, sosial, kelembagaan\nSumber daya dan kondisi interaksi\n\n\n\nPSKVE membuat pertukaran nonfinansial terlihat. Sebuah sistem dapat menghasilkan pendapatan sambil menghambat aliran pengetahuan atau mengurangi kepercayaan. Karena itu, evaluasi perlu memilih indikator yang relevan untuk tiap dimensi, dengan alasan yang jelas. Tidak semua dimensi harus diringkas menjadi satu skor.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#kendali-dan-pembelajaran-pudal",
+    "href": "chapters/05-misi-pskve-pudal.html#kendali-dan-pembelajaran-pudal",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "5.4 Kendali dan pembelajaran PUDAL",
+    "text": "5.4 Kendali dan pembelajaran PUDAL\nPUDAL adalah Perceive, Understand, Decide, Act, Learn. Siklus ini mengamati kondisi, memahami perubahan, menyusun keputusan, melakukan tindakan yang disetujui, dan mempelajari hasil. Dalam dokumen TISE, PUDAL menjaga adaptasi operasi (Langi 2026b).\n\n\n\n\n\n\nGambar 5.4: Siklus PUDAL menghubungkan pengamatan dan pembelajaran dengan tindakan berikutnya.\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPertanyaan\nKeluaran yang dapat dicatat\n\n\n\n\nPerceive\nApa yang berubah?\nData dan kejadian\n\n\nUnderstand\nApa artinya terhadap misi?\nDiagnosis beserta ketidakpastian\n\n\nDecide\nPilihan apa yang layak?\nAlternatif dan alasan\n\n\nAct\nSiapa melakukan apa?\nTindakan serta persetujuan\n\n\nLearn\nApa yang berhasil dan perlu diperbaiki?\nPembaruan model atau praktik",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#dua-bagian-arsitektur",
+    "href": "chapters/05-misi-pskve-pudal.html#dua-bagian-arsitektur",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "5.5 Dua bagian arsitektur",
+    "text": "5.5 Dua bagian arsitektur\n\n\n\n\n\n\nGambar 5.5: Proses inti menghasilkan keluaran. PUDAL mengatur adaptasi, sementara interaksi juga menghasilkan pembelajaran manusia.\n\n\n\nProses inti PSKVE mengubah sumber daya menjadi keluaran dan nilai. PUDAL mengamati keadaan dan membantu penyesuaian. Pengguna berpartisipasi dengan memberi koreksi serta pengalaman. Arsitektur perlu menyatakan informasi yang menghubungkan kedua bagian dan kewenangan untuk melakukan perubahan.\nDalam pangan kampus, proses inti meliputi pasokan, produksi, penjualan, dan pengelolaan sisa. Kendali meliputi perkiraan permintaan, pemeriksaan kapasitas, keputusan produksi, serta evaluasi hasil. Model yang hanya menggambarkan pembayaran belum menjelaskan keseluruhan mekanisme.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-misi-pskve-pudal.html#latihan",
+    "href": "chapters/05-misi-pskve-pudal.html#latihan",
+    "title": "5  Misi, PSKVE, RMOV, dan PUDAL",
+    "section": "5.6 Latihan",
+    "text": "5.6 Latihan\nPilih layanan yang Anda kenal. Isi RMOV untuk dua pelaku, identifikasi empat peran, dan tuliskan satu ukuran untuk tiap dimensi PSKVE. Kemudian susun catatan PUDAL untuk satu gangguan: data apa yang diamati, diagnosis apa yang dibuat, siapa menyetujui tindakan, dan apa yang dipelajari?\n\n\n\n\nLangi, Armein Z. R. 2026a. Apa Itu TISE? Pengantar Triune-Intelligence Smart Engineering untuk Ekosistem Berorientasi Misi.\n\n\nLangi, Armein Z. R. 2026b. TISE: Transkrip Presentasi Akademik.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Misi, PSKVE, RMOV, dan PUDAL</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html",
+    "href": "chapters/06-q-cycle.html",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "",
+    "text": "6.1 Empat ruang pertanyaan rekayasa\nQ-Cycle dalam dokumen TISE menghubungkan Q1 masalah dan misi, Q2 fungsi dan perilaku, Q3 arsitektur, serta Q4 konstruksi dan bukti. Hasil realisasi kembali memperbaiki perumusan masalah. Q-Cycle merupakan siklus penalaran yang dapat diulang (Langi 2026).",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#empat-ruang-pertanyaan-rekayasa",
+    "href": "chapters/06-q-cycle.html#empat-ruang-pertanyaan-rekayasa",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "",
+    "text": "Gambar 6.1: Empat ruang Q-Cycle dengan umpan balik dari realisasi dan keputusan arsitektur.\n\n\n\n\n\n\n\n\n\n\n\n\nRuang\nPertanyaan\nKeluaran\nPemeriksaan\n\n\n\n\nQ1\nPerubahan apa dibutuhkan?\nMisi, kebutuhan, batas, ukuran\nTujuan belum terkunci pada teknologi\n\n\nQ2\nFungsi apa memungkinkan perubahan?\nAliran, perilaku, persyaratan\nFungsi terkait kebutuhan\n\n\nQ3\nBagaimana fungsi dialokasikan?\nKomponen, antarmuka, peran\nPilihan dan kewenangan jelas\n\n\nQ4\nBagaimana diwujudkan dan dibuktikan?\nArtefak, uji, operasi, bukti\nKlaim kembali ke Q1",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#q1-masalah-sebagai-perubahan-keadaan",
+    "href": "chapters/06-q-cycle.html#q1-masalah-sebagai-perubahan-keadaan",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.2 Q1: masalah sebagai perubahan keadaan",
+    "text": "6.2 Q1: masalah sebagai perubahan keadaan\nRumusan “buat aplikasi pemesanan” telah memilih bentuk solusi. Rumusan kebutuhan dapat menyatakan bahwa mahasiswa kesulitan memperoleh makanan sehat tepat waktu, sementara pedagang menghadapi ketidakpastian produksi. Q1 menjelaskan keadaan awal, keadaan yang diinginkan, pihak yang terdampak, dan batas perubahan.\n\n\n\n\n\n\n\n\nElemen Q1\nIsi contoh\nBukti awal yang dibutuhkan\n\n\n\n\nKeadaan awal\nWaktu tunggu dan sisa produksi\nObservasi serta catatan\n\n\nKeadaan tujuan\nAkses membaik dengan limbah terkendali\nKriteria yang disepakati\n\n\nPihak\nMahasiswa, pedagang, pemasok, kampus\nPemetaan peran dan pengalaman\n\n\nBatas\nKapasitas, biaya, mutu, kewenangan\nData dan aturan\n\n\nUkuran\nCakupan, limbah, pendapatan, kemampuan\nInstrumen dan waktu pengukuran\n\n\n\nQ1 yang baik memungkinkan beberapa solusi. Ia juga membatasi ambisi. Jika penelitian hanya dilakukan pada satu kantin, ruang klaim perlu menyatakan konteks tersebut dan menjelaskan alasan memperluas atau membatasi generalisasi.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#q2-fungsi-dan-kendali",
+    "href": "chapters/06-q-cycle.html#q2-fungsi-dan-kendali",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.3 Q2: fungsi dan kendali",
+    "text": "6.3 Q2: fungsi dan kendali\n\n\n\n\n\n\nGambar 6.2: Q2 memisahkan transformasi inti, pemantauan, dan kendali adaptif.\n\n\n\nFungsi menyatakan apa yang perlu dilakukan. Memperkirakan permintaan merupakan fungsi; model statistik tertentu merupakan pilihan implementasi. Memisahkan fungsi dari teknologi membantu menilai alternatif tanpa kehilangan kebutuhan awal.\n\n\n\n\n\n\n\n\nKebutuhan\nFungsi inti\nFungsi kendali\n\n\n\n\nMakanan tersedia\nProduksi dan distribusi\nPantau permintaan serta kapasitas\n\n\nSisa terkendali\nAlokasi jumlah produksi\nPerbarui rencana dari hasil\n\n\nKeputusan dapat dikoreksi\nSajikan rekomendasi\nCatat alasan dan koreksi\n\n\nManusia semakin mampu\nBerikan penjelasan\nNilai transfer dan sesuaikan bantuan\n\n\n\nAnalisis fungsional juga menjelaskan keadaan dan kondisi transisi. Sistem dapat berada pada keadaan normal, beban puncak, pasokan terbatas, atau operasi darurat. Fungsi yang diperlukan saat gangguan dapat berbeda dari fungsi pada demonstrasi normal.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#q3-arsitektur-dan-alasan-alokasi",
+    "href": "chapters/06-q-cycle.html#q3-arsitektur-dan-alasan-alokasi",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.4 Q3: arsitektur dan alasan alokasi",
+    "text": "6.4 Q3: arsitektur dan alasan alokasi\nArsitektur mengalokasikan fungsi kepada manusia, organisasi, perangkat, perangkat lunak, AI, dan aturan. Pemilihan perlu mempertimbangkan kemampuan, risiko, ketergantungan, serta kewenangan. Sebuah fungsi tidak selalu tepat ditempatkan pada AI hanya karena dapat diotomasi.\n\n\n\n\n\n\n\n\n\nFungsi\nAlokasi contoh\nAlasan\nAntarmuka\n\n\n\n\nPerkiraan permintaan\nModul analitik\nMengolah data berulang\nData transaksi dan keluaran prediksi\n\n\nPenilaian kelayakan produksi\nPedagang\nMengetahui kondisi dapur\nRekomendasi dan koreksi\n\n\nAturan layanan\nKampus dan perwakilan pelaku\nLegitimasi bersama\nStandar serta persetujuan\n\n\nCatatan perubahan\nOperator\nKetertelusuran\nLog keputusan dan hasil",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#q4-realisasi-dan-bukti",
+    "href": "chapters/06-q-cycle.html#q4-realisasi-dan-bukti",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.5 Q4: realisasi dan bukti",
+    "text": "6.5 Q4: realisasi dan bukti\nQ4 mencakup konstruksi, integrasi, pengujian, operasi, pemeliharaan, dan evaluasi sesuai lingkup pekerjaan. Dalam pengembangan virtual, Q4 dapat menghasilkan prototipe digital twin. Dalam pilot, Q4 menghasilkan artefak yang berinteraksi dengan pengguna nyata. Keduanya menghasilkan jenis bukti berbeda.\n\n\n\n\n\n\nGambar 6.3: Ketertelusuran kebutuhan, fungsi, komponen, uji, dan bukti. Setiap klaim memiliki jalur kembali ke kebutuhan.\n\n\n\n\n\n\n\n\n\n\n\n\n\nID kebutuhan\nFungsi\nElemen arsitektur\nUji\nBatas bukti\n\n\n\n\nN1 akses pangan\nSesuaikan produksi\nModul dan pedagang\nCakupan permintaan\nKondisi serta periode uji\n\n\nN2 limbah\nKendali jumlah\nKebijakan produksi\nRasio sisa\nDefinisi sisa dan pengukuran\n\n\nN3 kemampuan\nJelaskan rekomendasi\nAntarmuka dan aktivitas refleksi\nUji transfer\nPeserta serta tugas baru",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#q-cycle-dan-pudal",
+    "href": "chapters/06-q-cycle.html#q-cycle-dan-pudal",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.6 Q-Cycle dan PUDAL",
+    "text": "6.6 Q-Cycle dan PUDAL\n\n\n\n\n\n\nGambar 6.4: PUDAL menangani adaptasi rutin. Bukti masalah struktural memicu Q-Cycle baru.\n\n\n\nPerbedaan skala waktu membantu tim memilih tindakan. Penyesuaian jumlah produksi dapat dilakukan di dalam arsitektur yang ada. Perubahan model kewenangan atau pembagian peran memerlukan keputusan desain yang lebih mendasar. Catatan operasi perlu menunjukkan alasan perubahan agar adaptasi dapat ditelaah.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-q-cycle.html#latihan",
+    "href": "chapters/06-q-cycle.html#latihan",
+    "title": "6  Q-Cycle dan ketertelusuran bukti",
+    "section": "6.7 Latihan",
+    "text": "6.7 Latihan\nBuat matriks ketertelusuran untuk tiga kebutuhan. Pastikan satu kebutuhan menyangkut kemampuan manusia. Tentukan satu gangguan yang dapat ditangani PUDAL dan satu masalah yang memerlukan Q-Cycle baru. Jelaskan bukti yang membedakan keduanya.\n\n\n\n\nLangi, Armein Z. R. 2026. Apa Itu TISE? Pengantar Triune-Intelligence Smart Engineering untuk Ekosistem Berorientasi Misi.",
+    "crumbs": [
+      "Kerangka TISE",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Q-Cycle dan ketertelusuran bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html",
+    "href": "chapters/07-eastf.html",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "",
+    "text": "7.1 Objek dan kontribusi pada lima lapisan\nEASTF mengikuti susunan yang dirumuskan dalam percakapan: Ecosystem, Application, System, Technology, Fundamental Research (Langi 2026). Penjelasan di bab ini merupakan sintesis pedagogis. EASTF membantu menjawab di mana pertanyaan dan kontribusi berada serta bagaimana bukti dihubungkan antarlapisan.\nAplikasi berarti penerapan pada pekerjaan, termasuk layanan atau praktik organisasi. Sistem dapat berupa kesatuan sosio-teknis, dengan manusia dan aturan sebagai bagian arsitektur. Teknologi mencakup mekanisme yang memungkinkan fungsi diwujudkan. Fundamental research tidak terbatas pada pembuktian matematis; mekanisme dasar dapat diselidiki melalui eksperimen yang tepat.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#objek-dan-kontribusi-pada-lima-lapisan",
+    "href": "chapters/07-eastf.html#objek-dan-kontribusi-pada-lima-lapisan",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "",
+    "text": "Gambar 7.1: EASTF menelusuri kebutuhan dari ekosistem menuju gap pengetahuan, lalu kemampuan dan manfaat kembali ke ekosistem.\n\n\n\n\n\n\n\n\n\n\n\n\nLapisan\nUnit perhatian\nResearch question khas\nKontribusi yang mungkin\n\n\n\n\nE, Ekosistem\nHubungan pelaku, misi, sumber daya, aturan\nBagaimana misi saling mendukung secara berkelanjutan?\nPengetahuan tentang koordinasi, tata kelola, distribusi\n\n\nA, Aplikasi\nPenggunaan pada pekerjaan tertentu\nApakah intervensi membantu pengguna?\nBukti manfaat dan kondisi penerapan\n\n\nS, Sistem\nKesatuan fungsi dan komponen\nArsitektur apa menghasilkan perilaku yang diperlukan?\nPengetahuan integrasi dan kendali\n\n\nT, Teknologi\nMekanisme atau komponen\nBagaimana kemampuan teknis ditingkatkan?\nMetode, perangkat, algoritma yang diuji\n\n\nF, Fundamental\nPrinsip, hubungan, mekanisme, batas\nMengapa bekerja dan apa batasnya?\nPengetahuan teoretis atau empiris mendasar",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#pertanyaan-pada-satu-kasus",
+    "href": "chapters/07-eastf.html#pertanyaan-pada-satu-kasus",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "7.2 Pertanyaan pada satu kasus",
+    "text": "7.2 Pertanyaan pada satu kasus\n\n\n\n\n\n\n\n\nLapisan\nPangan kampus\nOutcome contoh\n\n\n\n\nE\nBagaimana koordinasi menjaga akses dan kelayakan pelaku?\nDistribusi manfaat, kapasitas berkelanjutan\n\n\nA\nApakah prapesan memperbaiki layanan?\nWaktu tunggu, sisa, akses\n\n\nS\nBagaimana layanan bertahan saat gangguan pasokan?\nDegradasi kinerja dan pemulihan\n\n\nT\nMetode prediksi mana memberi galat lebih kecil?\nGalat pada data serta baseline\n\n\nF\nBagaimana delay informasi memengaruhi kestabilan kendali?\nHubungan teoretis dan batas kestabilan\n\n\n\nOutcome tersebut memerlukan alat ukur berbeda. Penelitian tidak cukup berpindah kata dari “akurasi” menjadi “manfaat”. Ia perlu menjelaskan mekanisme yang menghubungkan kemampuan teknis dengan keputusan, layanan, dan dampak. Hubungan itu dapat gagal ketika pengguna tidak mempunyai sumber daya atau kewenangan untuk bertindak.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#bukti-tidak-naik-otomatis",
+    "href": "chapters/07-eastf.html#bukti-tidak-naik-otomatis",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "7.3 Bukti tidak naik otomatis",
+    "text": "7.3 Bukti tidak naik otomatis\nMisalkan model prediksi mengurangi galat. Sistem tetap dapat gagal karena data terlambat. Aplikasi tetap dapat kurang bermanfaat karena pedagang tidak dapat mengubah pesanan bahan. Ekosistem tetap dapat menghadapi ketidakadilan ketika biaya perubahan ditanggung satu pihak. Pertanyaan pada tiap lapisan mengidentifikasi penjelasan yang belum diuji.\n\n\n\n\n\n\n\n\nKlaim awal\nLangkah bukti berikutnya\nKondisi yang perlu dijaga\n\n\n\n\nPrediksi lebih akurat\nUji dampak pada keputusan\nData dan aturan keputusan\n\n\nKeputusan produksi membaik\nUji layanan nyata\nKapasitas serta kemampuan pelaku\n\n\nLayanan lebih efisien\nUji manfaat pengguna\nAkses, biaya, mutu\n\n\nPengguna memperoleh manfaat\nUji kelayakan ekosistem\nDistribusi, waktu, lingkungan",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#eastf-dan-q-cycle-sebagai-dua-dimensi",
+    "href": "chapters/07-eastf.html#eastf-dan-q-cycle-sebagai-dua-dimensi",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "7.4 EASTF dan Q-Cycle sebagai dua dimensi",
+    "text": "7.4 EASTF dan Q-Cycle sebagai dua dimensi\nEASTF menyatakan lapisan objek. Q-Cycle menyatakan ruang penalaran. Semua lapisan dapat mengalami perumusan masalah, analisis, rancangan, dan pengujian. Dengan demikian, E tidak identik dengan Q1, dan F tidak identik dengan Q4.\n\n\n\n\n\n\n\n\n\n\nLapisan\nQ1\nQ2\nQ3\nQ4\n\n\n\n\nE\nMisi dan ketegangan\nAliran antarpihak\nTata kelola dan pembagian peran\nPilot dan bukti dampak\n\n\nA\nKebutuhan pekerjaan\nFungsi layanan\nRancangan interaksi\nUji penggunaan\n\n\nS\nPersyaratan sistem\nPerilaku dan kendali\nArsitektur komponen\nIntegrasi dan validasi\n\n\nT\nGap kemampuan\nMekanisme komponen\nRancangan implementasi\nUji teknis\n\n\nF\nGap pengetahuan\nHubungan atau hipotesis\nModel atau rancangan eksperimen\nPembuktian atau uji prinsip\n\n\n\nBaris F menggunakan Q-Cycle sebagai alat penalaran dalam sintesis ini. Pilihan metodologi ilmiah tetap mengikuti jenis pertanyaan. Penelitian fundamental tidak wajib menghasilkan produk operasional.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#menentukan-kontribusi-utama",
+    "href": "chapters/07-eastf.html#menentukan-kontribusi-utama",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "7.5 Menentukan kontribusi utama",
+    "text": "7.5 Menentukan kontribusi utama\nSetiap proyek tidak harus menciptakan pengetahuan baru di semua lapisan. Pilih kontribusi utama, lalu jelaskan ketergantungan terhadap lapisan lain. Misalnya, tesis teknologi dapat menggunakan kebutuhan aplikasi sebagai motivasi dan prinsip yang sudah diketahui sebagai landasan. Disertasi ekosistem dapat memakai perangkat lunak yang tersedia untuk menguji suatu mekanisme tata kelola.\nKeluasan lapisan juga tidak identik dengan jenjang akademik. TA, tesis, dan disertasi dibedakan melalui kedalaman, kemandirian, serta kontribusi sesuai aturan program, bukan kewajiban memilih F untuk doktor dan A untuk sarjana.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-eastf.html#latihan",
+    "href": "chapters/07-eastf.html#latihan",
+    "title": "7  EASTF sebagai lapisan research question",
+    "section": "7.6 Latihan",
+    "text": "7.6 Latihan\nTuliskan lima pertanyaan untuk satu topik, masing-masing pada E, A, S, T, dan F. Pilih satu sebagai kontribusi utama. Nyatakan bukti yang sudah tersedia dan jembatan antarlapisan yang belum terbukti. Beri alasan mengapa cakupan penelitian realistis.\n\n\n\n\nLangi, Armein Z. R. 2026. Perumusan EASTF, tahapan inovasi, dan rekayasawan paripurna.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>EASTF sebagai lapisan research question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html",
+    "href": "chapters/08-inovasi-kematangan.html",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "",
+    "text": "8.1 Gagasan, model, digital twin, realisasi\nTahapan inovasi yang dirumuskan dalam percakapan adalah gagasan, model, digital twin, dan realisasi (Langi 2026). Tahapan ini menjelaskan bentuk perwujudan dan bertambahnya bukti. Proses dapat kembali ke tahap sebelumnya ketika pengalaman menunjukkan asumsi yang perlu diperbaiki.\nModel bisa bersifat statis atau dinamis. Ia dapat menampilkan struktur, hubungan sebab-akibat yang dihipotesiskan, state, atau aturan keputusan. Kejelasan model membantu menemukan apa yang belum diketahui sebelum biaya realisasi meningkat.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#gagasan-model-digital-twin-realisasi",
+    "href": "chapters/08-inovasi-kematangan.html#gagasan-model-digital-twin-realisasi",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "",
+    "text": "Gambar 8.1: Tahap perwujudan inovasi dengan umpan balik dari realisasi dan pengujian virtual.\n\n\n\n\n\n\n\n\n\n\n\n\nTahap\nPekerjaan utama\nHasil\nGerbang keputusan\n\n\n\n\nGagasan\nMengusulkan perubahan\nKonsep dan dugaan manfaat\nMasalah serta mekanisme cukup jelas\n\n\nModel\nMenyatakan hubungan dan asumsi\nRepresentasi konseptual, logis, matematis\nModel konsisten dan sesuai tujuan\n\n\nPrototipe digital twin\nMenjalankan representasi virtual\nUji skenario dan interaksi\nBatas model serta hasil uji dipahami\n\n\nRealisasi\nMewujudkan pada lingkungan nyata\nArtefak, layanan, ekosistem\nBukti memenuhi cakupan penggunaan",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#digital-twin-dan-hubungan-dengan-sasaran",
+    "href": "chapters/08-inovasi-kematangan.html#digital-twin-dan-hubungan-dengan-sasaran",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "8.2 Digital twin dan hubungan dengan sasaran",
+    "text": "8.2 Digital twin dan hubungan dengan sasaran\nDigital twin mendukung representasi, diagnosis, prediksi, optimasi, dan pengendalian sasaran sepanjang siklus hidup (Lin dkk. 2023). Keterhubungan serta sinkronisasi dengan sasaran nyata merupakan perhatian penting (National Institute of Standards and Technology, t.t.). Pada prarealisasi, istilah prototipe digital twin atau model virtual digunakan untuk memperjelas status bukti dan hubungan data.\n\n\n\n\n\n\nGambar 8.2: Model virtual diuji melalui skenario. Setelah realisasi, data digunakan untuk kalibrasi dan pembaruan representasi.\n\n\n\n\n\n\n\n\n\n\n\nUnsur yang perlu dinyatakan\nPertanyaan\nContoh\n\n\n\n\nSasaran\nEntitas apa direpresentasikan?\nKantin, pelaku, aliran produksi\n\n\nFidelity\nDetail apa cukup untuk tujuan?\nProduksi harian atau antrean per menit\n\n\nData\nDari mana parameter berasal?\nSintetik, historis, pengukuran\n\n\nValidasi\nApa yang dibandingkan?\nPrediksi dengan pengamatan\n\n\nSinkronisasi\nBagaimana keadaan diperbarui?\nBatch harian sesuai keputusan\n\n\nKetidakpastian\nDi mana model lemah?\nPerubahan perilaku pelaku\n\n\n\nRepresentasi visual tiga dimensi tidak selalu diperlukan. Model perilaku sederhana dapat lebih berguna untuk pertanyaan tertentu. Sebaliknya, grafik yang menarik belum menunjukkan bahwa model menghasilkan prediksi yang dapat dipercaya.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#kematangan-industri",
+    "href": "chapters/08-inovasi-kematangan.html#kematangan-industri",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "8.3 Kematangan industri",
+    "text": "8.3 Kematangan industri\nKonsep, lab demo, testbed, release candidate, dan full release menunjukkan kesiapan penggunaan. Istilah serta gerbangnya bervariasi antarindustri. Tabel berikut adalah kerangka pedagogis dari percakapan, bukan standar sertifikasi universal.\n\n\n\n\n\n\nGambar 8.3: Kematangan artefak bergerak melalui pengujian yang lebih luas, dengan revisi sebelum dan setelah rilis.\n\n\n\n\n\n\n\n\n\n\n\nTahap\nCakupan bukti\nKeputusan berikutnya\n\n\n\n\nKonsep\nAlasan dan kelayakan awal\nInvestasi pengembangan\n\n\nLab demo\nFungsi inti pada kondisi terkendali\nUji integrasi\n\n\nTestbed\nSkenario yang mewakili penggunaan\nUji penerimaan\n\n\nRelease candidate\nVersi calon rilis sesuai kriteria\nRilis pada lingkup ditetapkan\n\n\nFull release\nKesiapan operasi dan dukungan\nPemantauan serta pemeliharaan\n\n\n\nTestbed secara tepat adalah lingkungan atau fasilitas uji. Istilah “tahap testbed” menyatakan bahwa artefak telah diuji di sana. Rilis juga tidak berarti pekerjaan selesai. Pengalaman operasi dapat mengubah persyaratan, model, atau arsitektur.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#empat-dimensi-dalam-satu-proyek",
+    "href": "chapters/08-inovasi-kematangan.html#empat-dimensi-dalam-satu-proyek",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "8.4 Empat dimensi dalam satu proyek",
+    "text": "8.4 Empat dimensi dalam satu proyek\n\n\n\n\n\n\n\n\nDimensi\nContoh posisi\nBukti yang diperiksa\n\n\n\n\nEASTF\nS, sistem koordinasi\nKontribusi integrasi\n\n\nQ-Cycle\nQ3 dan Q4\nAlasan arsitektur dan hasil uji\n\n\nTahap inovasi\nPrototipe digital twin\nPerilaku virtual dengan asumsi\n\n\nKematangan\nLab demo\nFungsi pada kondisi terkendali\n\n\n\nKematangan tidak selalu meningkat bersama kuatnya pengetahuan ilmiah. Rancangan model dapat menghasilkan bukti teoretis yang kuat, sementara prototipe masih terbatas. Produk matang dapat memakai prinsip yang sudah dikenal. Laporan perlu menyatakan kedua jenis pencapaian.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#gerbang-yang-dapat-ditelaah",
+    "href": "chapters/08-inovasi-kematangan.html#gerbang-yang-dapat-ditelaah",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "8.5 Gerbang yang dapat ditelaah",
+    "text": "8.5 Gerbang yang dapat ditelaah\nSebelum maju ke tahap berikutnya, tim meninjau klaim, bukti, ketidakpastian, serta biaya pembelajaran yang masih diperlukan. Kriteria gerbang sebaiknya dirumuskan sebelum pengujian. “Tidak ada masalah yang terlihat” kurang jelas dibandingkan persyaratan tertentu pada beban dan kondisi yang dinyatakan.\n\n\n\n\n\n\n\n\nGerbang contoh\nBukti minimum rancangan\nJika belum terpenuhi\n\n\n\n\nModel ke pengujian virtual\nAsumsi, parameter, aturan, pemeriksaan konsistensi\nPerbaiki representasi\n\n\nVirtual ke pilot\nSkenario, sensitivitas, batas, rencana validasi\nTambah data atau revisi\n\n\nPilot ke calon rilis\nPenerimaan pengguna dan uji operasional\nPerbaiki integrasi atau lingkup\n\n\nRilis ke perluasan\nKinerja, kapabilitas, kelayakan pelaku\nSesuaikan konteks dan kapasitas",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-inovasi-kematangan.html#latihan",
+    "href": "chapters/08-inovasi-kematangan.html#latihan",
+    "title": "8  Tahapan inovasi dan kematangan artefak",
+    "section": "8.6 Latihan",
+    "text": "8.6 Latihan\nNyatakan posisi proyek Anda pada empat dimensi. Tentukan gerbang berikutnya, bukti yang diperlukan, dan satu klaim yang belum boleh dibuat. Jelaskan bagaimana data realisasi akan memperbarui model virtual.\n\n\n\n\nLangi, Armein Z. R. 2026. Perumusan EASTF, tahapan inovasi, dan rekayasawan paripurna.\n\n\nLin, Shi-Wan, Kym Watson, Guodong Shao, Ljiljana Stojanovic, dan Bassam Zarkout. 2023. Digital Twin Core Conceptual Models and Services. Industry IoT Consortium. https://www.nist.gov/publications/digital-twin-core-conceptual-models-and-services.\n\n\nNational Institute of Standards and Technology. t.t. “Digital Twins: Essential Elements.” Diakses 1 Oktober 2026. https://www.nist.gov/digital-twins/essential-elements.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tahapan inovasi dan kematangan artefak</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html",
+    "href": "chapters/09-cerdas-mencerdaskan.html",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "",
+    "text": "9.1 Prinsip rekayasa berorientasi kemanusiaan\nPercakapan merumuskan tuntutan bahwa artefak harus cerdas dan mencerdaskan: semakin digunakan, semakin memampukan manusia memenuhi kebutuhan dasarnya serta mencapai aspirasinya (Langi 2026). Prinsip ini menjadikan perkembangan manusia sebagai tujuan desain dan objek evaluasi.\nPengetahuan saja tidak cukup untuk bertindak. Seseorang juga memerlukan sumber daya, akses, waktu, dukungan sosial, dan kewenangan. Karena itu, pengukuran kapabilitas perlu menilai kondisi yang memungkinkan kemampuan digunakan. TISE menghubungkan pertumbuhan kemampuan dengan lingkungan ekosistem.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#prinsip-rekayasa-berorientasi-kemanusiaan",
+    "href": "chapters/09-cerdas-mencerdaskan.html#prinsip-rekayasa-berorientasi-kemanusiaan",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "",
+    "text": "Sifat\nMakna operasional\nPertanyaan evaluasi\n\n\n\n\nCerdas\nMemahami keadaan dan membantu tindakan\nApakah pekerjaan berhasil pada kondisi tertentu?\n\n\nMencerdaskan\nMendukung pemahaman, penilaian, koreksi, penciptaan\nApakah kemampuan pengguna berkembang?\n\n\nMemampukan\nMemperluas kesempatan serta kemampuan bertindak\nApakah manusia dapat memenuhi kebutuhan dan mengejar aspirasi?",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#dua-keluaran-dari-interaksi",
+    "href": "chapters/09-cerdas-mencerdaskan.html#dua-keluaran-dari-interaksi",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "9.2 Dua keluaran dari interaksi",
+    "text": "9.2 Dua keluaran dari interaksi\n\n\n\n\n\n\nGambar 9.1: Interaksi menghasilkan hasil misi dan pertumbuhan kapabilitas. Pengalaman manusia juga memperbarui artefak.\n\n\n\nContoh tutor AI: sistem dapat membantu mahasiswa menyelesaikan soal sambil meningkatkan kemampuan mengenali masalah, memilih strategi, menjelaskan langkah, dan menilai jawaban. Dua hasil itu tidak selalu meningkat bersama. Desain perlu menyediakan kesempatan mencoba, penjelasan yang sesuai, koreksi, dan refleksi.\n\n\n\n\n\n\n\n\nInteraksi\nHasil misi\nHasil belajar yang dicari\n\n\n\n\nRekomendasi produksi\nRencana harian tersusun\nPedagang memahami dasar perkiraan\n\n\nTutor pemrograman\nTugas selesai\nMahasiswa mentransfer strategi\n\n\nLayanan kesehatan digital\nInformasi dapat diakses\nPengguna memahami pilihan dan pertanyaan\n\n\nSistem koordinasi\nTindakan terselaraskan\nPelaku memahami peran dan konsekuensi",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#desain-bantuan-yang-menumbuhkan-kemampuan",
+    "href": "chapters/09-cerdas-mencerdaskan.html#desain-bantuan-yang-menumbuhkan-kemampuan",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "9.3 Desain bantuan yang menumbuhkan kemampuan",
+    "text": "9.3 Desain bantuan yang menumbuhkan kemampuan\n\n\n\n\n\n\nGambar 9.2: Bantuan disesuaikan, disertai penjelasan dan refleksi, kemudian dinilai melalui transfer ke masalah baru.\n\n\n\n\n\n\n\n\n\n\n\nFitur\nMekanisme yang diharapkan\nCara menilainya\n\n\n\n\nPenjelasan alasan\nPengguna memahami hubungan\nUji menjelaskan kembali\n\n\nPetunjuk bertahap\nPengguna aktif mencoba\nCatatan strategi dan tugas\n\n\nKoreksi serta veto\nPengguna menjaga kendali\nKejadian koreksi yang beralasan\n\n\nRefleksi hasil\nPengalaman menjadi pengetahuan\nPerubahan alasan keputusan\n\n\nAdaptasi bantuan\nDukungan sesuai kemampuan\nBeban, keberhasilan, transfer\n\n\nAkses sumber daya\nKemampuan dapat digunakan\nKesempatan bertindak nyata\n\n\n\nMekanisme dalam tabel merupakan hipotesis desain. Efeknya perlu diuji. Pengurangan bantuan tidak selalu menjadi tujuan bagi setiap pengguna. Pengguna dengan kebutuhan aksesibilitas dapat memerlukan bantuan terus-menerus. Pertumbuhan kapabilitas berarti bertambahnya kemampuan dan pilihan yang bermakna, termasuk kemampuan memakai bantuan secara sadar.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#ukuran-sepanjang-waktu",
+    "href": "chapters/09-cerdas-mencerdaskan.html#ukuran-sepanjang-waktu",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "9.4 Ukuran sepanjang waktu",
+    "text": "9.4 Ukuran sepanjang waktu\nMenilai “semakin digunakan” memerlukan bukti longitudinal. Pengukuran sebelum penggunaan, selama penggunaan, dan setelahnya dapat menunjukkan perkembangan. Tugas transfer membantu memeriksa apakah kemampuan dapat digunakan pada situasi yang berbeda. Pengukuran perlu mempertimbangkan pengalaman awal serta kesempatan belajar.\n\n\n\n\n\n\n\n\nOutcome\nInstrumen contoh\nBatas penafsiran\n\n\n\n\nPencapaian misi\nKetepatan atau cakupan layanan\nDapat meningkat karena bantuan sistem\n\n\nPemahaman\nPenjelasan mekanisme\nInstrumen perlu valid untuk tujuan\n\n\nTransfer\nTugas baru dengan bantuan yang dinyatakan\nKonteks tugas menentukan klaim\n\n\nKendali\nKoreksi, alasan, pilihan\nBanyak koreksi bisa juga menandakan sistem buruk\n\n\nKesempatan\nAkses serta kemampuan bertindak\nDipengaruhi lingkungan dan sumber daya\n\n\n\n\n\n\n\n\n\nGambar 9.3: Kurva konseptual untuk diskusi: dua skenario kapabilitas sepanjang penggunaan. Angka dibuat secara sintetik, bukan hasil penelitian.\n\n\n\nPlot tersebut hanya menjelaskan pertanyaan desain. Penelitian nyata perlu mengukur kapabilitas dengan instrumen yang memadai serta pembanding. Kurva yang meningkat tidak boleh diasumsikan berlaku karena suatu fitur telah ditambahkan.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#pudal-sebagai-pembelajaran-timbal-balik",
+    "href": "chapters/09-cerdas-mencerdaskan.html#pudal-sebagai-pembelajaran-timbal-balik",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "9.5 PUDAL sebagai pembelajaran timbal balik",
+    "text": "9.5 PUDAL sebagai pembelajaran timbal balik\nLearn mencakup perubahan model dan praktik manusia. Artefak belajar dari pengalaman pengguna, sementara pengguna memperoleh pemahaman serta kesempatan baru. Catatan PUDAL perlu menunjukkan perubahan apa yang terjadi dan mengapa. Perubahan struktural dapat memicu Q-Cycle baru.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-cerdas-mencerdaskan.html#latihan",
+    "href": "chapters/09-cerdas-mencerdaskan.html#latihan",
+    "title": "9  Artefak cerdas, mencerdaskan, dan memampukan",
+    "section": "9.6 Latihan",
+    "text": "9.6 Latihan\nRancang satu fitur yang mencerdaskan pada sistem pilihan Anda. Nyatakan mekanisme, ukuran, pembanding, dan waktu pengujian. Jelaskan satu kemungkinan hasil yang menunjukkan peningkatan kinerja tanpa pertumbuhan kapabilitas, serta perubahan desain yang akan Anda pertimbangkan.\n\n\n\n\nLangi, Armein Z. R. 2026. Perumusan EASTF, tahapan inovasi, dan rekayasawan paripurna.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Artefak cerdas, mencerdaskan, dan memampukan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html",
+    "href": "chapters/10-versi-tise.html",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "",
+    "text": "10.1 Tiga lapisan perkembangan\nDokumen TISE penulis menjelaskan tiga versi sebagai tumpukan kemampuan. TISE 1.0 menjaga operasi misi tetap layak. TISE 2.0 menambahkan pembelajaran timbal balik. TISE 3.0 menambahkan kemampuan menciptakan serta mengelola ekosistem baru (Langi 2026a, 2026b).\nNomor versi dalam buku ini menunjukkan perkembangan konseptual. Tabel tersebut tidak menyatakan bahwa seluruh kemampuan telah terimplementasi atau tervalidasi pada setiap contoh. Status konkret perlu dilaporkan per artefak dan kasus.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#tiga-lapisan-perkembangan",
+    "href": "chapters/10-versi-tise.html#tiga-lapisan-perkembangan",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "",
+    "text": "Gambar 10.1: Versi TISE berkembang kumulatif. Ekosistem baru tetap memerlukan operasi berkelanjutan dan pembelajaran.\n\n\n\n\n\n\n\n\n\n\n\n\nVersi\nPertanyaan\nKemampuan tambahan\nBukti yang dicari\n\n\n\n\n1.0\nDapatkah misi terus dijalankan?\nAdaptasi dan kelayakan operasi\nHasil misi serta batas keberlanjutan\n\n\n2.0\nApakah penggunaan meningkatkan kemampuan?\nPembelajaran manusia dan sistem\nPerkembangan kapabilitas sepanjang waktu\n\n\n3.0\nDapatkah ekosistem baru diciptakan?\nPenciptaan dan tata kelola portofolio\nValidasi konteks baru dan kelayakan pelaku",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#tise-1.0-menjaga-kelayakan-misi",
+    "href": "chapters/10-versi-tise.html#tise-1.0-menjaga-kelayakan-misi",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "10.2 TISE 1.0: menjaga kelayakan misi",
+    "text": "10.2 TISE 1.0: menjaga kelayakan misi\nPada pangan kampus, perhatian utamanya mencakup akses pangan, kapasitas pedagang, sumber pasokan, biaya, serta limbah. PUDAL membantu adaptasi ketika kondisi berubah. Ekosistem dipandang layak ketika misi dapat dilanjutkan tanpa merusak prasyarat operasi berikutnya.\nPertanyaan penelitian dapat menilai kebijakan adaptasi atau distribusi risiko. Penilaian perlu menyebut horizon waktu. Kebijakan yang baik selama satu minggu belum membuktikan kelayakan selama satu tahun ketika biaya dan permintaan berubah.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#tise-2.0-hasil-misi-dan-hasil-pembelajaran",
+    "href": "chapters/10-versi-tise.html#tise-2.0-hasil-misi-dan-hasil-pembelajaran",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "10.3 TISE 2.0: hasil misi dan hasil pembelajaran",
+    "text": "10.3 TISE 2.0: hasil misi dan hasil pembelajaran\nDalam versi 2.0, peningkatan kinerja disertai perkembangan kemampuan manusia, kelompok, organisasi, dan artefak. Pedagang belajar membaca data produksi. Mahasiswa belajar menilai informasi gizi. Operator belajar mengenali gangguan. Pengetahuan yang diperoleh kemudian digunakan untuk memperbaiki praktik.\n\n\n\n\n\n\n\n\nPertanyaan\nOutcome misi\nOutcome kapabilitas\n\n\n\n\nApakah rekomendasi produksi membantu?\nCakupan dan sisa\nKemampuan menilai perkiraan\n\n\nApakah informasi pangan bermanfaat?\nPilihan sesuai kebutuhan\nPemahaman dan penilaian informasi\n\n\nApakah koordinasi membaik?\nPemulihan gangguan\nKemampuan mengambil peran\n\n\n\nVersi ini mempertegas prinsip artefak cerdas dan mencerdaskan. Bantuan perlu membuka kemampuan serta pilihan. Ukuran penggunaan atau kepuasan saja belum menguji prinsip tersebut.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#tise-3.0-penciptaan-ekosistem",
+    "href": "chapters/10-versi-tise.html#tise-3.0-penciptaan-ekosistem",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "10.4 TISE 3.0: penciptaan ekosistem",
+    "text": "10.4 TISE 3.0: penciptaan ekosistem\nTISE 3.0 menambahkan lapisan meta untuk menciptakan, menguji, meluncurkan, dan menghubungkan ekosistem baru. Ekosistem yang telah dipelajari menjadi sumber model, pengetahuan, dan praktik bagi konteks berikutnya. Adaptasi tetap diperlukan karena pelaku, sumber daya, aturan, serta kebutuhannya berbeda.\n\n\n\n\n\n\n\n\nKegiatan penciptaan\nPertanyaan utama\nHasil yang perlu diperiksa\n\n\n\n\nIdentifikasi konteks\nMisi apa dibutuhkan di lokasi baru?\nKebutuhan dan pelaku\n\n\nAdaptasi model\nAsumsi mana masih berlaku?\nParameter dan mekanisme\n\n\nPengujian virtual\nApa risiko dan batasnya?\nSkenario serta sensitivitas\n\n\nPilot\nApakah pelaku dapat menjalankan?\nBukti penggunaan dan kelayakan\n\n\nPenghubungan\nBagaimana keluaran saling mendukung?\nAntarmuka, aturan, tanggung jawab\n\n\n\nReplikasi bukan penyalinan perangkat lunak saja. Ia mencakup penyesuaian misi, kemampuan, kewenangan, dan lingkungan. Bukti dari kampus pertama membantu perancangan kampus berikutnya, tetapi tidak menggantikan validasi pada konteks baru.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#memilih-cakupan-penelitian",
+    "href": "chapters/10-versi-tise.html#memilih-cakupan-penelitian",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "10.5 Memilih cakupan penelitian",
+    "text": "10.5 Memilih cakupan penelitian\nSatu proyek dapat menguji mekanisme dalam TISE 1.0 tanpa membangun seluruh versi. Proyek lain dapat menilai fitur pembelajaran 2.0 pada artefak yang sederhana. Penelitian 3.0 memerlukan perhatian terhadap mekanisme penciptaan dan batas transfer antarkonteks. Cakupan perlu mengikuti sumber daya dan pertanyaan yang dapat dijawab.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-versi-tise.html#latihan",
+    "href": "chapters/10-versi-tise.html#latihan",
+    "title": "10  TISE 1.0, 2.0, dan 3.0",
+    "section": "10.6 Latihan",
+    "text": "10.6 Latihan\nUntuk kasus Anda, tuliskan satu research question pada setiap versi. Pilih satu yang dapat diuji sekarang. Sebutkan prasyarat versi sebelumnya yang harus sudah memadai dan bukti yang belum tersedia untuk menyatakan kemampuan versi berikutnya.\n\n\n\n\nLangi, Armein Z. R. 2026a. Apa Itu TISE? Pengantar Triune-Intelligence Smart Engineering untuk Ekosistem Berorientasi Misi.\n\n\nLangi, Armein Z. R. 2026b. TISE: Transkrip Presentasi Akademik.",
+    "crumbs": [
+      "Lapisan dan perwujudan inovasi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TISE 1.0, 2.0, dan 3.0</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html",
+    "href": "chapters/11-profesi.html",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "",
+    "text": "11.1 Integrasi pengetahuan dan tanggung jawab\nRekayasawan paripurna dalam percakapan ini adalah profesional yang menghubungkan kebutuhan manusia, pengetahuan, rancangan, realisasi, dan bukti untuk menghasilkan manfaat berkelanjutan serta menumbuhkan kapabilitas (Langi 2026). Keparipurnaan diwujudkan melalui kedalaman keahlian, keluasan integrasi, dan tanggung jawab sepanjang siklus hidup.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#integrasi-pengetahuan-dan-tanggung-jawab",
+    "href": "chapters/11-profesi.html#integrasi-pengetahuan-dan-tanggung-jawab",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "",
+    "text": "Gambar 11.1: Rekayasawan mengintegrasikan kebutuhan, pengetahuan, dan keahlian tim. Hasil kembali menjadi pembelajaran serta kebutuhan baru.\n\n\n\n\n\n\n\n\n\n\n\nKemampuan profesi\nPekerjaan yang terlihat\nBukti dalam portofolio\n\n\n\n\nMemahami kebutuhan\nBerinteraksi dengan pihak terdampak\nRumusan masalah dan alasan\n\n\nMenyelidiki\nMenguji asumsi dan penjelasan\nData serta hasil analisis\n\n\nMerancang\nMembandingkan alternatif\nKeputusan dan trade-off\n\n\nMerealisasikan\nMengintegrasikan artefak\nHasil uji serta operasi\n\n\nMembuktikan\nMenilai klaim secara tepat\nKetertelusuran dan batas\n\n\nMemelihara\nMenjaga kelayakan\nCatatan gangguan dan perbaikan\n\n\nMemampukan\nMendukung perkembangan manusia\nBukti pembelajaran dan kesempatan",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#keahlian-individu-dan-kemampuan-tim",
+    "href": "chapters/11-profesi.html#keahlian-individu-dan-kemampuan-tim",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "11.2 Keahlian individu dan kemampuan tim",
+    "text": "11.2 Keahlian individu dan kemampuan tim\nSatu orang dapat memiliki spesialisasi utama, misalnya kendali, arsitektur perangkat lunak, ergonomi, atau tata kelola. Keparipurnaan tidak menuntut penguasaan tertinggi setiap disiplin. Ia menuntut kemampuan mengenali batas keahlian, menghubungkan kontribusi ahli, serta mempertanggungjawabkan keputusan dalam perannya.\n\n\n\n\n\n\n\n\nPeran dalam tim\nKedalaman keahlian\nTanggung jawab integrasi\n\n\n\n\nPeneliti\nMetode dan bukti\nMenghubungkan klaim dengan kebutuhan\n\n\nPerancang sistem\nFungsi dan arsitektur\nMenghubungkan komponen serta pelaku\n\n\nPengembang\nImplementasi\nMenjaga persyaratan dan antarmuka\n\n\nOperator\nKondisi penggunaan\nMengembalikan bukti operasi\n\n\nPengguna dan regulator\nKebutuhan dan kewenangan\nMenilai manfaat serta penerimaan\n\n\n\nTriune intelligence memperluas kolaborasi ini. AI membantu analisis serta penelusuran. Kecerdasan kolektif menyediakan pengetahuan tersebar dan koordinasi. Manusia tetap memegang penilaian dan tanggung jawab sesuai kewenangan. Profesional perlu memahami apa yang dapat diperiksa dan kapan meminta keahlian tambahan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#tanggung-jawab-siklus-hidup",
+    "href": "chapters/11-profesi.html#tanggung-jawab-siklus-hidup",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "11.3 Tanggung jawab siklus hidup",
+    "text": "11.3 Tanggung jawab siklus hidup\nRealisasi mengubah kehidupan pengguna. Karena itu, tanggung jawab profesi meliputi pengenalan kebutuhan, pengujian, operasi, pemeliharaan, serta penghentian yang layak. Ketika artefak dihentikan, pengguna dapat kehilangan akses, pengetahuan, atau layanan yang telah menjadi bagian pekerjaannya. Rancangan perlu mempertimbangkan kontinuitas kemampuan.\n\n\n\n\n\n\n\n\nFase\nPertanyaan tanggung jawab\nCatatan yang dibutuhkan\n\n\n\n\nPerumusan\nSiapa yang dilayani dan didengar?\nKeputusan ruang lingkup\n\n\nPerancangan\nRisiko serta trade-off apa dipilih?\nAlternatif dan alasan\n\n\nPengujian\nKlaim apa benar-benar didukung?\nKondisi, metode, hasil\n\n\nOperasi\nBagaimana kegagalan ditangani?\nInsiden dan pemulihan\n\n\nPerubahan\nSiapa terdampak pembaruan?\nEvaluasi serta persetujuan\n\n\nPenghentian\nBagaimana kemampuan dan akses dijaga?\nTransisi serta dokumentasi",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#nilai-kerja-yang-dapat-diperiksa",
+    "href": "chapters/11-profesi.html#nilai-kerja-yang-dapat-diperiksa",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "11.4 Nilai kerja yang dapat diperiksa",
+    "text": "11.4 Nilai kerja yang dapat diperiksa\nKualitas, kepedulian, kejujuran, keselamatan, dan penyelesaian pekerjaan perlu diterjemahkan menjadi praktik. Kejujuran ilmiah terlihat pada status data dan batas klaim. Kepedulian terlihat pada cara kebutuhan dipahami dan kesempatan dijaga. Penyelesaian terlihat pada artefak, dokumentasi, dukungan, dan bukti sesuai lingkup.\n\n\n\n\n\n\n\n\nNilai\nPraktik operasional\nPertanyaan telaah\n\n\n\n\nKualitas\nPersyaratan dan pengujian\nApakah hasil memenuhi kriteria?\n\n\nKepedulian\nPertimbangan keadaan pengguna\nSiapa menghadapi hambatan?\n\n\nKejujuran\nAsumsi dan batas terbuka\nApakah bukti dibedakan dari harapan?\n\n\nKeselamatan\nRisiko dan penanganan kegagalan\nApa konsekuensi saat gagal?\n\n\nDeliver\nHasil sesuai komitmen\nApa yang siap digunakan atau ditelaah?",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#portofolio-sebagai-bukti-kompetensi",
+    "href": "chapters/11-profesi.html#portofolio-sebagai-bukti-kompetensi",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "11.5 Portofolio sebagai bukti kompetensi",
+    "text": "11.5 Portofolio sebagai bukti kompetensi\nPortofolio dapat berisi proyek yang berbeda tahap dan lapisan. Nilainya terletak pada keputusan, bukti, serta pembelajaran yang dapat ditelusuri. Catatan kegagalan yang dijelaskan dengan baik dapat menunjukkan kompetensi diagnosis dan revisi. Klaim keberhasilan tanpa kondisi uji justru sulit dinilai.\nSebuah entri portofolio yang padat menyebut misi, lapisan kontribusi, keputusan penting, tahap inovasi, kematangan, hasil uji, batas, dan perubahan yang dipelajari. Format ini memudahkan pembimbing atau reviewer menilai apa yang benar-benar dikerjakan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profesi.html#latihan",
+    "href": "chapters/11-profesi.html#latihan",
+    "title": "11  Profesi rekayasawan paripurna",
+    "section": "11.6 Latihan",
+    "text": "11.6 Latihan\nSusun satu entri portofolio proyek Anda. Identifikasi keahlian utama dan kebutuhan kolaborasi. Jelaskan tanggung jawab yang masih berlaku setelah prototipe diserahkan kepada pengguna serta bukti bahwa artefak semakin memampukan mereka.\n\n\n\n\nLangi, Armein Z. R. 2026. Perumusan EASTF, tahapan inovasi, dan rekayasawan paripurna.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Profesi rekayasawan paripurna</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html",
+    "href": "chapters/12-kasus-pangan.html",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "",
+    "text": "12.1 Misi dan batas kasus\nKasus ini merupakan contoh rancangan pembelajaran. Misinya adalah meningkatkan akses makanan sehat dan terjangkau sambil menjaga kelayakan pedagang, pemasok, dan lingkungan. Angka pada simulasi dibuat secara sintetik. Model sederhana hanya menggambarkan produksi, penjualan, sisa, dan kekurangan. Mutu gizi, harga yang adil, antrean, atau pembelajaran manusia memerlukan model serta data tambahan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#misi-dan-batas-kasus",
+    "href": "chapters/12-kasus-pangan.html#misi-dan-batas-kasus",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "",
+    "text": "Gambar 12.1: Hubungan pelaku pangan kampus: pasokan, produksi, konsumsi, koordinasi, dan pengelolaan limbah.\n\n\n\n\n\n\n\n\n\n\n\n\nPelaku\nMisi\nSumber daya\nNilai yang diharapkan\n\n\n\n\nMahasiswa\nMemperoleh pangan sesuai kebutuhan\nPermintaan, waktu, informasi\nAkses dan kesehatan\n\n\nPedagang\nMenjalankan usaha layak\nTenaga, dapur, pengetahuan\nPendapatan dan kemampuan\n\n\nPemasok\nMenyediakan bahan\nBahan dan logistik\nKepastian serta kelayakan\n\n\nKampus\nMenjaga layanan\nAturan dan fasilitas\nMutu serta keberlanjutan",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#q-cycle-pada-kasus",
+    "href": "chapters/12-kasus-pangan.html#q-cycle-pada-kasus",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.2 Q-Cycle pada kasus",
+    "text": "12.2 Q-Cycle pada kasus\n\n\n\n\n\n\n\n\nQ\nKeputusan rancangan\nBukti yang direncanakan\n\n\n\n\nQ1\nAkses pangan dan sisa sebagai perhatian awal\nBaseline layanan serta pengalaman\n\n\nQ2\nPerkiraan, produksi, distribusi, koreksi\nModel aliran dan keadaan\n\n\nQ3\nRekomendasi AI dengan penilaian pedagang\nPembagian fungsi dan otoritas\n\n\nQ4\nSimulasi, pilot, evaluasi\nHasil virtual lalu pengamatan nyata\n\n\n\nPertanyaan utama contoh adalah apakah rekomendasi produksi yang dapat dijelaskan dan dikoreksi membantu layanan sekaligus meningkatkan kemampuan pedagang mengambil keputusan. Pertanyaan tersebut mencakup outcome misi dan kapabilitas. Simulasi pada bab ini baru menguji bagian produksi.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#model-produksi-harian",
+    "href": "chapters/12-kasus-pangan.html#model-produksi-harian",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.3 Model produksi harian",
+    "text": "12.3 Model produksi harian\nPermintaan hari ke-t adalah D_t, produksi Q_t, dan kapasitas K_t. Penjualan Y_t dibatasi oleh permintaan serta produksi. Sisa W_t dan permintaan yang belum terpenuhi U_t dihitung sebagai berikut:\nYt=min⁡(Dt,Qt),Wt=max⁡(Qt−Dt,0),Ut=max⁡(Dt−Qt,0).\nY_t=\\min(D_t,Q_t),\\quad W_t=\\max(Q_t-D_t,0),\\quad U_t=\\max(D_t-Q_t,0).\n\nPendapatan kotor dari penjualan dihitung dengan harga per porsi p. Biaya produksi per porsi c dan biaya penanganan sisa w memberikan margin operasi sederhana:\nΠt=pYt−cQt−wWt.\n\\Pi_t=pY_t-cQ_t-wW_t.\n\nMargin ini belum mencakup seluruh biaya usaha. Ia digunakan agar konsekuensi produksi dapat diperiksa dalam contoh. Cakupan permintaan adalah total penjualan dibagi total permintaan. Rasio sisa adalah total sisa dibagi total produksi.\n\n\n\nParameter ilustratif\nNilai\nMakna\n\n\n\n\nHarga p\nRp20.000 per porsi\nAsumsi penjualan\n\n\nBiaya produksi c\nRp14.000 per porsi\nAsumsi biaya variabel\n\n\nBiaya sisa w\nRp1.000 per porsi\nAsumsi penanganan\n\n\nProduksi tetap\n550 porsi per hari\nBaseline sederhana\n\n\nHorizon\n30 hari sintetik\nBukan kalender lapangan",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#kebijakan-dan-skenario",
+    "href": "chapters/12-kasus-pangan.html#kebijakan-dan-skenario",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.4 Kebijakan dan skenario",
+    "text": "12.4 Kebijakan dan skenario\nKebijakan tetap menghasilkan 550 porsi sepanjang kapasitas memungkinkan. Kebijakan adaptif menggunakan permintaan kemarin dan nilai 550 sebagai jangkar. Produksi dibatasi kapasitas hari ini. Permintaan mengalami variasi dan lonjakan, sementara kapasitas turun pada beberapa hari.\n\n\n\n\n\n\nGambar 12.2: Alur simulator produksi. Seluruh masukan sintetik dan kebijakan merupakan contoh pedagogis.\n\n\n\n\n\n\n\n\n\n\n\nKebijakan\nAturan\nAsumsi\n\n\n\n\nTetap\nQ_t=min(550,K_t)\nRencana dasar tidak mengikuti data\n\n\nAdaptif\nQ_t=min(K_t,round(0,7D_{t-1}+0,3×550))\nInformasi permintaan kemarin tersedia\n\n\n\nContoh ini menunjukkan bagaimana keterlambatan informasi dapat berpengaruh. Saat permintaan melonjak, kebijakan berdasarkan hari sebelumnya dapat tertinggal. Produksi yang meningkat kemudian dapat menghasilkan sisa ketika permintaan turun. Keunggulan tidak boleh diasumsikan dari nama kebijakannya.\n\n\n\n\n\n\nGambar 12.3: Permintaan, kapasitas, dan produksi pada 30 hari sintetik. Kurva merupakan keluaran kode contoh, bukan data lapangan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#hasil-yang-dapat-dihitung-ulang",
+    "href": "chapters/12-kasus-pangan.html#hasil-yang-dapat-dihitung-ulang",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.5 Hasil yang dapat dihitung ulang",
+    "text": "12.5 Hasil yang dapat dihitung ulang\n\n\n\nUkuran, 30 hari sintetik\nTetap\nAdaptif\n\n\n\n\nCakupan permintaan (%)\n91.51\n94.28\n\n\nSisa/produksi (%)\n2.15\n2.61\n\n\nPenjualan (porsi)\n15.852\n16.332\n\n\nSisa (porsi)\n348\n437\n\n\nKekurangan (porsi)\n1.471\n991\n\n\nMargin sederhana (Rp)\n89.892.000\n91.437.000\n\n\n\nSeluruh angka adalah keluaran simulasi sintetik dengan seed 1962.\nHasil tersebut hanya berlaku untuk rangkaian permintaan, kapasitas, dan parameter contoh. Model belum mencakup pilihan menu, perilaku prapesan, perubahan harga, proses antrean, atau kemampuan pedagang. Kesimpulan yang sah menyatakan perbedaan kebijakan dalam skenario ini. Keputusan lapangan memerlukan kalibrasi dan pengujian tambahan.\n\n\n\n\n\n\nGambar 12.4: Perbandingan cakupan permintaan dan rasio sisa dari simulasi sintetik. Definisi penyebut berbeda dan dinyatakan pada label.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#menambahkan-bukti-manusia-dan-ekosistem",
+    "href": "chapters/12-kasus-pangan.html#menambahkan-bukti-manusia-dan-ekosistem",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.6 Menambahkan bukti manusia dan ekosistem",
+    "text": "12.6 Menambahkan bukti manusia dan ekosistem\n\n\n\n\n\n\n\n\nLapisan\nBukti virtual\nBukti realisasi yang dibutuhkan\n\n\n\n\nT\nPerhitungan dan aturan\nKualitas data serta prediksi\n\n\nS\nPerilaku kebijakan\nIntegrasi dan gangguan nyata\n\n\nA\nDugaan manfaat\nPenggunaan dan pengalaman\n\n\nE\nDugaan distribusi\nKelayakan serta dampak pelaku\n\n\nKapabilitas\nFitur penjelasan yang dirancang\nPemahaman dan transfer keputusan\n\n\n\nPilot dapat meminta pedagang menjelaskan rekomendasi, memberi koreksi, dan menyusun rencana pada skenario baru. Pengujian perlu memperhatikan perubahan musiman serta pengalaman awal. Data kemampuan dihubungkan dengan data operasional untuk menilai prinsip cerdas dan mencerdaskan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#menjalankan-contoh",
+    "href": "chapters/12-kasus-pangan.html#menjalankan-contoh",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.7 Menjalankan contoh",
+    "text": "12.7 Menjalankan contoh\nDari direktori proyek, jalankan python scripts/simulate_food.py. Script menulis CSV, ringkasan JSON, tabel untuk buku, dan plot jika Matplotlib tersedia. Data sintetik memakai seed tetap. Pengguna dapat mengubah parameter, membandingkan hasil, dan menjelaskan alasan perubahan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-kasus-pangan.html#latihan",
+    "href": "chapters/12-kasus-pangan.html#latihan",
+    "title": "12  Studi terpadu: ekosistem pangan kampus",
+    "section": "12.8 Latihan",
+    "text": "12.8 Latihan\nUbah panjang lonjakan permintaan atau kapasitas minimum. Tentukan kebijakan yang memberi cakupan lebih baik dan biaya sisa lebih rendah. Apakah peringkat kebijakan berubah? Kemudian tuliskan satu research question yang memerlukan data manusia dan belum dijawab oleh simulator.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Studi terpadu: ekosistem pangan kampus</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html",
+    "href": "chapters/13-rancangan-riset.html",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "",
+    "text": "13.1 Pertanyaan, kontribusi, dan kondisi berlaku\nRancangan penelitian menghubungkan apa yang hendak diketahui dengan kegiatan yang menghasilkan bukti. Posisi EASTF, tahap inovasi, dan kematangan membantu menentukan cakupan. Metodologi menjustifikasi cara pekerjaan disusun, sementara Q-Cycle membantu menjaga ketertelusuran keputusan rekayasa.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#pertanyaan-kontribusi-dan-kondisi-berlaku",
+    "href": "chapters/13-rancangan-riset.html#pertanyaan-kontribusi-dan-kondisi-berlaku",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "",
+    "text": "Gambar 13.1: Pertanyaan diturunkan menjadi klaim, ukuran, metode, dan kesimpulan yang menyatakan batas berlaku.\n\n\n\n\n\n\n\n\n\n\n\nElemen\nIsi contoh\nPemeriksaan\n\n\n\n\nMasalah\nKetidakpastian produksi dan keterbatasan pengetahuan\nAda bukti keadaan awal\n\n\nRQ\nApakah dukungan keputusan meningkatkan hasil dan kemampuan?\nObjek serta outcome jelas\n\n\nKontribusi\nPrinsip interaksi rekomendasi–koreksi\nMenghasilkan pengetahuan yang dapat digunakan\n\n\nLapisan\nA dan S, dengan konteks E\nBatas antarlapisan disebutkan\n\n\nTahap\nModel, virtual, pilot\nJenis bukti dibedakan\n\n\nMetodologi\nDSRM atau DRM sesuai penekanan\nAlasan pilihan tersedia",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#protokol-evaluasi-yang-terarah",
+    "href": "chapters/13-rancangan-riset.html#protokol-evaluasi-yang-terarah",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "13.2 Protokol evaluasi yang terarah",
+    "text": "13.2 Protokol evaluasi yang terarah\nOutcome misi, kapabilitas, dan keberlanjutan dapat memerlukan pengukuran berbeda. Tetapkan definisi, instrumen, waktu, serta pembanding sebelum melihat hasil. Ukuran sampel mengikuti ketelitian atau kekuatan inferensi yang dibutuhkan serta keterbatasan praktis. Jumlah tertentu tidak dapat ditetapkan hanya dari nama metodologi.\n\n\n\n\n\n\n\n\n\nPertanyaan\nData\nAnalisis contoh\nBatas\n\n\n\n\nApakah produksi membaik?\nPenjualan, sisa, kekurangan\nPerbandingan dengan ketidakpastian\nMusim dan kapasitas\n\n\nApakah pengguna memahami?\nPenjelasan beralasan\nRubrik dan pemeriksaan penilai\nInstrumen serta pengalaman\n\n\nApakah kemampuan berpindah?\nTugas transfer\nPerubahan dan kelompok pembanding\nKemiripan tugas\n\n\nApakah pelaku tetap layak?\nBiaya, pendapatan, beban\nDistribusi dan tren waktu\nHorizon serta biaya lengkap\n\n\n\nBukti kualitatif membantu menjelaskan mekanisme dan pengalaman. Bukti kuantitatif membantu menilai besaran serta variasi. Penggabungannya perlu direncanakan. Perbedaan hasil antarjenis data dapat menjadi temuan penting, bukan sesuatu yang dihapus dari laporan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#validitas-dan-penjelasan-alternatif",
+    "href": "chapters/13-rancangan-riset.html#validitas-dan-penjelasan-alternatif",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "13.3 Validitas dan penjelasan alternatif",
+    "text": "13.3 Validitas dan penjelasan alternatif\n\n\n\n\n\n\n\n\nRisiko\nContoh\nPenanganan rancangan\n\n\n\n\nPengaruh pelatihan\nKelompok intervensi menerima pelatihan tambahan\nJelaskan dan samakan kesempatan yang relevan\n\n\nPerubahan konteks\nJadwal kuliah berubah\nCatat konteks dan periode\n\n\nSeleksi\nPeserta lebih termotivasi\nLaporkan cara pemilihan\n\n\nUkuran proksi\nKepuasan dianggap kemampuan\nUkur outcome yang dituju\n\n\nBias model\nParameter sintetik terlalu menguntungkan\nSensitivitas dan skenario beragam\n\n\nKlaim terlalu luas\nPilot disebut berlaku universal\nNyatakan populasi dan kondisi\n\n\n\nPenanganan risiko mengikuti kebutuhan bukti. Pengujian acak dapat membantu pada pertanyaan tertentu, sedangkan studi kasus mendalam dapat sesuai untuk mekanisme organisasi yang kompleks. Metodologi tidak menggantikan alasan pemilihan desain penelitian.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#buku-besar-klaim-dan-bukti",
+    "href": "chapters/13-rancangan-riset.html#buku-besar-klaim-dan-bukti",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "13.4 Buku besar klaim dan bukti",
+    "text": "13.4 Buku besar klaim dan bukti\n\n\n\n\n\n\n\n\n\n\nID\nKlaim\nBukti tersedia\nStatus\nTindakan berikutnya\n\n\n\n\nK1\nAturan produksi memenuhi kapasitas\nPemeriksaan kode dan output\nDidukung pada contoh\nUji implementasi\n\n\nK2\nKebijakan meningkatkan outcome\nSimulasi sintetik\nTerbatas pada skenario\nKalibrasi dan pilot\n\n\nK3\nPedagang semakin mampu\nBelum diukur\nHipotesis\nUji pemahaman dan transfer\n\n\nK4\nEkosistem berkelanjutan\nModel parsial\nBelum cukup\nUkur biaya serta distribusi\n\n\n\nStatus dapat berupa hipotesis, didukung pada kondisi tertentu, atau belum terjawab. Kata “tervalidasi” perlu selalu diikuti apa yang divalidasi, terhadap apa, dan dalam kondisi apa. Pemeriksaan kode menunjukkan implementasi mengikuti aturan; ia belum membuktikan aturan menggambarkan kenyataan.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#anatomi-laporan",
+    "href": "chapters/13-rancangan-riset.html#anatomi-laporan",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "13.5 Anatomi laporan",
+    "text": "13.5 Anatomi laporan\n\n\n\n\n\n\n\n\nBagian laporan\nPertanyaan pembaca\nVisual utama\n\n\n\n\nMasalah\nMengapa perlu diteliti?\nBaseline dan peta pelaku\n\n\nPengetahuan awal\nApa yang sudah diketahui?\nTabel literatur dan gap\n\n\nRQ dan kontribusi\nApa yang akan dijawab?\nPICOC dan EASTF\n\n\nMetode\nBagaimana bukti dihasilkan?\nAlur metodologi\n\n\nRancangan\nBagaimana solusi bekerja?\nFungsi dan arsitektur\n\n\nHasil\nApa yang diamati?\nTabel, plot, ketidakpastian\n\n\nDiskusi\nApa artinya dan batasnya?\nBuku besar klaim\n\n\nKesimpulan\nJawaban apa didukung?\nRQ–jawaban–bukti\n\n\n\nDalam penelitian rekayasa, artefak dan pengetahuan perlu dinyatakan bersama. Deskripsi fitur menjelaskan apa yang dibangun. Kontribusi menjelaskan apa yang dapat dipelajari tentang solusi atau masalah. Bukti menentukan batas penggunaan pengetahuan itu.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-rancangan-riset.html#latihan",
+    "href": "chapters/13-rancangan-riset.html#latihan",
+    "title": "13  Rancangan penelitian dan paket bukti",
+    "section": "13.6 Latihan",
+    "text": "13.6 Latihan\nSusun paket satu halaman: PICOC, lapisan kontribusi, pilihan metodologi, empat keputusan Q-Cycle, tahap inovasi, dan tiga klaim beserta bukti. Minta rekan menilai satu lompatan inferensi yang belum didukung. Revisi rumusan agar dapat ditelaah.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Rancangan penelitian dan paket bukti</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html",
+    "href": "chapters/14-visual-tabel.html",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "",
+    "text": "14.1 Representasi yang membawa penalaran\nVisual dan tabel dalam buku ini berfungsi sebagai infrastruktur penjelasan. Diagram menyatakan objek serta hubungan. Tabel menjaga pemetaan dan perbandingan. Plot memperlihatkan pola angka. Prosa menjelaskan alasan, asumsi, dan implikasi yang tidak cukup diwakili bentuk visual.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#representasi-yang-membawa-penalaran",
+    "href": "chapters/14-visual-tabel.html#representasi-yang-membawa-penalaran",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "",
+    "text": "Gambar 14.1: Pemilihan representasi mengikuti hubungan yang hendak dijelaskan. Caption mengikat visual dengan sumber serta batas.\n\n\n\n\n\n\n\n\n\n\n\nKebutuhan penjelasan\nRepresentasi\nYang harus terlihat\n\n\n\n\nUrutan dan iterasi\nFlowchart atau state diagram\nKondisi dan arah hubungan\n\n\nFungsi dan kendali\nDiagram blok\nMasukan, keluaran, umpan balik\n\n\nStruktur dan peran\nDiagram arsitektur\nKomponen, antarmuka, kewenangan\n\n\nPemetaan yang tepat\nTabel\nBaris, kolom, definisi\n\n\nPerubahan angka\nPlot\nSumbu, unit, data, ketidakpastian\n\n\nKondisi nyata\nFoto atau gambar\nKonteks dan sumber",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#kosakata-dan-grammar-visual",
+    "href": "chapters/14-visual-tabel.html#kosakata-dan-grammar-visual",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.2 Kosakata dan grammar visual",
+    "text": "14.2 Kosakata dan grammar visual\nSebuah diagram mempunyai kosakata berupa simpul, label, garis, dan simbol. Grammar-nya menentukan arti hubungan. Panah dapat berarti urutan, aliran data, pengaruh, atau ketergantungan; caption perlu menyatakan artinya. Panah dalam diagram konseptual tidak otomatis menunjukkan hubungan sebab-akibat yang sudah terbukti.\n\n\n\n\n\n\n\n\nElemen\nArti yang dapat digunakan\nRisiko\n\n\n\n\nKotak\nFungsi, komponen, atau keadaan\nJenis objek tercampur\n\n\nPanah\nAliran atau hubungan tertentu\nPembaca menganggap kausalitas\n\n\nWarna\nPengelompokan atau penekanan\nArti bergantung warna saja\n\n\nPosisi\nLapisan atau kedekatan\nHierarki yang tidak dimaksudkan\n\n\nCaption\nTujuan, sumber, batas\nGambar terlepas dari argumen\n\n\n\nKonsistensi lebih penting daripada banyaknya dekorasi. Label yang sama sebaiknya digunakan pada diagram, tabel, dan prosa. Ketika istilah berubah, pembaca perlu mengetahui apakah objeknya berubah atau hanya namanya.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#tabel-sebagai-kontrak-penjelasan",
+    "href": "chapters/14-visual-tabel.html#tabel-sebagai-kontrak-penjelasan",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.3 Tabel sebagai kontrak penjelasan",
+    "text": "14.3 Tabel sebagai kontrak penjelasan\nTabel yang baik menetapkan dimensi perbandingan. Membandingkan DRM dan DSRM memerlukan baris yang sama, seperti fokus, kegiatan, keluaran, dan bukti. Membandingkan kebijakan produksi memerlukan definisi ukuran serta penyebut. Sel kosong perlu dijelaskan sebagai tidak berlaku, belum diketahui, atau belum diukur.\n\n\n\n\n\n\n\n\nPrinsip tabel\nPelaksanaan\nContoh\n\n\n\n\nSatu tujuan\nKolom mengikuti pertanyaan\nTahap–bukti–gerbang\n\n\nKategori konsisten\nJenis isi sama pada kolom\nSemua baris menyatakan outcome\n\n\nUnit jelas\nUnit pada judul atau label\nRupiah per periode\n\n\nStatus data\nBedakan sintetik dan lapangan\nCaption simulasi\n\n\nBatas klaim\nCatatan dekat hasil\nSkenario dan horizon",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#visual-dalam-q-cycle-dan-eastf",
+    "href": "chapters/14-visual-tabel.html#visual-dalam-q-cycle-dan-eastf",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.4 Visual dalam Q-Cycle dan EASTF",
+    "text": "14.4 Visual dalam Q-Cycle dan EASTF\n\n\n\nRuang\nVisual yang membantu\nTabel pasangan\n\n\n\n\nQ1\nBlack box perubahan dan peta pelaku\nKebutuhan serta kriteria\n\n\nQ2\nFungsi, state, aliran, kurva\nFungsi dan persyaratan\n\n\nQ3\nArsitektur dan kendali\nAlokasi serta trade-off\n\n\nQ4\nPlot hasil dan jejak realisasi\nUji, bukti, batas\n\n\nEASTF\nLapisan dan arah hubungan\nRQ, kontribusi, outcome\n\n\n\nDiagram dapat membuka struktur argumen. Tabel dapat menguji konsistensinya. Jika kebutuhan tidak mempunyai fungsi atau uji, matriks ketertelusuran memperlihatkan kekosongan tersebut. Jika plot menunjukkan perbaikan satu outcome tetapi penurunan outcome lain, tabel membantu membandingkan trade-off secara tepat.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#slide-dan-buku-mempunyai-kepadatan-berbeda",
+    "href": "chapters/14-visual-tabel.html#slide-dan-buku-mempunyai-kepadatan-berbeda",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.5 Slide dan buku mempunyai kepadatan berbeda",
+    "text": "14.5 Slide dan buku mempunyai kepadatan berbeda\nBuku memungkinkan pembaca berhenti, memeriksa tabel, dan membaca penjelasan. Slide mendukung perhatian bersama dalam waktu terbatas. Deck memakai satu konsep utama per halaman, label pendek, serta catatan pengajar untuk detail. Tabel buku yang panjang dibagi menjadi beberapa slide sesuai tujuan penjelasan.\n\n\n\n\n\n\n\n\nMedia\nIsi utama\nTempat detail\n\n\n\n\nBuku\nArgumen lengkap dengan visual\nParagraf, tabel, lampiran\n\n\nSlide\nHubungan atau perbandingan inti\nCatatan pengajar dan buku\n\n\nLembar kerja\nKeputusan yang harus dibuat\nJawaban peserta\n\n\nKode contoh\nMekanisme yang dapat diperiksa\nParameter dan keluaran",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#pemeriksaan-visual-akademik",
+    "href": "chapters/14-visual-tabel.html#pemeriksaan-visual-akademik",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.6 Pemeriksaan visual akademik",
+    "text": "14.6 Pemeriksaan visual akademik\nPeriksa apakah visual menjawab pertanyaan, istilahnya konsisten, dan setiap hubungan mempunyai arti. Periksa keterbacaan pada ukuran penggunaan, bukan hanya pada editor. Untuk plot, cek sumbu dan unit. Untuk tabel, cek penyebut serta konteks. Untuk semua representasi, jaga sumber dan status klaim.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-visual-tabel.html#latihan",
+    "href": "chapters/14-visual-tabel.html#latihan",
+    "title": "14  Visual dan tabel sebagai infrastruktur penjelasan",
+    "section": "14.7 Latihan",
+    "text": "14.7 Latihan\nAmbil satu paragraf penjelasan dari proyek Anda. Ubah menjadi diagram dengan caption dan tabel pasangan. Tentukan hubungan yang sebelumnya tersembunyi. Sebutkan satu inferensi yang dapat disalahartikan dari visual tersebut, lalu perbaiki label atau caption.",
+    "crumbs": [
+      "Praktik rekayasawan paripurna",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Visual dan tabel sebagai infrastruktur penjelasan</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Rujukan",
+    "section": "",
+    "text": "Literatur publik digunakan untuk definisi DRM, DSRM, design science, PICOC, dan digital twin. Dokumen TISE merupakan rumusan konseptual penulis. EASTF serta integrasi kerangka dalam buku ini mengikuti percakapan 1 Oktober 2026. Metadata edisi artikel Peffers mengikuti jurnal: 2007, volume 24 nomor 3, yang merupakan edisi musim dingin 2007–2008.\n\n\nBlessing, Lucienne T. M., and Amaresh Chakrabarti. 2009a.\n“Descriptive Study i: Understanding Design.” In DRM, a\nDesign Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_4.\n\n\nBlessing, Lucienne T. M., and Amaresh Chakrabarti. 2009b.\n“Descriptive Study II: Evaluating Design Support.” In\nDRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_6.\n\n\nBlessing, Lucienne T. M., and Amaresh Chakrabarti. 2009c. DRM, a\nDesign Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1.\n\n\nBlessing, Lucienne T. M., and Amaresh Chakrabarti. 2009d.\n“Prescriptive Study: Developing Design Support.” In\nDRM, a Design Research Methodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_5.\n\n\nBlessing, Lucienne T. M., and Amaresh Chakrabarti. 2009e.\n“Research Clarification.” In DRM, a Design Research\nMethodology. Springer. https://doi.org/10.1007/978-1-84882-587-1_3.\n\n\nBlessing, Lucienne, and Amaresh Chakrabarti. 2002. “DRM: A Design\nResearch Methodology.” Proceedings of Les Sciences de La\nConception. https://dm.iisc.ac.in/cpdm/ideaslab090320/paper_scans/UID_41.pdf.\n\n\nHevner, Alan R., Salvatore T. March, Jinsoo Park, and Sudha Ram. 2004.\n“Design Science in Information Systems Research.” MIS\nQuarterly 28 (1): 75–105. https://doi.org/10.2307/25148625.\n\n\nKitchenham, Barbara, and Stuart Charters. 2007. Guidelines for\nPerforming Systematic Literature Reviews in Software Engineering.\nEBSE-2007-01. Keele University; Durham University. https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/papers/guidelines-kitchenham.pdf.\n\n\nLangi, Armein Z. R. 2026a. Apa Itu TISE? Pengantar\nTriune-Intelligence Smart Engineering Untuk Ekosistem Berorientasi\nMisi.\n\n\nLangi, Armein Z. R. 2026b. Perumusan EASTF, Tahapan Inovasi, Dan\nRekayasawan Paripurna.\n\n\nLangi, Armein Z. R. 2026c. TISE: Transkrip Presentasi Akademik.\n\n\nLin, Shi-Wan, Kym Watson, Guodong Shao, Ljiljana Stojanovic, and Bassam\nZarkout. 2023. Digital Twin Core Conceptual Models and\nServices. Industry IoT Consortium. https://www.nist.gov/publications/digital-twin-core-conceptual-models-and-services.\n\n\nNational Institute of Standards and Technology. n.d. “Digital\nTwins: Essential Elements.” Accessed October 1, 2026. https://www.nist.gov/digital-twins/essential-elements.\n\n\nPeffers, Ken, Tuure Tuunanen, Marcus A. Rothenberger, and Samir\nChatterjee. 2007. “A Design Science Research Methodology for\nInformation Systems Research.” Journal of Management\nInformation Systems 24 (3): 45–77. https://doi.org/10.2753/MIS0742-1222240302.",
+    "crumbs": [
+      "Rujukan"
+    ]
+  },
+  {
+    "objectID": "appendices/glosarium.html",
+    "href": "appendices/glosarium.html",
+    "title": "Lampiran A — Glosarium",
+    "section": "",
+    "text": "Istilah\nPengertian dalam buku\n\n\n\n\nArtefak\nHasil rancangan yang dapat berupa perangkat, perangkat lunak, model, metode, layanan, atau pengaturan organisasi\n\n\nAspirasi\nKeadaan atau pencapaian yang ingin diraih manusia\n\n\nASTF\nApplication, System, Technology, Fundamental Research\n\n\nBaseline\nKeadaan atau pendekatan pembanding yang dijelaskan\n\n\nBlack box\nRepresentasi yang memusatkan perhatian pada masukan, keluaran, dan tujuan\n\n\nCerdas\nKemampuan membantu pemahaman, keputusan, tindakan, dan adaptasi\n\n\nMencerdaskan\nSifat interaksi yang mendukung pertumbuhan kemampuan manusia\n\n\nMemampukan\nMemperluas kemampuan serta kesempatan nyata untuk bertindak\n\n\nCollective intelligence\nKecerdasan yang muncul melalui pengetahuan dan proses bersama\n\n\nContribution\nPengetahuan atau kemampuan baru yang didukung bukti sesuai ruang lingkup\n\n\nContext\nLingkungan dan kondisi yang memengaruhi penerapan\n\n\nDesign\nPerumusan alternatif serta keputusan untuk solusi yang diinginkan\n\n\nDigital twin\nRepresentasi digital sasaran yang mendukung hubungan data, analisis, serta penggunaan sepanjang siklus hidup\n\n\nPrototipe digital twin\nRepresentasi virtual pada tahap pengembangan dengan status serta batas yang dijelaskan\n\n\nDRM\nDesign Research Methodology dari Blessing dan Chakrabarti\n\n\nDSR\nDesign Science Research, pendekatan penelitian melalui penciptaan dan evaluasi artefak\n\n\nDSRM\nDesign Science Research Methodology, dalam buku merujuk model Peffers dan rekan\n\n\nEASTF\nEcosystem, Application, System, Technology, Fundamental Research, sesuai rumusan percakapan\n\n\nEkosistem\nJaringan pelaku, misi, sumber daya, teknologi, aturan, dan lingkungan yang saling bergantung\n\n\nEngineering\nRealisasi dan pengelolaan solusi agar memenuhi persyaratan pada kondisi nyata\n\n\nFidelity\nDetail dan ketepatan representasi yang diperlukan untuk suatu tujuan\n\n\nFull release\nVersi yang resmi tersedia pada cakupan penggunaan yang ditetapkan\n\n\nFundamental research\nPenyelidikan prinsip, hubungan, mekanisme, atau batas dasar\n\n\nGagasan\nUsulan perubahan serta dugaan mekanisme dan manfaat\n\n\nIntervention\nTindakan, metode, atau teknologi yang dikaji\n\n\nKapabilitas\nKemampuan dan kesempatan bermakna untuk bertindak\n\n\nKematangan\nKesiapan yang didukung bukti untuk suatu lingkup penggunaan\n\n\nLab demo\nDemonstrasi fungsi inti dalam kondisi laboratorium terkendali\n\n\nMA-DT\nMulti-Agentic Digital Twin, representasi interaksi banyak agen\n\n\nMetode\nProsedur menjalankan kegiatan penelitian\n\n\nMetodologi\nLogika yang menjustifikasi pilihan metode serta hubungan bukti dan kesimpulan\n\n\nMisi\nTujuan tindakan yang menghasilkan keluaran dan manfaat\n\n\nModel\nRepresentasi struktur, hubungan, perilaku, atau asumsi\n\n\nMOE\nDalam konteks ekosistem: Mission-Oriented Ecosystem\n\n\nMoE\nDalam konteks ukuran: Measure of Effectiveness; buku membedakannya dari MOE\n\n\nOutcome\nHasil atau perubahan yang dinilai\n\n\nOutput\nKeluaran kegiatan atau misi\n\n\nPICOC\nPopulation, Intervention, Comparison, Outcome, Context\n\n\nPSKVE\nProducts, Services, Knowledge, Values, Environment\n\n\nPUDAL\nPerceive, Understand, Decide, Act, Learn\n\n\nQ-Cycle\nSiklus masalah, fungsi, arsitektur, konstruksi dan bukti\n\n\nRealisasi\nPerwujudan rancangan pada lingkungan nyata\n\n\nRelease candidate\nVersi calon rilis yang menunggu hasil penerimaan sesuai kriteria\n\n\nResearch question\nPertanyaan yang mengarahkan pencarian pengetahuan dan bukti\n\n\nRiset\nKegiatan menghasilkan atau menguji pengetahuan yang dapat dipertanggungjawabkan\n\n\nRMOV\nResource, Mission, Output, Value\n\n\nSustainability\nKelayakan melanjutkan misi dengan menjaga prasyarat masa depan\n\n\nTestbed\nLingkungan atau fasilitas uji yang mewakili aspek penggunaan\n\n\nTraceability\nKetertelusuran hubungan kebutuhan, keputusan, dan bukti\n\n\nTransfer\nPenggunaan kemampuan pada tugas atau keadaan baru\n\n\nTriune intelligence\nIntegrasi kecerdasan manusia, kolektif, dan artifisial\n\n\nValidasi\nPenilaian terhadap sasaran atau kenyataan sesuai klaim yang dinyatakan\n\n\nVerifikasi\nPemeriksaan bahwa implementasi mengikuti spesifikasi atau model\n\n\n\nSingkatan dapat mempunyai arti lain di bidang lain. Penulis perlu menyatakan kepanjangan pada penggunaan pertama dan menjaga konsistensi selanjutnya.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Glosarium</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html",
+    "href": "appendices/lembar-kerja.html",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "",
+    "text": "B.1 Lembar 1: misi dan pihak\nLembar ini merupakan template yang dapat diisi. Kolom kosong sengaja disediakan untuk keputusan proyek, bukan data yang belum dilengkapi pada materi buku. Gunakan satu topik yang sama untuk seluruh lembar agar ketertelusuran dapat diperiksa.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-1-misi-dan-pihak",
+    "href": "appendices/lembar-kerja.html#lembar-1-misi-dan-pihak",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "",
+    "text": "Elemen\nIsian proyek\n\n\n\n\nKebutuhan dasar atau aspirasi\n\n\n\nKeadaan awal dan buktinya\n\n\n\nKeadaan yang diinginkan\n\n\n\nUSER, SOURCE, OPERATOR, REGULATOR\n\n\n\nBatas finansial, sosial, operasional, lingkungan\n\n\n\nHasil misi yang akan diukur\n\n\n\nPertumbuhan kapabilitas yang akan diukur",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-2-picoc",
+    "href": "appendices/lembar-kerja.html#lembar-2-picoc",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.2 Lembar 2: PICOC",
+    "text": "B.2 Lembar 2: PICOC\n\n\n\nUnsur\nRumusan\nImplikasi pengujian\n\n\n\n\nPopulation\n\n\n\n\nIntervention\n\n\n\n\nComparison\n\n\n\n\nOutcome\n\n\n\n\nContext\n\n\n\n\n\nPertanyaan utama: ______________________________________________________\nAlasan pilihan metodologi: _______________________________________________",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-3-eastf",
+    "href": "appendices/lembar-kerja.html#lembar-3-eastf",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.3 Lembar 3: EASTF",
+    "text": "B.3 Lembar 3: EASTF\n\n\n\nLapisan\nPertanyaan\nKontribusi\nBukti\n\n\n\n\nE\n\n\n\n\n\nA\n\n\n\n\n\nS\n\n\n\n\n\nT\n\n\n\n\n\nF\n\n\n\n\n\n\nKontribusi utama berada pada: ____________________________________________\nJembatan antarlapisan yang belum terbukti: _________________________________",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-4-q-cycle",
+    "href": "appendices/lembar-kerja.html#lembar-4-q-cycle",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.4 Lembar 4: Q-Cycle",
+    "text": "B.4 Lembar 4: Q-Cycle\n\n\n\nKebutuhan Q1\nFungsi Q2\nKomponen/peran Q3\nUji dan bukti Q4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGangguan untuk PUDAL: __________________________________________________\nMasalah struktural untuk Q-Cycle berikutnya: ________________________________",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-5-perwujudan-dan-kesiapan",
+    "href": "appendices/lembar-kerja.html#lembar-5-perwujudan-dan-kesiapan",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.5 Lembar 5: perwujudan dan kesiapan",
+    "text": "B.5 Lembar 5: perwujudan dan kesiapan\n\n\n\n\n\n\n\n\n\nDimensi\nPosisi saat ini\nGerbang berikutnya\nBukti yang diperlukan\n\n\n\n\nTahap inovasi\n\n\n\n\n\nKematangan artefak\n\n\n\n\n\nKekuatan kontribusi ilmiah\n\n\n\n\n\nPertumbuhan kapabilitas manusia",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-6-triune-intelligence-dan-keputusan",
+    "href": "appendices/lembar-kerja.html#lembar-6-triune-intelligence-dan-keputusan",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.6 Lembar 6: triune intelligence dan keputusan",
+    "text": "B.6 Lembar 6: triune intelligence dan keputusan\n\n\n\n\n\n\n\n\n\n\nKeputusan\nMasukan AI\nPenilaian manusia\nOtoritas/proses kolektif\nJalur koreksi",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-7-klaim-dan-bukti",
+    "href": "appendices/lembar-kerja.html#lembar-7-klaim-dan-bukti",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.7 Lembar 7: klaim dan bukti",
+    "text": "B.7 Lembar 7: klaim dan bukti\n\n\n\nKlaim\nData/metode\nStatus\nBatas berlaku\nPekerjaan berikutnya",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/lembar-kerja.html#lembar-8-komunikasi-visual",
+    "href": "appendices/lembar-kerja.html#lembar-8-komunikasi-visual",
+    "title": "Lampiran B — Lembar kerja penelitian dan rekayasa",
+    "section": "B.8 Lembar 8: komunikasi visual",
+    "text": "B.8 Lembar 8: komunikasi visual\n\n\n\n\n\n\n\n\n\nPertanyaan penjelasan\nDiagram/tabel/plot\nSumber dan status data\nInferensi yang perlu dibatasi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeriksa apakah semua istilah pada visual mempunyai definisi, setiap klaim mempunyai bukti, serta setiap kebutuhan mempunyai ukuran. Minta rekan menguji satu hubungan yang paling lemah.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Lembar kerja penelitian dan rekayasa</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html",
+    "href": "appendices/panduan-kuliah.html",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "",
+    "text": "C.1 Enam pertemuan\nRancangan berikut merupakan usulan pengajaran. Durasi dapat disesuaikan dengan pengalaman peserta. Setiap pertemuan 90 menit dapat terdiri dari penjelasan visual 25 menit, pembacaan kasus 20 menit, kerja kelompok 30 menit, dan diskusi bukti 15 menit. Deck utama berisi 64 slide termasuk sampul dan rujukan.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#enam-pertemuan",
+    "href": "appendices/panduan-kuliah.html#enam-pertemuan",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "",
+    "text": "Pertemuan\nBab\nSlide\nTujuan\nAktivitas\n\n\n\n\n1\n1–3\n2–12\nMembedakan kegiatan dan metodologi\nPICOC serta pemilihan DRM/DSRM\n\n\n2\n4–6\n13–26\nMemodelkan TISE dan Q-Cycle\nPeta peran dan ketertelusuran\n\n\n3\n7\n27–33\nMenentukan lapisan kontribusi\nLima RQ untuk satu topik\n\n\n4\n8\n34–40\nMenyatakan tahap dan bukti\nGerbang dari virtual ke pilot\n\n\n5\n9–11\n41–50\nMenilai pemberdayaan serta profesi\nRancangan outcome kapabilitas\n\n\n6\n12–14\n51–64\nMenyusun paket penelitian\nSimulasi dan presentasi visual",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#capaian-dan-artefak-belajar",
+    "href": "appendices/panduan-kuliah.html#capaian-dan-artefak-belajar",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "C.2 Capaian dan artefak belajar",
+    "text": "C.2 Capaian dan artefak belajar\n\n\n\n\n\n\n\n\nCapaian\nArtefak mahasiswa\nKriteria penilaian\n\n\n\n\nPertanyaan terarah\nTabel PICOC\nObjek, intervensi, hasil, konteks jelas\n\n\nJustifikasi penelitian\nPilihan metodologi\nHubungan metode dan bukti\n\n\nPenalaran rekayasa\nMatriks Q-Cycle\nKetertelusuran kebutuhan sampai uji\n\n\nPosisi kontribusi\nPeta EASTF\nBatas antarlapisan\n\n\nEvaluasi manusia\nProtokol kapabilitas\nOutcome dan waktu sesuai tujuan\n\n\nKomunikasi\nDiagram, tabel, narasi\nKetepatan label serta klaim",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#pertanyaan-pembuka-diskusi",
+    "href": "appendices/panduan-kuliah.html#pertanyaan-pembuka-diskusi",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "C.3 Pertanyaan pembuka diskusi",
+    "text": "C.3 Pertanyaan pembuka diskusi\n\nApakah artefak yang berhasil selalu merupakan hasil riset?\nBukti apa membedakan demonstrasi dari evaluasi?\nApakah teknologi yang lebih akurat selalu memperbaiki ekosistem?\nApa yang harus diketahui sebelum maju dari model ke pilot?\nBagaimana mengukur manusia semakin mampu menggunakan bantuan?\nApa tanggung jawab rekayasawan setelah rilis?",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#penggunaan-deck",
+    "href": "appendices/panduan-kuliah.html#penggunaan-deck",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "C.4 Penggunaan deck",
+    "text": "C.4 Penggunaan deck\nBuka reading/kuliah.html untuk presentasi. Panah berpindah slide, O menampilkan overview, dan S membuka catatan pengajar. Catatan berisi tujuan slide, cara membaca visual, pertanyaan diskusi, serta rujukan. Speaker view paling andal melalui server lokal. Semua gambar utama tersedia sebagai SVG dan sumber Mermaid.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#penilaian-tugas-terpadu",
+    "href": "appendices/panduan-kuliah.html#penilaian-tugas-terpadu",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "C.5 Penilaian tugas terpadu",
+    "text": "C.5 Penilaian tugas terpadu\nRubrik berikut merupakan contoh, bukan ketentuan program studi.\n\n\n\n\n\n\n\n\nDimensi\nBobot contoh\nKriteria\n\n\n\n\nMasalah, misi, PICOC\n20%\nTerarah dan didukung baseline\n\n\nKontribusi serta metodologi\n20%\nKlaim dan alasan yang dapat ditelaah\n\n\nFungsi, arsitektur, ketertelusuran\n25%\nHubungan kebutuhan sampai bukti\n\n\nKapabilitas dan keberlanjutan\n20%\nOutcome serta batas yang nyata\n\n\nVisual dan komunikasi\n15%\nTepat, terbaca, sumber jelas",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/panduan-kuliah.html#proyek-akhir-contoh",
+    "href": "appendices/panduan-kuliah.html#proyek-akhir-contoh",
+    "title": "Lampiran C — Panduan kuliah",
+    "section": "C.6 Proyek akhir contoh",
+    "text": "C.6 Proyek akhir contoh\nKelompok memilih satu layanan kampus. Mereka menyusun misi, lima pertanyaan EASTF, dan kontribusi utama. Mereka mengembangkan model serta rancangan pengujian, menilai tahap inovasi dan kematangan, kemudian mempresentasikan paket bukti. Realisasi penuh tidak diwajibkan pada tugas ini. Klaim disesuaikan dengan apa yang benar-benar dikerjakan.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Panduan kuliah</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/kunci-latihan.html",
+    "href": "appendices/kunci-latihan.html",
+    "title": "Lampiran D — Contoh jawaban dan umpan balik",
+    "section": "",
+    "text": "D.1 Contoh paket satu halaman\nJawaban berikut menunjukkan arah penalaran. Topik serta kondisi berbeda dapat menghasilkan jawaban lain yang tepat. Nilai jawaban berdasarkan alasan dan ketertelusuran, bukan kesamaan kata.\nMisi: meningkatkan akses pangan sambil membantu pedagang belajar menilai produksi. RQ: apakah rekomendasi yang dapat dijelaskan dan dikoreksi meningkatkan cakupan serta kemampuan keputusan dibandingkan praktik biasa? Lapisan utama: A dan S. Tahap: model dan pilot. Metodologi: DSRM untuk artefak, dengan studi baseline untuk memahami konteks. Ukuran: cakupan, sisa, pendapatan, pemahaman, dan transfer. Bukti: data operasi, penilaian tugas, dan wawancara. Batas: satu kantin, periode yang dinyatakan, serta kapasitas yang diukur.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Contoh jawaban dan umpan balik</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/kunci-latihan.html#contoh-kritik-yang-membangun",
+    "href": "appendices/kunci-latihan.html#contoh-kritik-yang-membangun",
+    "title": "Lampiran D — Contoh jawaban dan umpan balik",
+    "section": "D.2 Contoh kritik yang membangun",
+    "text": "D.2 Contoh kritik yang membangun\n\n\n\n\n\n\n\n\nPernyataan\nKritik\nRevisi yang dapat dilakukan\n\n\n\n\nAI meningkatkan kesejahteraan\nOutcome dan mekanisme belum jelas\nTetapkan kebutuhan, aspirasi, dan ukuran\n\n\nModel telah tervalidasi\nSasaran serta pembanding tidak disebut\nNyatakan data dan kondisi validasi\n\n\nDigital twin membuktikan manfaat\nSimulasi hanya sebagian mekanisme\nTambahkan bukti penggunaan nyata\n\n\nPengguna puas berarti semakin mampu\nKepuasan bukan ukuran kapabilitas langsung\nTambahkan pemahaman dan transfer\n\n\nSistem siap digunakan semua orang\nCakupan uji lebih sempit\nBatasi lingkup rilis dan rencana perluasan\n\n\n\nUmpan balik sebaiknya menyebut celah yang spesifik dan tindakan yang dapat dilakukan. Kritik atas klaim bukan kritik atas nilai pribadi peneliti. Kejujuran tentang batas membantu menentukan langkah berikutnya.",
+    "crumbs": [
+      "Lampiran",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Contoh jawaban dan umpan balik</span>"
+    ]
+  }
+]

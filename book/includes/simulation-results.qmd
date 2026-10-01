@@ -1,0 +1,10 @@
+| Ukuran, 30 hari sintetik | Tetap | Adaptif |
+|---|---:|---:|
+| Cakupan permintaan (%) | 91.51 | 94.28 |
+| Sisa/produksi (%) | 2.15 | 2.61 |
+| Penjualan (porsi) | 15.852 | 16.332 |
+| Sisa (porsi) | 348 | 437 |
+| Kekurangan (porsi) | 1.471 | 991 |
+| Margin sederhana (Rp) | 89.892.000 | 91.437.000 |
+
+Seluruh angka adalah keluaran simulasi sintetik dengan seed 1962.

@@ -1,0 +1,32 @@
+project:
+  type: default
+  output-dir: _slides
+  render:
+    - kuliah.qmd
+bibliography: ../references.bib
+lang: id
+format:
+  revealjs:
+    theme: [simple, ../assets/slides.scss]
+    html-math-method: mathml
+    slide-number: c/t
+    show-slide-number: all
+    width: 1600
+    height: 900
+    margin: 0.055
+    center: false
+    transition: none
+    navigation-mode: linear
+    controls: true
+    progress: true
+    hash: true
+    history: true
+    preview-links: false
+    slide-level: 2
+    auto-stretch: false
+    embed-resources: true
+    notes: true
+    pdf-separate-fragments: false
+    mermaid-format: svg
+execute:
+  enabled: false

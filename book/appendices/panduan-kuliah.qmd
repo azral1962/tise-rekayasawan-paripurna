@@ -1,0 +1,54 @@
+# Panduan kuliah
+
+## Enam pertemuan
+
+Rancangan berikut merupakan usulan pengajaran. Durasi dapat disesuaikan dengan pengalaman peserta. Setiap pertemuan 90 menit dapat terdiri dari penjelasan visual 25 menit, pembacaan kasus 20 menit, kerja kelompok 30 menit, dan diskusi bukti 15 menit. Deck utama berisi 64 slide termasuk sampul dan rujukan.
+
+| Pertemuan | Bab | Slide | Tujuan | Aktivitas |
+|---|---|---|---|---|
+| 1 | 1–3 | 2–12 | Membedakan kegiatan dan metodologi | PICOC serta pemilihan DRM/DSRM |
+| 2 | 4–6 | 13–26 | Memodelkan TISE dan Q-Cycle | Peta peran dan ketertelusuran |
+| 3 | 7 | 27–33 | Menentukan lapisan kontribusi | Lima RQ untuk satu topik |
+| 4 | 8 | 34–40 | Menyatakan tahap dan bukti | Gerbang dari virtual ke pilot |
+| 5 | 9–11 | 41–50 | Menilai pemberdayaan serta profesi | Rancangan outcome kapabilitas |
+| 6 | 12–14 | 51–64 | Menyusun paket penelitian | Simulasi dan presentasi visual |
+
+## Capaian dan artefak belajar
+
+| Capaian | Artefak mahasiswa | Kriteria penilaian |
+|---|---|---|
+| Pertanyaan terarah | Tabel PICOC | Objek, intervensi, hasil, konteks jelas |
+| Justifikasi penelitian | Pilihan metodologi | Hubungan metode dan bukti |
+| Penalaran rekayasa | Matriks Q-Cycle | Ketertelusuran kebutuhan sampai uji |
+| Posisi kontribusi | Peta EASTF | Batas antarlapisan |
+| Evaluasi manusia | Protokol kapabilitas | Outcome dan waktu sesuai tujuan |
+| Komunikasi | Diagram, tabel, narasi | Ketepatan label serta klaim |
+
+## Pertanyaan pembuka diskusi
+
+1. Apakah artefak yang berhasil selalu merupakan hasil riset?
+2. Bukti apa membedakan demonstrasi dari evaluasi?
+3. Apakah teknologi yang lebih akurat selalu memperbaiki ekosistem?
+4. Apa yang harus diketahui sebelum maju dari model ke pilot?
+5. Bagaimana mengukur manusia semakin mampu menggunakan bantuan?
+6. Apa tanggung jawab rekayasawan setelah rilis?
+
+## Penggunaan deck
+
+Buka `reading/kuliah.html` untuk presentasi. Panah berpindah slide, `O` menampilkan overview, dan `S` membuka catatan pengajar. Catatan berisi tujuan slide, cara membaca visual, pertanyaan diskusi, serta rujukan. Speaker view paling andal melalui server lokal. Semua gambar utama tersedia sebagai SVG dan sumber Mermaid.
+
+## Penilaian tugas terpadu
+
+Rubrik berikut merupakan contoh, bukan ketentuan program studi.
+
+| Dimensi | Bobot contoh | Kriteria |
+|---|---:|---|
+| Masalah, misi, PICOC | 20% | Terarah dan didukung baseline |
+| Kontribusi serta metodologi | 20% | Klaim dan alasan yang dapat ditelaah |
+| Fungsi, arsitektur, ketertelusuran | 25% | Hubungan kebutuhan sampai bukti |
+| Kapabilitas dan keberlanjutan | 20% | Outcome serta batas yang nyata |
+| Visual dan komunikasi | 15% | Tepat, terbaca, sumber jelas |
+
+## Proyek akhir contoh
+
+Kelompok memilih satu layanan kampus. Mereka menyusun misi, lima pertanyaan EASTF, dan kontribusi utama. Mereka mengembangkan model serta rancangan pengujian, menilai tahap inovasi dan kematangan, kemudian mempresentasikan paket bukti. Realisasi penuh tidak diwajibkan pada tugas ini. Klaim disesuaikan dengan apa yang benar-benar dikerjakan.

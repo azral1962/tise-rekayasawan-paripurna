@@ -1,0 +1,59 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - assets
+book:
+  title: "Rekayasawan Paripurna"
+  subtitle: "TISE, riset, dan rekayasa yang cerdas serta mencerdaskan"
+  author: "Armein Z. R. Langi"
+  date: "2026-10-01"
+  chapters:
+    - index.qmd
+    - part: "Bahasa dan logika penelitian"
+      chapters:
+        - chapters/01-riset-desain-rekayasa.qmd
+        - chapters/02-metode-metodologi-picoc.qmd
+        - chapters/03-drm-dsrm.qmd
+    - part: "Kerangka TISE"
+      chapters:
+        - chapters/04-tise-triune.qmd
+        - chapters/05-misi-pskve-pudal.qmd
+        - chapters/06-q-cycle.qmd
+    - part: "Lapisan dan perwujudan inovasi"
+      chapters:
+        - chapters/07-eastf.qmd
+        - chapters/08-inovasi-kematangan.qmd
+        - chapters/09-cerdas-mencerdaskan.qmd
+        - chapters/10-versi-tise.qmd
+    - part: "Praktik rekayasawan paripurna"
+      chapters:
+        - chapters/11-profesi.qmd
+        - chapters/12-kasus-pangan.qmd
+        - chapters/13-rancangan-riset.qmd
+        - chapters/14-visual-tabel.qmd
+    - references.qmd
+  appendices:
+    - appendices/glosarium.qmd
+    - appendices/lembar-kerja.qmd
+    - appendices/panduan-kuliah.qmd
+    - appendices/kunci-latihan.qmd
+bibliography: ../references.bib
+lang: id
+format:
+  html:
+    theme: cosmo
+    html-math-method: mathml
+    css: ../assets/book.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-fold: true
+    fig-cap-location: bottom
+    tbl-cap-location: bottom
+    link-external-newwindow: true
+    mainfont: "DejaVu Sans"
+    fontsize: 1.02em
+execute:
+  enabled: false

@@ -1,0 +1,8 @@
+flowchart TB
+ M["Model, asumsi, parameter"] --> D["Representasi virtual"]
+ S["Skenario dan gangguan"] --> D
+ D --> B["Prediksi dan hasil uji"]
+ B --> R["Realisasi sasaran"]
+ R -->|Data dan kalibrasi| D
+ D -->|Rekomendasi| R
+ R --> M
