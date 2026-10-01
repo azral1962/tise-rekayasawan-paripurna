@@ -1,0 +1,60 @@
+title: ITB Quarto LaTeX
+author: ITB Quarto LaTeX contributors
+version: 0.1.0
+quarto-required: ">=1.4.0"
+
+contributes:
+  project:
+    project:
+      type: book
+      output-dir: _book
+    book:
+      output-file: thesis
+    format: itb-quarto-latex-pdf
+    lang: id
+    language:
+      section-title-appendices: "Lampiran"
+      toc-title-document: "Daftar Isi"
+      crossref-lof-title: "Daftar Gambar"
+      crossref-lot-title: "Daftar Tabel"
+      crossref-ch-prefix: "Bab"
+      crossref-apx-prefix: "Lampiran"
+      crossref-sec-prefix: "Bagian"
+      crossref-fig-title: "Gambar"
+      crossref-tbl-title: "Tabel"
+      crossref-eq-prefix: "Persamaan"
+
+  formats:
+    pdf:
+      documentclass: book
+      classoption:
+        - 12pt
+        - a4paper
+        - oneside
+        - openany
+      papersize: a4
+      pdf-engine: pdflatex
+      geometry:
+        - top=3cm
+        - bottom=2.5cm
+        - left=4cm
+        - right=2.5cm
+      toc: true
+      toc-depth: 3
+      lof: true
+      lot: true
+      number-sections: true
+      number-depth: 3
+      linestretch: 1.5
+      indent: false
+      colorlinks: false
+      keep-tex: true
+      fig-pos: htbp
+      tbl-pos: htbp
+      template-partials:
+        - partials/before-body.tex
+        - partials/toc.tex
+      include-in-header:
+        - preamble.tex
+      format-resources:
+        - cover-ganesha.jpg

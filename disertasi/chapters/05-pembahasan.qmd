@@ -1,0 +1,40 @@
+# Pembahasan
+
+Bab ini menafsirkan hasil, menjawab mengapa temuan terjadi, dan menjelaskan
+mengapa temuan tersebut penting.
+
+## Interpretasi Hasil
+
+Jelaskan makna hasil dan mekanisme yang mungkin menyebabkannya. Bedakan
+interpretasi yang didukung data dari spekulasi.
+
+## Keterkaitan dengan Pertanyaan Penelitian
+
+Hubungkan setiap temuan dengan pertanyaan penelitian atau hipotesis.
+
+| Pertanyaan/hipotesis | Bukti utama | Interpretasi | Status jawaban |
+|---|---|---|---|
+| PP1 | Rujuk hasil terkait | Tuliskan maknanya | Terjawab/sebagian/belum |
+| PP2 | Rujuk hasil terkait | Tuliskan maknanya | Terjawab/sebagian/belum |
+
+: Matriks keterlacakan pertanyaan, bukti, dan interpretasi {#tbl-keterlacakan}
+
+## Perbandingan dengan Penelitian Terdahulu
+
+Bahas kesesuaian, perbedaan, peningkatan, dan temuan tak terduga dibandingkan
+literatur. Jelaskan kemungkinan penyebab perbedaan.
+
+## Kontribusi Penelitian
+
+Nyatakan kontribusi berupa pengetahuan, metode, model, artefak atau sistem, atau
+bukti empiris baru. Tunjukkan hubungan kontribusi dengan kesenjangan penelitian.
+
+## Implikasi
+
+Uraikan implikasi teoretis, praktis, rekayasa, kebijakan, atau manajerial yang
+relevan. Hindari klaim yang melampaui data dan ruang lingkup penelitian.
+
+## Keterbatasan Temuan dan Ancaman Validitas
+
+Jelaskan kondisi keberlakuan kesimpulan, keterbatasan data atau metode, ancaman
+validitas, dan dampaknya terhadap generalisasi hasil.

@@ -1,0 +1,51 @@
+# Metodologi
+
+Bab ini menjelaskan bagaimana pertanyaan penelitian dijawab secara sistematis
+dan dapat direplikasi. Sesuaikan bagian yang digunakan dengan paradigma dan
+jenis penelitian.
+
+## Desain Penelitian
+
+Jelaskan paradigma dan pendekatan penelitian, misalnya eksperimen, kuantitatif,
+kualitatif, metode campuran, design science, atau perancangan rekayasa. Berikan
+alasan pemilihan desain.
+
+## Pengumpulan Data
+
+Uraikan sumber data, instrumen, prosedur pengumpulan, serta aspek etika atau
+perizinan yang relevan.
+
+## Populasi dan Sampel
+
+Nyatakan populasi, teknik sampling, ukuran sampel, serta kriteria inklusi dan
+eksklusi. Untuk penelitian tanpa sampel, jelaskan unit analisis atau objek uji.
+
+## Variabel dan Ukuran
+
+Definisikan variabel bebas dan terikat, indikator, metrik kinerja, serta
+definisi operasional yang digunakan.
+
+## Prosedur Penelitian
+
+Jelaskan tahapan eksperimen, pengembangan, atau implementasi secara berurutan.
+Untuk penelitian rekayasa, tahapan dapat dipetakan ke Q-Cycle.
+
+| Tahap Q-Cycle | Fokus | Bukti/luaran yang perlu disajikan |
+|---|---|---|
+| Q1 — Problem | Masalah dan kebutuhan | Bukti masalah, pemangku kepentingan, kriteria keberhasilan |
+| Q2 — Functional Analysis | Fungsi dan persyaratan | Kebutuhan fungsional/nonfungsional dan batas sistem |
+| Q3 — Architecture | Rancangan solusi | Alternatif, keputusan desain, arsitektur, model, atau prototipe |
+| Q4 — Construction & Evaluation | Implementasi dan evaluasi | Artefak, skenario uji, pengukuran, dan hasil validasi |
+
+: Pemetaan metodologi penelitian rekayasa ke Q-Cycle {#tbl-q-cycle}
+
+## Teknik Analisis Data
+
+Jelaskan teknik statistik, komputasional, kualitatif, simulasi, pembelajaran
+mesin, atau teknik analisis lain beserta alasan dan parameternya.
+
+## Validasi dan Evaluasi
+
+Tentukan kriteria evaluasi, benchmark atau baseline, prosedur validasi, dan
+ancaman terhadap validitas. Pastikan setiap kriteria dapat ditelusuri kembali
+ke tujuan atau pertanyaan penelitian.

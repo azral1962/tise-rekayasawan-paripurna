@@ -1,0 +1,35 @@
+# Hasil
+
+Bab ini menyajikan bukti dan temuan penelitian secara faktual. Simpan penafsiran
+mendalam dan alasan pentingnya temuan untuk Bab Pembahasan.
+
+## Data atau Hasil Eksperimen
+
+Laporkan observasi, pengukuran, keluaran eksperimen, atau hasil implementasi yang
+relevan dengan pertanyaan penelitian.
+
+## Penyajian Data
+
+Gunakan tabel, gambar, grafik, atau visualisasi yang paling tepat. Setiap elemen
+harus memiliki label, satuan, keterangan, dan rujukan dari teks.
+
+| Metrik | Baseline | Metode usulan | Perubahan |
+|---|---:|---:|---:|
+| Metrik 1 | 0,00 | 0,00 | 0,00% |
+| Metrik 2 | 0,00 | 0,00 | 0,00% |
+
+: Contoh penyajian hasil perbandingan {#tbl-hasil}
+
+## Hasil Analisis
+
+Sajikan hasil uji statistik, kinerja model, simulasi, analisis kualitatif, atau
+perbandingan sesuai teknik yang telah dijelaskan pada metodologi.
+
+## Temuan Utama
+
+Ringkas temuan yang paling penting. Bedakan hasil yang terukur dari interpretasi
+atau klaim kontribusi.
+
+1. Temuan utama pertama.
+2. Temuan utama kedua.
+3. Temuan utama ketiga jika diperlukan.

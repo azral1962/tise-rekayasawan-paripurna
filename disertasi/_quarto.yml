@@ -1,0 +1,90 @@
+project:
+  type: itb-quarto-latex
+
+book:
+  # Gunakan judul yang ringkas, informatif, dan mencerminkan masalah, metode,
+  # atau kontribusi utama penelitian.
+  title: "Judul Tugas Akhir, Tesis, atau Disertasi"
+  author:
+    - name: "Nama Lengkap Mahasiswa"
+  date: "September 2026"
+  output-file: "dokumen-itb"
+  chapters:
+    - index.qmd
+    - chapters/01-pendahuluan.qmd
+    - chapters/02-tinjauan-pustaka.qmd
+    - chapters/03-metodologi.qmd
+    - chapters/04-hasil.qmd
+    - chapters/05-pembahasan.qmd
+    - chapters/06-kesimpulan.qmd
+    - chapters/references.qmd
+  appendices:
+    - appendices/a-data-tambahan.qmd
+    - appendices/b-instrumen.qmd
+    - appendices/c-hasil-tambahan.qmd
+    - appendices/d-materi-teknis.qmd
+
+bibliography: references.bib
+
+# Metadata institusi dan mahasiswa yang digunakan oleh halaman awal.
+document-type: "Disertasi"
+degree-statement: "Disusun sebagai salah satu syarat untuk memperoleh gelar"
+degree: "Doktor"
+student-id: "13500000"
+study-program: "Program Studi Doktor Teknik Elektro dan Informatika"
+school: "Sekolah Teknik Elektro dan Informatika"
+university: "Institut Teknologi Bandung"
+city: "Bandung"
+cover-date: "September 2026"
+approval-date: "1 September 2026"
+statement-date: "1 September 2026"
+
+supervisors:
+  - role: "Pembimbing I"
+    name: "Nama dan Gelar Pembimbing I"
+    nip: "123456789"
+  - role: "Pembimbing II"
+    name: "Nama dan Gelar Pembimbing II"
+    nip: "123456789"
+
+abstract-id: |
+  Tuliskan abstrak Bahasa Indonesia dalam satu uraian ringkas yang mencakup
+  konteks, masalah penelitian, tujuan, metode, hasil utama, serta kesimpulan
+  atau kontribusi penelitian.
+
+keywords-id:
+  # Cantumkan 4–7 istilah yang paling mewakili penelitian.
+  - kata kunci pertama
+  - kata kunci kedua
+  - kata kunci ketiga
+  - kata kunci keempat
+
+abstract-en: |
+  Write the English abstract as one concise account of the context, research
+  problem, objective, method, main results, and conclusion or contribution.
+
+keywords-en:
+  # Use 4–7 terms that best represent the study.
+  - first keyword
+  - second keyword
+  - third keyword
+  - fourth keyword
+
+acknowledgements: |
+  Tuliskan kata pengantar dan ucapan terima kasih di sini.
+
+format:
+  itb-quarto-latex-pdf:
+    keep-tex: true
+
+crossref:
+  fig-title: "Gambar"
+  tbl-title: "Tabel"
+  eq-prefix: "Persamaan"
+  sec-prefix: "Bagian"
+  appendix-title: "Lampiran"
+  appendix-delim: " —"
+
+execute:
+  echo: false
+  warning: false

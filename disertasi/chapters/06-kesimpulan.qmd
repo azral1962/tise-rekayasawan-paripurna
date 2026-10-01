@@ -1,0 +1,35 @@
+# Kesimpulan
+
+## Ringkasan Temuan
+
+Sintesis secara ringkas hasil terpenting tanpa mengulang seluruh pembahasan atau
+memperkenalkan data baru.
+
+## Jawaban atas Pertanyaan Penelitian
+
+Jawab setiap pertanyaan penelitian secara langsung dan berdasarkan bukti yang
+telah disajikan.
+
+- **PP1:** Tuliskan jawaban ringkas.
+- **PP2:** Tuliskan jawaban ringkas.
+- **PP3:** Tuliskan jawaban ringkas jika digunakan.
+
+## Kontribusi Utama
+
+Nyatakan secara eksplisit pengetahuan, metode, model, artefak, atau bukti empiris
+yang baru dari penelitian.
+
+## Signifikansi
+
+Jelaskan arti penting kontribusi bagi teori, praktik, rekayasa, kebijakan, atau
+pengelolaan sesuai konteks penelitian.
+
+## Pekerjaan Selanjutnya
+
+Jelaskan masalah yang masih terbuka, perbaikan yang mungkin dilakukan, dan arah
+penelitian berikutnya berdasarkan keterbatasan yang telah dibahas.
+
+## Pernyataan Penutup
+
+Akhiri dengan pernyataan kuat yang menghubungkan kontribusi penelitian kembali
+ke masalah awal.

@@ -1,0 +1,358 @@
+Below is a research article outline derived directly from the anatomy in your image. It can serve as a template for writing a paper, thesis chapter, or extended research report.
+
+# Research Article Outline
+
+## A. Front Matter
+
+### 1. Title and Abstract
+
+**1.1 Title**
+
+* Clear, concise, and informative
+* Reflects the main problem, method, and/or contribution
+
+**1.2 Abstract**
+
+* Background/context
+* Research problem
+* Objective
+* Method
+* Main results
+* Main conclusion/contribution
+
+**1.3 Keywords**
+
+* 4–7 important terms representing the study
+
+---
+
+### 2. Introduction
+
+**2.1 Background**
+
+* General context of the research
+* Importance of the topic
+* Practical or theoretical motivation
+
+**2.2 Problem Statement**
+
+* What problem exists?
+* Why is the problem important?
+* Who is affected by the problem?
+
+**2.3 Research Gap**
+
+* What is missing from existing knowledge or existing solutions?
+* What limitation remains unresolved?
+
+**2.4 Research Objectives**
+
+* Overall objective
+* Specific objectives
+
+**2.5 Research Questions / Hypotheses**
+
+* RQ1: …
+* RQ2: …
+* RQ3: …
+* Hypotheses, if applicable
+
+---
+
+### 3. Literature Review
+
+**3.1 Theoretical Background**
+
+* Relevant theories
+* Concepts
+* Models/frameworks
+* Definitions of key terms
+
+**3.2 Previous Studies**
+
+* Major related research
+* Important approaches or methods
+* Existing solutions
+
+**3.3 Key Findings from Literature**
+
+* What is already known?
+* What approaches have worked?
+* What limitations have been identified?
+
+**3.4 Research Gap**
+
+* Unresolved problem
+* Limitations of previous studies
+* Opportunity for the present research
+
+**3.5 Position of the Present Study**
+
+* How this research differs
+* Expected novelty or contribution
+
+---
+
+### 4. Methodology
+
+**4.1 Research Design**
+
+* Research paradigm
+* Research approach
+* Experimental, quantitative, qualitative, mixed-method, design science, engineering design, etc.
+
+**4.2 Data Collection**
+
+* Data sources
+* Instruments
+* Procedures
+
+**4.3 Sample / Population**
+
+* Population
+* Sampling method
+* Sample size
+* Inclusion/exclusion criteria
+
+**4.4 Variables and Measures**
+
+* Independent variables
+* Dependent variables
+* Indicators
+* Performance measures
+* Operational definitions
+
+**4.5 Research Procedure**
+
+* Stages of the research
+* Experimental or development workflow
+* System implementation, if applicable
+
+**4.6 Data Analysis Techniques**
+
+* Statistical analysis
+* Computational methods
+* Qualitative analysis
+* Simulation
+* Machine learning or other analytical techniques
+
+**4.7 Validation / Evaluation**
+
+* Evaluation criteria
+* Benchmark
+* Baseline
+* Validation procedure
+
+---
+
+### 5. Scope and Limitations
+
+**5.1 Scope of the Study**
+
+* Research boundaries
+* Objects being studied
+* Context/domain
+* Time period
+* System boundaries
+
+**5.2 Limitations**
+
+* Data limitations
+* Methodological limitations
+* Technical limitations
+* Generalizability
+
+**5.3 Assumptions**
+
+* Assumptions used in models
+* Environmental assumptions
+* Operational assumptions
+
+---
+
+# B. Core Content
+
+## 6. Results
+
+**6.1 Data / Experimental Results**
+
+* Main observations
+* Measurements
+* Experimental outcomes
+
+**6.2 Data Presentation**
+
+* Tables
+* Figures
+* Charts
+* Graphs
+* Visualizations
+
+**6.3 Analysis Results**
+
+* Statistical results
+* Model performance
+* Simulation results
+* Comparative results
+
+**6.4 Key Findings**
+
+* Finding 1
+* Finding 2
+* Finding 3
+* Other significant findings
+
+The Results section should primarily answer:
+
+> **What did the research find?**
+
+---
+
+## 7. Discussion
+
+**7.1 Interpretation of Results**
+
+* What do the results mean?
+* Why did these results occur?
+
+**7.2 Relationship to Research Questions**
+
+* RQ1 → interpretation
+* RQ2 → interpretation
+* RQ3 → interpretation
+
+**7.3 Comparison with Previous Studies**
+
+* Agreements
+* Differences
+* Improvements
+* Unexpected findings
+
+**7.4 Explanation of Contributions**
+
+* New knowledge
+* New method
+* New model
+* New artefact/system
+* New empirical evidence
+
+**7.5 Implications**
+
+* Theoretical implications
+* Practical implications
+* Engineering implications
+* Policy or managerial implications
+
+**7.6 Limitations of the Findings**
+
+* Conditions under which conclusions remain valid
+* Possible threats to validity
+
+The Discussion should primarily answer:
+
+> **So what do these findings mean, and why do they matter?**
+
+---
+
+## 8. Conclusion
+
+**8.1 Summary of Findings**
+
+* Brief synthesis of the most important results
+
+**8.2 Answers to Research Questions**
+
+* Answer RQ1
+* Answer RQ2
+* Answer RQ3
+
+**8.3 Main Contribution**
+
+* State explicitly what is new
+
+**8.4 Practical/Theoretical Significance**
+
+* Why the contribution matters
+
+**8.5 Future Work**
+
+* Remaining problems
+* Possible improvements
+* Next research direction
+
+**8.6 Final Statement**
+
+* Strong closing statement connecting the research back to the original problem
+
+---
+
+# C. Back Matter
+
+## 9. References
+
+* Include all cited sources
+* Use one consistent citation style
+* Prioritize relevant and authoritative sources
+* Include recent literature where appropriate
+* Ensure every in-text citation appears in the reference list
+
+---
+
+## 10. Appendices
+
+### Appendix A. Supplementary Data
+
+* Additional datasets
+* Detailed measurements
+
+### Appendix B. Instruments
+
+* Questionnaires
+* Interview protocols
+* Survey forms
+
+### Appendix C. Additional Results
+
+* Extra tables
+* Additional charts
+* Detailed statistical outputs
+
+### Appendix D. Technical Material
+
+For engineering/computational research:
+
+* Algorithms
+* Source-code excerpts
+* System configuration
+* Mathematical derivations
+* Experimental parameters
+
+---
+
+A useful way to see the **logical flow** behind this anatomy is:
+
+**Problem → Gap → Question → Method → Evidence → Finding → Interpretation → Contribution**
+
+or more explicitly:
+
+**Background**
+↓
+**Problem**
+↓
+**Existing Knowledge**
+↓
+**Research Gap**
+↓
+**Research Questions / Objectives**
+↓
+**Methodology**
+↓
+**Results**
+↓
+**Discussion**
+↓
+**Contribution**
+↓
+**Conclusion**
+
+For an **engineering/TISE research paper**, this anatomy can be strengthened further by mapping it onto the **Q-Cycle: Q1 Problem → Q2 Functional Analysis → Q3 Architecture → Q4 Construction & Evaluation**. That gives a particularly strong outline for thesis, dissertation, and engineering journal papers.

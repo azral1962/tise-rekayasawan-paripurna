@@ -1,0 +1,60 @@
+# Pendahuluan
+
+Bab ini membangun alur dari konteks umum menuju masalah, kesenjangan penelitian,
+tujuan, dan pertanyaan yang akan dijawab. Pastikan setiap bagian terhubung dan
+tidak sekadar berdiri sebagai daftar informasi.
+
+## Latar Belakang
+
+Jelaskan konteks umum penelitian, pentingnya topik, serta motivasi praktis atau
+teoretisnya. Gunakan bukti dan sumber yang relevan untuk menunjukkan mengapa
+topik perlu diteliti.
+
+## Rumusan Masalah
+
+Nyatakan masalah yang benar-benar ada, alasan masalah tersebut penting, dan
+pihak yang terdampak. Bedakan masalah penelitian dari gejala atau solusi yang
+sudah dipilih.
+
+## Kesenjangan Penelitian
+
+Jelaskan apa yang belum diketahui atau belum dapat diselesaikan oleh teori,
+penelitian, maupun solusi yang ada. Kesenjangan ini menjadi dasar perlunya
+penelitian dilakukan.
+
+## Tujuan Penelitian
+
+### Tujuan Umum
+
+Nyatakan hasil utama yang hendak dicapai dan hubungkan langsung dengan masalah
+penelitian.
+
+### Tujuan Khusus
+
+Uraikan sasaran yang spesifik dan terukur sebagai tahapan untuk mencapai tujuan
+umum.
+
+## Pertanyaan Penelitian atau Hipotesis
+
+Tuliskan pertanyaan penelitian yang dapat dijawab melalui metode dan bukti yang
+disajikan pada bab berikutnya. Jika penelitian menguji hubungan atau pengaruh,
+nyatakan hipotesis yang akan diuji.
+
+- **PP1:** Tuliskan pertanyaan penelitian pertama.
+- **PP2:** Tuliskan pertanyaan penelitian kedua.
+- **PP3:** Tuliskan pertanyaan penelitian ketiga jika diperlukan.
+
+## Ruang Lingkup dan Batasan
+
+Tentukan objek yang diteliti, konteks atau domain, periode, serta batas sistem.
+Jelaskan juga keterbatasan data, metode, teknis, dan daya generalisasi hasil.
+
+## Asumsi
+
+Nyatakan asumsi model, lingkungan, atau operasi yang membatasi keberlakuan
+penelitian.
+
+## Sistematika Pembahasan
+
+Ringkas peran setiap bab dalam alur masalah, metode, bukti, temuan,
+interpretasi, kontribusi, dan kesimpulan.

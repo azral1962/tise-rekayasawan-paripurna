@@ -1,0 +1,5 @@
+# Materi Teknis
+
+Sertakan algoritma, cuplikan kode yang esensial, konfigurasi sistem, derivasi
+matematis, parameter eksperimen, atau rincian kasus uji yang terlalu panjang
+untuk ditempatkan dalam isi utama.

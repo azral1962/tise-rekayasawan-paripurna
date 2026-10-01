@@ -1,0 +1,4 @@
+# Data Tambahan
+
+Sertakan dataset tambahan, rincian pengukuran, kamus data, atau informasi
+pendukung yang diperlukan untuk transparansi dan replikasi penelitian.

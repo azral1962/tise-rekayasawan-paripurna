@@ -1,0 +1,5 @@
+# Hasil Tambahan
+
+Sertakan tabel lengkap, grafik tambahan, keluaran statistik terperinci, atau
+hasil analisis sekunder yang mendukung isi utama tetapi terlalu panjang untuk
+ditempatkan pada Bab Hasil.
